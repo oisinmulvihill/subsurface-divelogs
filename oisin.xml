@@ -1717,7 +1717,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <buddy>Yoke Wong</buddy>
   <notes>This dive contains three caves in a reef wall. The current was very strong, the strongest I've experienced so far. Had to haul myself down the shot line. There were lots of fish hidding in nooks and crannies in the reef. We saw trumpet fish, red snappers, angel fish, conger eel.  DM brought us back to shot line, however not directly after we indicated 100 and then 50 bar. This resulted in Yoke have to buddy breath at 5m. I was down to 20bar. The current got stronger while trying to hold 3min stop at 5min. The shot line snapped and we were whisked to the surface. The DM said these were the worst conditions he'd seen in years. Stressful dive with terrible visibility. I was quite unhappy with DM as we should have started back earlier or came up and not got to the air sharing situation.</notes>
   <suit>5mm wetsuit</suit>
-  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='210.0 bar' end='20.0 bar' />
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='20.0 bar' />
   <weightsystem weight='8.0 kg' description='belt' />
   <divetemperature air='25.0 C'/>
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff'>
@@ -2160,7 +2160,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <buddy>Yoke Wong</buddy>
   <notes>Much calmer dive with a smaller current. Dived down the shot line to 20m. The visibility wasn't much better. We swam the reef overhang at the bottom. Lots of fish were hiding in cracks. Got a great shot of a nudibranch with the aid of the DM's LED torch. We ascended to 15m to swim a long the top of reef and back towards the shot line. I was still too low on air getting to the surface then I would have liked.</notes>
   <suit>5mm wetsuit</suit>
-  <cylinder size='15.0 l' workpressure='200.0 bar' description='15L 200 bar' start='210.0 bar' end='30.0 bar' />
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='30.0 bar' />
   <weightsystem weight='6.0 kg' description='belt' />
   <divetemperature air='26.0 C'/>
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='20edaefd'>
@@ -2729,14 +2729,14 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='46:45 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='9' rating='2' visibility='2' date='2013-06-04' time='11:22:00' duration='40:00 min'>
+<dive number='9' rating='2' visibility='2' date='2013-06-04' time='09:22:00' duration='40:00 min'>
   <location>Lost Anchor, Sal, Cape Verde.</location>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
-  <cylinder o2='32.0%' />
-  <cylinder o2='32.0%' />
-  <cylinder o2='50.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='70a2f3dc'>
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='50.0 bar' />
+  <weightsystem weight='8.0 kg' description='belt' />
+  <divetemperature air='25.0 C'/>
+  <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='70a2f3dc' date='2013-06-04' time='11:22:00'>
   <depth max='22.1 m' mean='17.196 m' />
   <temperature water='22.6 C' />
   <sample time='0:05 min' depth='1.7 m' temp='25.2 C' />
@@ -3256,12 +3256,14 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='42:55 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='10' rating='3' visibility='2' date='2013-06-04' time='13:23:00' duration='50:20 min'>
+<dive number='10' rating='3' visibility='2' date='2013-06-04' time='11:23:00' duration='50:20 min'>
+  <location>3 Caves, Cape Verde.</location>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
-  <cylinder size='15.0 l' workpressure='200.0 bar' description='15L 200 bar' start='210.0 bar' end='50.0 bar' />
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='50.0 bar' />
+  <weightsystem weight='8.0 kg' description='belt' />
   <divetemperature air='26.0 C'/>
-  <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='5cfed2c2'>
+  <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='5cfed2c2' date='2013-06-04' time='13:23:00'>
   <depth max='16.7 m' mean='10.333 m' />
   <temperature water='21.9 C' />
   <sample time='0:05 min' depth='3.5 m' temp='25.8 C' />
@@ -3904,11 +3906,14 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='53:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='11' rating='4' visibility='3' date='2013-06-04' time='16:59:00' duration='35:45 min'>
+<dive number='11' rating='4' visibility='3' date='2013-06-04' time='15:00:00' duration='35:45 min'>
+  <location>Kwarcit Wreck (Boris), Cape Verde</location>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
-  <cylinder size='15.0 l' workpressure='200.0 bar' description='15L 200 bar' />
-  <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff'>
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='50.0 bar' />
+  <weightsystem weight='8.0 kg' description='belt' />
+  <divetemperature air='28.0 C'/>
+  <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff' date='2013-06-04' time='16:59:00'>
   <depth max='28.0 m' mean='19.249 m' />
   <temperature water='21.7 C' />
   <sample time='0:05 min' depth='2.4 m' temp='28.4 C' />
@@ -4377,11 +4382,14 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='38:40 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='12' rating='2' visibility='2' date='2013-06-05' time='11:15:00' duration='43:20 min'>
+<dive number='12' rating='2' visibility='2' date='2013-06-05' time='09:15:00' duration='43:20 min'>
+  <location>Fanol Fundo, Cape Verde</location>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
-  <cylinder size='15.0 l' workpressure='200.0 bar' description='15L 200 bar' />
-  <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff'>
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='60.0 bar' />
+  <weightsystem weight='8.0 kg' description='belt' />
+  <divetemperature air='25.0 C'/>
+  <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff' date='2013-06-05' time='11:15:00'>
   <depth max='17.8 m' mean='12.355 m' />
   <temperature water='22.6 C' />
   <sample time='0:05 min' depth='2.4 m' temp='24.5 C' />
@@ -4941,12 +4949,14 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='46:15 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='13' rating='3' visibility='3' date='2013-06-05' time='12:49:00' duration='55:55 min'>
+<dive number='13' rating='3' visibility='3' date='2013-06-05' time='10:49:00' duration='55:55 min'>
+  <location>Santo Antao Wreck, Cape Verde</location>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
-  <cylinder size='15.0 l' workpressure='200.0 bar' description='15L 200 bar' />
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='60.0 bar' />
   <weightsystem weight='8.0 kg' description='belt' />
-  <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='09518102'>
+  <divetemperature air='26.0 C'/>
+  <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='09518102' date='2013-06-05' time='12:49:00'>
   <depth max='10.1 m' mean='8.709 m' />
   <temperature water='23.0 C' />
   <sample time='0:05 min' depth='1.5 m' temp='26.0 C' />
@@ -5660,11 +5670,12 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='14' rating='4' visibility='4' date='2013-12-28' time='11:31:00' duration='48:30 min'>
-  <location>Gota Abu Ramada</location>
+  <location gps='16.557074 45.488421'>Gota Abu Ramada, Red Sea, Egypt.</location>
   <divemaster>Jose Aguarod</divemaster>
   <buddy>Hugh Guidera</buddy>
   <suit>5mm wetsuit</suit>
-  <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='60.0 bar' />
+  <weightsystem weight='10.0 kg' description='belt' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff' date='2013-12-28' time='10:31:00'>
   <depth max='12.2 m' mean='8.674 m' />
   <temperature air='25.0 C' water='23.8 C' />
@@ -6290,11 +6301,12 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='15' rating='4' visibility='3' date='2013-12-28' time='15:34:00' duration='37:20 min'>
-  <location gps='16.557074 45.488421'>Gota Abu Ramada</location>
+  <location gps='16.557074 45.488421'>Gota Abu Ramada, Red Sea, Egypt.</location>
   <divemaster>Jose</divemaster>
   <buddy>Hugh Guidera</buddy>
   <suit>5mm wetsuit</suit>
-  <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='60.0 bar' />
+  <weightsystem weight='10.0 kg' description='belt' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff' date='2013-12-28' time='14:34:00'>
   <depth max='11.9 m' mean='7.804 m' />
   <temperature air='25.0 C' water='24.5 C' />
@@ -6786,11 +6798,12 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='16' rating='3' visibility='3' date='2013-12-29' time='07:28:00' duration='31:35 min'>
-  <location>Big Brother</location>
+  <location>Big Brother, Red Sea, Egypt.</location>
   <divemaster>Albert Peirot</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
-  <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='50.0 bar' />
+  <weightsystem weight='10.0 kg' description='belt' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='2c105735' date='2013-12-29' time='06:28:00'>
   <depth max='32.2 m' mean='19.276 m' />
   <temperature air='24.0 C' water='22.7 C' />
@@ -7211,8 +7224,13 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='34:25 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='17' date='2013-12-29' time='10:20:00' duration='37:30 min'>
-  <location>big brother, reef</location>
+<dive number='17' rating='4' visibility='4' date='2013-12-29' time='10:20:00' duration='37:30 min'>
+  <location>Big Brother Reef, Red Sea, Egypt.</location>
+  <buddy>Yoke Wong</buddy>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='50.0 bar' />
+  <weightsystem weight='10.0 kg' description='belt' />
+  <divetemperature air='27.0 C'/>
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='684e471f'>
   <depth max='26.0 m' mean='15.705 m' />
   <temperature water='24.1 C' />
@@ -7705,7 +7723,8 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='18' date='2013-12-30' time='06:23:00' duration='34:10 min'>
-  <location>Big Brother, reef</location>
+  <location>Big Brother Reef, Red Sea, Egypt.</location>
+  <cylinder size='15.0 l' workpressure='200.0 bar' description='15L 200 bar' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='64ab8f34'>
   <depth max='29.9 m' mean='18.591 m' />
   <temperature water='23.5 C' />
@@ -8159,7 +8178,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='19' date='2013-12-30' time='10:23:00' duration='31:30 min'>
-  <location>Little Brother, reef</location>
+  <location>Little Brother, Reef, Red Sea, Egypt.</location>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='31.0%' start='210.0 bar' end='50.0 bar' />
   <weightsystem weight='10.0 kg' description='belt' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff'>
@@ -8583,12 +8602,12 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='20' rating='3' visibility='3' date='2013-12-30' time='14:30:00' duration='30:55 min'>
-  <location>Little Brother, Killing Area 40m+</location>
+  <location>Little Brother, Killing Station, Red Sea, Egypt.</location>
   <divemaster>Jose Aguarod</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>We were going to see the where thresher and other sharks eat. This meant wait around at 25-30m to see if any would show up. It was dark and cold</notes>
   <suit>5mm wetsuit</suit>
-  <cylinder size='15.0 l' workpressure='232.0 bar' description='15l 23' o2='24.0%' start='210.0 bar' end='50.0 bar' />
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='24.0%' start='210.0 bar' end='50.0 bar' />
   <weightsystem weight='10.0 kg' description='belt' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff'>
   <depth max='29.1 m' mean='18.825 m' />
@@ -9004,7 +9023,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='21' rating='4' visibility='3' date='2013-12-31' time='07:35:00' duration='33:40 min'>
-  <location>Little Brother, Cleaning Station</location>
+  <location>Little Brother, Cleaning Station, Red Sea, Egypt.</location>
   <divemaster>Mohamad</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Saw thresher shark and accidentally decensed to 38m while filming with gopro...</notes>
@@ -9457,7 +9476,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='22' rating='4' visibility='5' date='2013-12-31' time='10:22:00' duration='41:20 min'>
-  <location>Little Brother, reef on south side.</location>
+  <location>Little Brother, Reef on south side, Red Sea, Egypt.</location>
   <divemaster>Yoke Wong</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Jumped from the boat dive platform. Followed line to reef. Went along until ~120bar with reef on right hand side. The headed back and moved up to ~10m. Did 3@5m while watching the "cleaning station" action near on of the mooring lines the boat used.</notes>
@@ -10003,7 +10022,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='23' rating='4' visibility='3' date='2013-12-31' time='14:42:00' duration='27:20 min'>
-  <location>Big Brother, Numida.</location>
+  <location>Big Brother, Numida, Red Sea, Egypt.</location>
   <divemaster>Jose Aguarod</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>GoPro rollback, numida wreck, yoke free flow, yoke buddy breath, nice coral and fish on wreck super structure.</notes>
@@ -10381,7 +10400,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='24' rating='4' visibility='3' date='2014-01-01' time='06:48:00' duration='33:45 min'>
-  <location>Salam Express, Red Sea</location>
+  <location>Salam Express Wreck, Red Sea, Egypt.</location>
   <divemaster>Jose Aguarod</divemaster>
   <buddy>Dave Wallace</buddy>
   <notes>Dived down at rear. Saw big open rear doors. didn't go in. swam around the "top deck" to the front then up partially open front bow. Continued up the side and finished at the shot line with 3@5m.</notes>
@@ -10860,7 +10879,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='25' rating='4' visibility='3' date='2014-01-01' time='10:55:00' duration='43:15 min'>
-  <location>abu ras soma</location>
+  <location>Abu Ras Soma, Red Sea, Egypt.</location>
   <cylinder o2='24.0%' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff'>
   <depth max='17.7 m' mean='11.605 m' />
@@ -11424,7 +11443,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='26' rating='4' visibility='4' date='2014-01-01' time='14:36:00' duration='52:35 min'>
-  <location>tobia arba</location>
+  <location>Tobia Arbia, Red Sea, Egypt.</location>
   <cylinder o2='24.0%' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff'>
   <depth max='11.8 m' mean='9.789 m' />
@@ -12100,7 +12119,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='27' rating='4' visibility='3' date='2014-01-01' time='17:48:00' duration='46:40 min'>
-  <location>tobia arba</location>
+  <location>Tobia Arbia, Red Sea, Egypt.</location>
   <cylinder o2='22.0%' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff'>
   <depth max='12.9 m' mean='9.19 m' />
@@ -12707,7 +12726,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='28' rating='3' visibility='3' date='2014-01-02' time='07:28:00' duration='52:55 min'>
-  <location>Small giften island</location>
+  <location>Small Giften Island, Red Sea, Egypt.</location>
   <cylinder o2='22.0%' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='2525111a'>
   <depth max='25.0 m' mean='14.097 m' />
@@ -13387,7 +13406,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='44' rating='4' visibility='4' date='2014-01-02' time='10:59:00' duration='46:55 min'>
-  <location>small giften island, three stacks in the water.</location>
+  <location>Small Giften Island, Three stacks in the water, Red Sea, Egypt.</location>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='220.0 bar' end='50.0 bar' />
@@ -14010,7 +14029,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='45' rating='2' visibility='1' date='2014-03-15' time='12:59:00' duration='22:35 min'>
-  <location gps='52.543341 -1.273439'>Stoney Cove</location>
+  <location gps='52.543341 -1.273439'>Stoney Cove, Lecister, UK.</location>
   <buddy>Richard (Dicky) Labrum</buddy>
   <notes>This was a training dive for Sports Diver course. The first dive involved navigating by compass and doing a reciprocal route. I then put up the DSMB and we then pottered about. It was very poor visibility. It was my first time diving with the dive knife. One strap came loose. Dicky managed to save it from getting lost. Things nearly went pear shapped as air ran to my feet trying to remove the knife's remaining strap to my leg while I tried to hold on to the DSMB. We got it sorted out in the end.</notes>
   <suit>O3 Dry Suit</suit>
@@ -14328,7 +14347,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   </divecomputer>
 </dive>
 <dive number='31' rating='2' visibility='1' date='2014-03-15' time='14:51:00' duration='7:25 min'>
-  <location gps='52.543372 -1.273684'>Stoney Cove</location>
+  <location gps='52.543372 -1.273684'>Stoney Cove, Lecister, UK.</location>
   <buddy>Richard (Dicky) Labrum</buddy>
   <notes>This was a quick dive to practive swimming with a distance line. 20 strokes out and back. The I had to do a CBL (Control Boyant Lift) practice on Dicky. Once reaching the surface I then had to do rescue breathing and towing back to shore. Dicky kindly help on to his own mask rather then have it lost.</notes>
   <suit>O3 Dry Suit</suit>
