@@ -4,151 +4,211 @@
 <divecomputerid model='Mares Puck Pro' deviceid='7fffffff' nickname='Yoke&apos;s Mares Puck Pro (948416f2)'/>
 </settings>
 <dives>
-<dive number='1' rating='1' visibility='5' date='2013-04-03' time='19:22:00' duration='4:25 min'>
-  <location gps='51.504380 -0.087311'>Guys Hospital Pool</location>
-  <notes>Dive Computer Pool Test.</notes>
+<dive rating='2' visibility='2' date='2012-05-26' time='11:00:00' duration='42:00 min'>
+  <location gps='51.450716 -0.549230'>Padi Open Water 1, Wraysbury.</location>
+  <buddy>Yoke Wong</buddy>
+  <notes>First open water dive with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).</notes>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='90.0 bar' />
+  <weightsystem weight='6.0 kg' description='belt' />
   <divetemperature air='29.0 C'/>
-  <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='0209c219'>
-  <depth max='2.9 m' mean='1.253 m' />
-  <temperature water='27.1 C' />
-  <sample time='0:05 min' depth='2.9 m' temp='28.9 C' />
-  <sample time='0:10 min' depth='2.9 m' />
-  <sample time='0:15 min' depth='2.9 m' />
-  <sample time='0:20 min' depth='2.9 m' />
-  <sample time='0:25 min' depth='2.9 m' />
-  <sample time='0:30 min' depth='2.9 m' />
-  <sample time='0:35 min' depth='2.9 m' />
-  <sample time='0:40 min' depth='2.9 m' />
-  <sample time='0:45 min' depth='2.9 m' />
-  <sample time='0:50 min' depth='2.9 m' />
-  <sample time='0:55 min' depth='1.6 m' />
-  <sample time='1:00 min' depth='0.0 m' />
-  <sample time='1:05 min' depth='0.0 m' temp='28.8 C' />
-  <sample time='1:10 min' depth='0.0 m' />
-  <sample time='1:15 min' depth='0.0 m' temp='28.7 C' />
-  <sample time='1:20 min' depth='0.0 m' />
-  <sample time='1:25 min' depth='0.0 m' temp='28.6 C' />
-  <sample time='1:30 min' depth='0.7 m' />
-  <sample time='1:35 min' depth='0.9 m' temp='28.7 C' />
-  <sample time='1:40 min' depth='0.9 m' temp='28.8 C' />
-  <sample time='1:45 min' depth='0.7 m' />
-  <sample time='1:50 min' depth='0.7 m' />
-  <sample time='1:55 min' depth='0.8 m' />
-  <sample time='2:00 min' depth='0.7 m' />
-  <sample time='2:05 min' depth='0.8 m' temp='28.9 C' />
-  <sample time='2:10 min' depth='0.7 m' />
-  <sample time='2:15 min' depth='0.8 m' />
-  <sample time='2:20 min' depth='0.9 m' />
-  <sample time='2:25 min' depth='0.8 m' />
-  <sample time='2:30 min' depth='0.8 m' />
-  <sample time='2:35 min' depth='0.7 m' />
-  <sample time='2:40 min' depth='0.7 m' />
-  <sample time='2:45 min' depth='0.8 m' temp='29.0 C' />
-  <sample time='2:50 min' depth='0.7 m' />
-  <sample time='2:55 min' depth='0.8 m' />
-  <sample time='3:00 min' depth='0.8 m' />
-  <sample time='3:05 min' depth='0.8 m' />
-  <sample time='3:10 min' depth='0.8 m' />
-  <sample time='3:15 min' depth='0.8 m' />
-  <sample time='3:20 min' depth='0.9 m' />
-  <sample time='3:25 min' depth='1.5 m' temp='28.9 C' />
-  <sample time='3:30 min' depth='1.5 m' />
-  <sample time='3:35 min' depth='1.2 m' />
-  <sample time='3:40 min' depth='0.8 m' />
-  <sample time='3:45 min' depth='0.7 m' />
-  <sample time='3:50 min' depth='0.4 m' />
-  <sample time='3:55 min' depth='0.5 m' />
-  <sample time='4:00 min' depth='0.5 m' temp='29.0 C' />
-  <sample time='4:05 min' depth='0.5 m' />
-  <sample time='4:10 min' depth='0.4 m' />
-  <sample time='4:15 min' depth='0.3 m' />
-  <sample time='4:20 min' depth='0.3 m' temp='28.9 C' />
-  <sample time='4:25 min' depth='0.3 m' />
-  <sample time='4:30 min' depth='0.4 m' />
-  <sample time='4:35 min' depth='0.7 m' />
-  <sample time='4:40 min' depth='0.5 m' />
-  <sample time='4:45 min' depth='0.4 m' />
-  <sample time='4:50 min' depth='0.4 m' />
-  <sample time='4:55 min' depth='0.5 m' />
-  <sample time='5:00 min' depth='0.4 m' />
-  <sample time='5:05 min' depth='0.7 m' />
-  <sample time='5:10 min' depth='0.8 m' />
-  <sample time='5:15 min' depth='1.0 m' />
-  <sample time='5:20 min' depth='1.1 m' />
-  <sample time='5:25 min' depth='1.1 m' />
-  <sample time='5:30 min' depth='0.3 m' />
-  <sample time='5:35 min' depth='0.4 m' />
-  <sample time='5:40 min' depth='0.5 m' temp='29.0 C' />
-  <sample time='5:45 min' depth='0.6 m' />
-  <sample time='5:50 min' depth='0.4 m' />
-  <sample time='5:55 min' depth='0.3 m' />
-  <sample time='6:00 min' depth='0.4 m' temp='28.9 C' />
-  <sample time='6:05 min' depth='0.2 m' />
-  <sample time='6:10 min' depth='0.3 m' />
-  <sample time='6:15 min' depth='0.6 m' />
-  <sample time='6:20 min' depth='0.5 m' />
-  <sample time='6:25 min' depth='0.5 m' />
-  <sample time='6:30 min' depth='0.6 m' />
-  <sample time='6:35 min' depth='0.4 m' />
-  <sample time='6:40 min' depth='0.3 m' />
-  <sample time='6:45 min' depth='1.1 m' />
-  <sample time='6:50 min' depth='1.3 m' />
-  <sample time='6:55 min' depth='1.1 m' />
-  <sample time='7:00 min' depth='0.3 m' temp='29.0 C' />
-  <sample time='7:05 min' depth='0.3 m' />
-  <sample time='7:10 min' depth='0.3 m' />
-  <sample time='7:15 min' depth='0.4 m' temp='28.9 C' />
-  <sample time='7:20 min' depth='0.5 m' />
-  <sample time='7:25 min' depth='0.4 m' />
-  <sample time='7:30 min' depth='0.3 m' />
-  <sample time='7:35 min' depth='0.6 m' />
-  <sample time='7:40 min' depth='0.4 m' />
-  <sample time='7:45 min' depth='0.4 m' />
-  <sample time='7:50 min' depth='0.4 m' />
-  <sample time='7:55 min' depth='0.5 m' />
-  <sample time='8:00 min' depth='0.5 m' />
-  <sample time='8:05 min' depth='0.9 m' />
-  <sample time='8:10 min' depth='0.9 m' />
-  <sample time='8:15 min' depth='0.9 m' />
-  <sample time='8:20 min' depth='0.9 m' />
-  <sample time='8:25 min' depth='0.9 m' />
-  <sample time='8:30 min' depth='0.8 m' />
-  <sample time='8:35 min' depth='0.7 m' />
-  <sample time='8:40 min' depth='0.5 m' temp='28.8 C' />
-  <sample time='8:45 min' depth='0.0 m' />
-  <sample time='8:50 min' depth='0.0 m' />
-  <sample time='8:55 min' depth='0.0 m' />
-  <sample time='9:00 min' depth='0.0 m' />
-  <sample time='9:05 min' depth='0.0 m' temp='28.7 C' />
-  <sample time='9:10 min' depth='0.0 m' />
-  <sample time='9:15 min' depth='0.0 m' temp='28.6 C' />
-  <sample time='9:20 min' depth='0.0 m' />
-  <sample time='9:25 min' depth='0.2 m' temp='28.5 C' />
-  <sample time='9:30 min' depth='0.0 m' />
-  <sample time='9:35 min' depth='0.0 m' temp='28.4 C' />
-  <sample time='9:40 min' depth='0.0 m' />
-  <sample time='9:45 min' depth='0.0 m' />
-  <sample time='9:50 min' depth='0.0 m' />
-  <sample time='9:55 min' depth='0.0 m' temp='28.3 C' />
-  <sample time='10:00 min' depth='0.0 m' />
-  <sample time='10:05 min' depth='0.0 m' temp='28.2 C' />
-  <sample time='10:10 min' depth='0.0 m' temp='28.1 C' />
-  <sample time='10:15 min' depth='0.0 m' />
-  <sample time='10:20 min' depth='0.0 m' temp='28.0 C' />
-  <sample time='10:25 min' depth='0.0 m' temp='27.9 C' />
-  <sample time='10:30 min' depth='0.0 m' />
-  <sample time='10:35 min' depth='0.0 m' temp='27.8 C' />
-  <sample time='10:40 min' depth='0.0 m' temp='27.7 C' />
-  <sample time='10:45 min' depth='0.0 m' />
-  <sample time='10:50 min' depth='0.0 m' temp='27.6 C' />
-  <sample time='10:55 min' depth='0.0 m' />
-  <sample time='11:00 min' depth='0.0 m' temp='27.5 C' />
-  <sample time='11:05 min' depth='0.0 m' temp='27.4 C' />
-  <sample time='11:10 min' depth='0.0 m' />
-  <sample time='11:15 min' depth='0.0 m' temp='27.3 C' />
-  <sample time='11:20 min' depth='0.0 m' />
-  <sample time='11:25 min' depth='0.0 m' temp='27.2 C' />
-  <sample time='11:30 min' depth='0.0 m' temp='27.1 C' />
+  <divecomputer>
+  <depth max='7.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='2' visibility='2' date='2012-05-26' time='13:10:00' duration='40:00 min'>
+  <location gps='51.450716 -0.549230'>Padi Open Water 2, Wraysbury.</location>
+  <buddy>Yoke Wong</buddy>
+  <notes>Open water dive with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).</notes>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='90.0 bar' />
+  <weightsystem weight='6.0 kg' description='belt' />
+  <divetemperature air='29.0 C'/>
+  <divecomputer>
+  <depth max='7.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='2' visibility='2' date='2012-05-27' time='09:10:00' duration='25:00 min'>
+  <location gps='51.450716 -0.549230'>Padi Open Water 3, Wraysbury.</location>
+  <buddy>Yoke Wong</buddy>
+  <notes>Open water dive with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).
+
+From Log:
+
+A wet suit hood makes a big difference. Without it I cool down much more quickly.</notes>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='100.0 bar' />
+  <weightsystem weight='6.0 kg' description='belt' />
+  <divetemperature air='20.0 C'/>
+  <divecomputer>
+  <depth max='7.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='2' visibility='2' date='2012-05-27' time='12:25:00' duration='40:00 min'>
+  <location gps='51.450716 -0.549230'>Padi Open Water 4, Wraysbury.</location>
+  <buddy>Yoke Wong</buddy>
+  <notes>Open water dive with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).
+
+From log book:
+
+Lake is cold and very murky after lots of people have been dive training. The silt and algea have really been stirred up.</notes>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='50.0 bar' />
+  <weightsystem weight='6.0 kg' description='belt' />
+  <divetemperature air='25.0 C'/>
+  <divecomputer>
+  <depth max='6.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='3' visibility='3' date='2012-06-11' time='08:30:00' duration='45:00 min'>
+  <location>Tongo Point, Cebu, Philippines</location>
+  <divemaster>Aison G Audeje</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>Visibilit was well over 10m. </notes>
+  <suit>Rash Suit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='50.0 bar' />
+  <weightsystem weight='7.0 kg' description='belt' />
+  <divecomputer>
+  <depth max='15.0 m' mean='10.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='3' visibility='4' date='2012-06-11' time='11:20:00' duration='45:00 min'>
+  <location>Kasi Wall, Cebu, Philippines.</location>
+  <divemaster>Aison G Audeje</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <suit>Rash Suit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
+  <weightsystem weight='7.0 kg' description='belt' />
+  <divetemperature air='34.0 C'/>
+  <divecomputer>
+  <depth max='9.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='3' visibility='3' date='2012-06-12' time='09:40:00' duration='38:00 min'>
+  <location>Pescadora Island, Cebu, Philippines.</location>
+  <divemaster>Aison G Audeje</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>Strong wind from the south-west led to 0.5m waves and slightly rough boat ride. Saw turtles on the sheer "wall" around 10m. Apparently the bottom is 40-50m. The current was fairly strong but no as much close to the wall.</notes>
+  <suit>Rash Suit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
+  <weightsystem weight='7.0 kg' description='belt' />
+  <divetemperature air='29.0 C'/>
+  <divecomputer>
+  <depth max='18.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='4' visibility='5' date='2012-06-12' time='11:29:00' duration='45:00 min'>
+  <location>Dolphin House, Cebu, Philippines.</location>
+  <divemaster>Aison G Audeje</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>No dolphins, thats the name of the nearby restort! Lots of turtles but no whale shark that was seen here. We had to pick up 2 people (Gernan + Filipino) as their boat battery failed. Looks like cheap dive wasn't enough to pay for regular servicing of their boat.</notes>
+  <suit>Rash Suit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
+  <weightsystem weight='7.0 kg' description='belt' />
+  <divetemperature air='29.0 C'/>
+  <divecomputer>
+  <depth max='10.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='4' visibility='3' date='2012-06-13' time='09:30:00' duration='37:00 min'>
+  <location>Airplane Wreck, Cebu, Philippines.</location>
+  <divemaster>Romy</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>My guage registered 18m at the plane, but using 21m for the pressure group calculation. The plane is an old cessna which was placed to start an artificial reef. Its been there for 25 years so far. No much around the plane, mostly a sandy shelf on which the plane rests.</notes>
+  <suit>Rash Suit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='55.0 bar' />
+  <weightsystem weight='7.0 kg' description='belt' />
+  <divetemperature air='29.0 C'/>
+  <divecomputer>
+  <depth max='21.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='3' visibility='3' date='2012-06-13' time='11:00:00' duration='48:00 min'>
+  <location>Marine Sanctury, Cebu, Philippines.</location>
+  <divemaster>Romy</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>Camera imploded at 9m by my guage, its rated to 10m. The dive master's computer said it was 11m. I've learnt SPG are not accurate!</notes>
+  <suit>Rash Suit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
+  <weightsystem weight='7.0 kg' description='belt' />
+  <divetemperature air='32.0 C'/>
+  <divecomputer>
+  <depth max='11.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='4' visibility='4' date='2012-06-14' time='08:50:00' duration='39:00 min'>
+  <location>Pescador Island, Cebu, Philippines.</location>
+  <divemaster>Romy</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>Dive with Romy/ Ronny(?). We got up early to see dolphins. It was too rough however. We decided to go and try Pescador as it was good the last time. Yoke saw 3 dolphins in the distance.	</notes>
+  <suit>Rash Suit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='50.0 bar' />
+  <weightsystem weight='7.0 kg' description='belt' />
+  <divetemperature air='32.0 C'/>
+  <divecomputer>
+  <depth max='20.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='3' visibility='3' date='2012-06-14' time='13:30:00' duration='43:00 min'>
+  <location>Talisay Point, Cebu, Philippines.</location>
+  <divemaster>Romy</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>We saw boxfish a bright yellow one while at 5m stop. I also saw a blue puffer fish and really unusual "pipe fish" that looked like a lollipop! We came up away from the boat and submerged slightly to cover the distance on the DMs suggestion. This brought me down to 40bar.</notes>
+  <suit>Rash Suit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
+  <weightsystem weight='7.0 kg' description='belt' />
+  <divetemperature air='26.0 C'/>
+  <divecomputer>
+  <depth max='18.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='4' visibility='4' date='2012-06-15' time='09:30:00' duration='45:00 min'>
+  <location>Sampagita, Malboal, Cebu, Philippines.</location>
+  <divemaster>Aison G Audeje</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <suit>Rash Suit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
+  <weightsystem weight='7.0 kg' description='belt' />
+  <divetemperature air='26.0 C'/>
+  <divecomputer>
+  <depth max='17.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='3' visibility='3' date='2012-06-15' time='11:19:00' duration='50:00 min'>
+  <location>Tuble Point, Moalboal, Cebu, Philippines.</location>
+  <divemaster>Aison G Audeje</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <suit>Rash Suit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
+  <weightsystem weight='7.0 kg' description='belt' />
+  <divetemperature air='26.0 C'/>
+  <divecomputer>
+  <depth max='12.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='3' visibility='3' date='2012-06-16' time='09:30:00' duration='42:00 min'>
+  <location>Panagasama Reef, Moalboal, Cebu, Philippines.</location>
+  <divemaster>Aison G Audeje</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>Heavy rain and waves accompanied our entry into the water. The locals though it was really cold. I told them 25 was the best possible summer in Ireland!</notes>
+  <suit>Rash Suit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
+  <weightsystem weight='7.0 kg' description='belt' />
+  <divetemperature air='25.0 C'/>
+  <divecomputer>
+  <depth max='18.0 m' />
+  </divecomputer>
+</dive>
+<dive rating='4' visibility='4' date='2012-06-16' time='11:47:00' duration='51:00 min'>
+  <location>Fish Feeding Whitebeach, Moalboal, Cebu, Philippines.</location>
+  <divemaster>Aison G Audeje</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <suit>Rash Suit</suit>
+  <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
+  <weightsystem weight='7.0 kg' description='belt' />
+  <divetemperature air='24.0 C'/>
+  <divecomputer>
+  <depth max='15.0 m' />
   </divecomputer>
 </dive>
 <dive number='2' rating='2' visibility='2' date='2013-04-28' time='11:23:00' duration='29:10 min'>
@@ -7722,9 +7782,11 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='40:20 min' depth='0.3 m' />
   </divecomputer>
 </dive>
-<dive number='18' date='2013-12-30' time='06:23:00' duration='34:10 min'>
+<dive number='18' rating='4' visibility='4' date='2013-12-30' time='06:23:00' duration='34:10 min'>
   <location>Big Brother Reef, Red Sea, Egypt.</location>
+  <suit>5mm wetsuit</suit>
   <cylinder size='15.0 l' workpressure='200.0 bar' description='15L 200 bar' />
+  <weightsystem weight='10.0 kg' description='belt' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='64ab8f34'>
   <depth max='29.9 m' mean='18.591 m' />
   <temperature water='23.5 C' />
@@ -8177,8 +8239,9 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='37:05 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='19' date='2013-12-30' time='10:23:00' duration='31:30 min'>
+<dive number='19' rating='4' visibility='4' date='2013-12-30' time='10:23:00' duration='31:30 min'>
   <location>Little Brother, Reef, Red Sea, Egypt.</location>
+  <suit>5mm wetsuit</suit>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='31.0%' start='210.0 bar' end='50.0 bar' />
   <weightsystem weight='10.0 kg' description='belt' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff'>
@@ -10880,6 +10943,8 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
 </dive>
 <dive number='25' rating='4' visibility='3' date='2014-01-01' time='10:55:00' duration='43:15 min'>
   <location>Abu Ras Soma, Red Sea, Egypt.</location>
+  <buddy>Yoke Wong</buddy>
+  <suit>5mm wetsuit</suit>
   <cylinder o2='24.0%' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff'>
   <depth max='17.7 m' mean='11.605 m' />
