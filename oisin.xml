@@ -1,12 +1,131 @@
-<divelog program='subsurface' version='2'>
+<divelog program='subsurface' version='3'>
 <settings>
 <divecomputerid model='Mares Puck Pro' deviceid='47102f58' nickname='Mares Puck Pro (47102f58)'/>
 <divecomputerid model='Mares Puck Pro' deviceid='7fffffff' nickname='Yoke&apos;s Mares Puck Pro (948416f2)'/>
 <divecomputerid model='Mares Puck Pro' deviceid='948416f2' nickname='Yoke&apos;s Mares Puck Pro (948416f2)'/>
 </settings>
+<divesites>
+<site uuid='  48b6b2' name='Abu Ras Soma, Red Sea, Egypt.'>
+</site>
+<site uuid=' 475e253' name='Dolphin House, Cebu, Philippines.'>
+</site>
+<site uuid=' e74a4da' name='Kasi Wall, Cebu, Philippines.'>
+</site>
+<site uuid='13e02e23' name='Small Giften Island, Red Sea, Egypt.'>
+</site>
+<site uuid='147ad3b8' name='Padi Open Water 4, Wraysbury.' gps='51.450716 -0.549230'>
+  <notes>additional name for site: Padi Open Water 1, Wraysbury. </notes>
+</site>
+<site uuid='198653f0' name='Little Brother, Cleaning Station, Red Sea, Egypt.'>
+</site>
+<site uuid='1a5cb531' name='Tenerifie, Canary Islands'>
+</site>
+<site uuid='1c502c93' name='Santo Antao Wreck, Cape Verde'>
+</site>
+<site uuid='30c091d2' name='Small Giften Island, 3 stacks in the water, Red Sea, Egypt.'>
+</site>
+<site uuid='367917e8' name='Airplane Wreck, Cebu, Philippines.'>
+</site>
+<site uuid='3d711dd8' name='3 Caves, Cape Verde.'>
+</site>
+<site uuid='3ebf1310' name='Big Brother Reef, Red Sea, Egypt.'>
+</site>
+<site uuid='3f7640ae' name='Dive 5, Lanyu, Taiwan' gps='22.017066 121.551536'>
+  <notes>additional name for site: Dive 1, Lanyu, Taiwan </notes>
+</site>
+<site uuid='4056e5a1' name='The Scylla, Whitsand Bay, Plymouth.' gps='50.328476 -4.248447'>
+</site>
+<site uuid='41b518cd' name='Tobia Arbia, Red Sea, Egypt.'>
+</site>
+<site uuid='42090f57' name='Dive 2, Three Reefs, Lanyu, Taiwan' gps='22.017066 121.551536'>
+  <notes>additional name for site: Dive 1, Lanyu, Taiwan </notes>
+</site>
+<site uuid='47fce551' name='Fish Feeding Whitebeach, Moalboal, Cebu, Philippines.'>
+</site>
+<site uuid='4c9c0576' gps='32.138784 29.178768'>
+</site>
+<site uuid='4cfa134d' name='Dive 1, Lanyu, Taiwan' gps='22.017066 121.551536'>
+</site>
+<site uuid='4d22b840' name='Stoney Cove, Lecister, UK.' gps='52.543372 -1.273684'>
+  <notes>additional name for site: Stoney Cove </notes>
+</site>
+<site uuid='5359e451' name='Mewstone, Plymouth, England.'>
+</site>
+<site uuid='5f809d1a' name='Salam Express Wreck, Red Sea, Egypt.'>
+</site>
+<site uuid='61099879' name='Padi Open Water 3, Wraysbury.' gps='51.450716 -0.549230'>
+  <notes>additional name for site: Padi Open Water 1, Wraysbury. </notes>
+</site>
+<site uuid='6896dded' name='Lost Anchor, Sal, Cape Verde.'>
+</site>
+<site uuid='6c441afc' name='Panagasama Reef, Moalboal, Cebu, Philippines.'>
+</site>
+<site uuid='6eaa9472' name='Dive 4, Lanyu, Taiwan' gps='22.017066 121.551536'>
+  <notes>additional name for site: Dive 1, Lanyu, Taiwan </notes>
+</site>
+<site uuid='75389ffd' name='Padi Open Water 1, Wraysbury.' gps='51.450716 -0.549230'>
+</site>
+<site uuid='76d9c4b6' name='Padi Open Water 2, Wraysbury.' gps='51.450716 -0.549230'>
+  <notes>additional name for site: Padi Open Water 1, Wraysbury. </notes>
+</site>
+<site uuid='838ee33f' name='Little Brother, Killing Station, Red Sea, Egypt.'>
+</site>
+<site uuid='844bb1b5' name='Pontinha, Sal, Cape Verde.' gps='16.583223 -22.926750'>
+</site>
+<site uuid='848a41b7' name='3 Caves, Sal Cape Verde.' gps='16.577301 -22.921600'>
+</site>
+<site uuid='8c0cd0c6' name='Mewstone, Plymouth, England.' gps='50.306848 -4.102728'>
+  <notes>additional name for site: Mewstone, Plymouth. </notes>
+</site>
+<site uuid='91fa799b' name='Pescador Island, Cebu, Philippines.'>
+</site>
+<site uuid='9561a0ca' name='Sampagita, Malboal, Cebu, Philippines.'>
+</site>
+<site uuid='97420460' name='Talisay Point, Cebu, Philippines.'>
+</site>
+<site uuid='97e77a6c' name='Pescadora Island, Cebu, Philippines.'>
+</site>
+<site uuid='998f4f14' name='Mewstone, Plymouth.' gps='50.306848 -4.102728'>
+</site>
+<site uuid='a7695f35' name='Fanol Fundo, Cape Verde'>
+</site>
+<site uuid='abbc2331' name='The Eddystone Lighthouse, England.'>
+</site>
+<site uuid='ad0a09c1' name='Tongo Point, Cebu, Philippines'>
+</site>
+<site uuid='b5d32aa3' name='James Egan Lane, Whitsand bay, Plymouth, England.'>
+</site>
+<site uuid='c60223f0' name='Big Brother, Red Sea, Egypt.'>
+</site>
+<site uuid='d52579c1' gps='32.878380 -18.008415'>
+</site>
+<site uuid='d73fd533' name='Stoney Cove, Lecister, UK.' gps='52.543341 -1.273439'>
+  <notes>additional name for site: Stoney Cove </notes>
+</site>
+<site uuid='d764210d' name='Big Brother, Numida, Red Sea, Egypt.'>
+</site>
+<site uuid='d908eabc' name='Marine Sanctury, Cebu, Philippines.'>
+</site>
+<site uuid='da5d5b33' name='Dive 3, Lanyu, Taiwan' gps='22.017066 121.551536'>
+  <notes>additional name for site: Dive 1, Lanyu, Taiwan </notes>
+</site>
+<site uuid='dcc44007' name='Gota Abu Ramada, Red Sea, Egypt.' gps='16.557074 45.488421'>
+</site>
+<site uuid='dd20a5d0' name='Tuble Point, Moalboal, Cebu, Philippines.'>
+</site>
+<site uuid='dee96c1f' name='Dive 6, Wedding Propsal, Lanyu, Taiwan' gps='22.056776 121.507832'>
+</site>
+<site uuid='df288aae' name='Little Brother, Reef, Red Sea, Egypt.'>
+</site>
+<site uuid='e012b12c' name='Kwarcit Wreck (Boris), Cape Verde'>
+</site>
+<site uuid='fd39fe78' name='Stoney Cove' gps='52.543372 -1.273684'>
+</site>
+<site uuid='ffb7000f' name='Little Brother, Reef on south side, Red Sea, Egypt.'>
+</site>
+</divesites>
 <dives>
-<dive number='1' rating='2' visibility='2' date='2012-05-26' time='11:00:00' duration='42:00 min'>
-  <location gps='51.450716 -0.549230'>Padi Open Water 1, Wraysbury.</location>
+<dive number='1' rating='2' visibility='2' divesiteid='75389ffd' date='2012-05-26' time='11:00:00' duration='42:00 min'>
   <buddy>Yoke Wong</buddy>
   <notes>First open water dive with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).</notes>
   <suit>5mm wetsuit</suit>
@@ -17,8 +136,7 @@
   <depth max='7.0 m' />
   </divecomputer>
 </dive>
-<dive number='2' rating='2' visibility='2' date='2012-05-26' time='13:10:00' duration='40:00 min'>
-  <location gps='51.450716 -0.549230'>Padi Open Water 2, Wraysbury.</location>
+<dive number='2' rating='2' visibility='2' divesiteid='76d9c4b6' date='2012-05-26' time='13:10:00' duration='40:00 min'>
   <buddy>Yoke Wong</buddy>
   <notes>Open water dive with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).</notes>
   <suit>5mm wetsuit</suit>
@@ -29,8 +147,7 @@
   <depth max='7.0 m' />
   </divecomputer>
 </dive>
-<dive number='3' rating='2' visibility='2' date='2012-05-27' time='09:10:00' duration='25:00 min'>
-  <location gps='51.450716 -0.549230'>Padi Open Water 3, Wraysbury.</location>
+<dive number='3' rating='2' visibility='2' divesiteid='61099879' date='2012-05-27' time='09:10:00' duration='25:00 min'>
   <buddy>Yoke Wong</buddy>
   <notes>Open water dive with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).
 
@@ -45,8 +162,7 @@ A wet suit hood makes a big difference. Without it I cool down much more quickly
   <depth max='7.0 m' />
   </divecomputer>
 </dive>
-<dive number='4' rating='2' visibility='2' date='2012-05-27' time='12:25:00' duration='40:00 min'>
-  <location gps='51.450716 -0.549230'>Padi Open Water 4, Wraysbury.</location>
+<dive number='4' rating='2' visibility='2' divesiteid='147ad3b8' date='2012-05-27' time='12:25:00' duration='40:00 min'>
   <buddy>Yoke Wong</buddy>
   <notes>Open water dive with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).
 
@@ -61,8 +177,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='6.0 m' />
   </divecomputer>
 </dive>
-<dive number='5' rating='3' visibility='3' date='2012-06-11' time='08:30:00' duration='45:00 min'>
-  <location>Tongo Point, Cebu, Philippines</location>
+<dive number='5' rating='3' visibility='3' divesiteid='ad0a09c1' date='2012-06-11' time='08:30:00' duration='45:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Visibilit was well over 10m.</notes>
@@ -73,8 +188,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='15.0 m' mean='10.0 m' />
   </divecomputer>
 </dive>
-<dive number='6' rating='3' visibility='4' date='2012-06-11' time='11:20:00' duration='45:00 min'>
-  <location>Kasi Wall, Cebu, Philippines.</location>
+<dive number='6' rating='3' visibility='4' divesiteid=' e74a4da' date='2012-06-11' time='11:20:00' duration='45:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>Rash Suit</suit>
@@ -85,8 +199,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='9.0 m' />
   </divecomputer>
 </dive>
-<dive number='7' rating='3' visibility='3' date='2012-06-12' time='09:40:00' duration='38:00 min'>
-  <location>Pescadora Island, Cebu, Philippines.</location>
+<dive number='7' rating='3' visibility='3' divesiteid='97e77a6c' date='2012-06-12' time='09:40:00' duration='38:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Strong wind from the south-west led to 0.5m waves and slightly rough boat ride. Saw turtles on the sheer "wall" around 10m. Apparently the bottom is 40-50m. The current was fairly strong but no as much close to the wall.</notes>
@@ -98,8 +211,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='18.0 m' />
   </divecomputer>
 </dive>
-<dive number='8' rating='4' visibility='5' date='2012-06-12' time='11:29:00' duration='45:00 min'>
-  <location>Dolphin House, Cebu, Philippines.</location>
+<dive number='8' rating='4' visibility='5' divesiteid=' 475e253' date='2012-06-12' time='11:29:00' duration='45:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>No dolphins, thats the name of the nearby restort! Lots of turtles but no whale shark that was seen here. We had to pick up 2 people (Gernan + Filipino) as their boat battery failed. Looks like cheap dive wasn't enough to pay for regular servicing of their boat.</notes>
@@ -111,8 +223,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='10.0 m' />
   </divecomputer>
 </dive>
-<dive number='9' rating='4' visibility='3' date='2012-06-13' time='09:30:00' duration='37:00 min'>
-  <location>Airplane Wreck, Cebu, Philippines.</location>
+<dive number='9' rating='4' visibility='3' divesiteid='367917e8' date='2012-06-13' time='09:30:00' duration='37:00 min'>
   <divemaster>Romy</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>My guage registered 18m at the plane, but using 21m for the pressure group calculation. The plane is an old cessna which was placed to start an artificial reef. Its been there for 25 years so far. No much around the plane, mostly a sandy shelf on which the plane rests.</notes>
@@ -124,8 +235,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='21.0 m' />
   </divecomputer>
 </dive>
-<dive number='10' rating='3' visibility='3' date='2012-06-13' time='11:00:00' duration='48:00 min'>
-  <location>Marine Sanctury, Cebu, Philippines.</location>
+<dive number='10' rating='3' visibility='3' divesiteid='d908eabc' date='2012-06-13' time='11:00:00' duration='48:00 min'>
   <divemaster>Romy</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Camera imploded at 9m by my guage, its rated to 10m. The dive master's computer said it was 11m. I've learnt SPG are not accurate!</notes>
@@ -137,8 +247,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='11.0 m' />
   </divecomputer>
 </dive>
-<dive number='11' rating='4' visibility='4' date='2012-06-14' time='08:50:00' duration='39:00 min'>
-  <location>Pescador Island, Cebu, Philippines.</location>
+<dive number='11' rating='4' visibility='4' divesiteid='91fa799b' date='2012-06-14' time='08:50:00' duration='39:00 min'>
   <divemaster>Romy</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Dive with Romy/ Ronny(?). We got up early to see dolphins. It was too rough however. We decided to go and try Pescador as it was good the last time. Yoke saw 3 dolphins in the distance.</notes>
@@ -150,8 +259,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='20.0 m' />
   </divecomputer>
 </dive>
-<dive number='12' rating='3' visibility='3' date='2012-06-14' time='13:30:00' duration='43:00 min'>
-  <location>Talisay Point, Cebu, Philippines.</location>
+<dive number='12' rating='3' visibility='3' divesiteid='97420460' date='2012-06-14' time='13:30:00' duration='43:00 min'>
   <divemaster>Romy</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>We saw boxfish a bright yellow one while at 5m stop. I also saw a blue puffer fish and really unusual "pipe fish" that looked like a lollipop! We came up away from the boat and submerged slightly to cover the distance on the DMs suggestion. This brought me down to 40bar.</notes>
@@ -163,8 +271,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='18.0 m' />
   </divecomputer>
 </dive>
-<dive number='13' rating='4' visibility='4' date='2012-06-15' time='09:30:00' duration='45:00 min'>
-  <location>Sampagita, Malboal, Cebu, Philippines.</location>
+<dive number='13' rating='4' visibility='4' divesiteid='9561a0ca' date='2012-06-15' time='09:30:00' duration='45:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>Rash Suit</suit>
@@ -175,8 +282,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='17.0 m' />
   </divecomputer>
 </dive>
-<dive number='14' rating='3' visibility='3' date='2012-06-15' time='11:19:00' duration='50:00 min'>
-  <location>Tuble Point, Moalboal, Cebu, Philippines.</location>
+<dive number='14' rating='3' visibility='3' divesiteid='dd20a5d0' date='2012-06-15' time='11:19:00' duration='50:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>Rash Suit</suit>
@@ -187,8 +293,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='12.0 m' />
   </divecomputer>
 </dive>
-<dive number='15' rating='3' visibility='3' date='2012-06-16' time='09:30:00' duration='42:00 min'>
-  <location>Panagasama Reef, Moalboal, Cebu, Philippines.</location>
+<dive number='15' rating='3' visibility='3' divesiteid='6c441afc' date='2012-06-16' time='09:30:00' duration='42:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Heavy rain and waves accompanied our entry into the water. The locals though it was really cold. I told them 25 was the best possible summer in Ireland!</notes>
@@ -200,8 +305,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='18.0 m' />
   </divecomputer>
 </dive>
-<dive number='16' rating='4' visibility='4' date='2012-06-16' time='11:47:00' duration='51:00 min'>
-  <location>Fish Feeding Whitebeach, Moalboal, Cebu, Philippines.</location>
+<dive number='16' rating='4' visibility='4' divesiteid='47fce551' date='2012-06-16' time='11:47:00' duration='51:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>Rash Suit</suit>
@@ -212,8 +316,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <depth max='15.0 m' />
   </divecomputer>
 </dive>
-<dive number='17' rating='2' visibility='2' date='2013-04-28' time='11:23:00' duration='29:10 min'>
-  <location gps='52.543372 -1.273684'>Stoney Cove</location>
+<dive number='17' rating='2' visibility='2' divesiteid='fd39fe78' date='2013-04-28' time='11:23:00' duration='29:10 min'>
   <buddy>Yoke Wong</buddy>
   <suit>03 RI 500</suit>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='12L 232 bar' start='210.0 bar' end='70.0 bar' />
@@ -608,8 +711,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='32:00 min' depth='0.4 m' />
   </divecomputer>
 </dive>
-<dive number='18' rating='3' visibility='2' date='2013-05-04' time='14:28:00' duration='24:35 min'>
-  <location gps='50.306848 -4.102728'>Mewstone, Plymouth.</location>
+<dive number='18' rating='3' visibility='2' divesiteid='998f4f14' date='2013-05-04' time='14:28:00' duration='24:35 min'>
   <buddy>Patrick Browne</buddy>
   <notes>http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_reefs_mewstone_ridges.html</notes>
   <suit>03 RI 500</suit>
@@ -965,8 +1067,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='28:40 min' depth='0.7 m' />
   </divecomputer>
 </dive>
-<dive number='19' rating='3' visibility='3' date='2013-05-05' time='12:58:00' duration='27:00 min'>
-  <location gps='50.328476 -4.248447'>The Scylla, Whitsand Bay, Plymouth.</location>
+<dive number='19' rating='3' visibility='3' divesiteid='4056e5a1' date='2013-05-05' time='12:58:00' duration='27:00 min'>
   <divemaster>Graham Nash</divemaster>
   <buddy>Patrick Browne</buddy>
   <notes>There were a few dive boats here and divers doing deco. stops on the shot line. Graham Nash came with us to float as Patrick isn't yet a Sports Diver.
@@ -1344,8 +1445,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='29:50 min' depth='0.2 m' temp='9.8 C' />
   </divecomputer>
 </dive>
-<dive number='20' rating='3' visibility='3' date='2013-05-06' time='11:53:00' duration='31:40 min'>
-  <location gps='50.306848 -4.102728'>Mewstone, Plymouth.</location>
+<dive number='20' rating='3' visibility='3' divesiteid='998f4f14' date='2013-05-06' time='11:53:00' duration='31:40 min'>
   <buddy>Richard Labrum</buddy>
   <notes>Dicky found a snow crab here hiding amoungst the Kelp and ridges. The tide was starting to come in. The cox noticed there was a peak rising up from 9m to 2m which we all entered the water around. The GPS for it is on the boat computer.</notes>
   <suit>03 RI 500</suit>
@@ -1772,8 +1872,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='34:30 min' depth='0.0 m' temp='10.5 C' />
   </divecomputer>
 </dive>
-<dive number='21' rating='1' visibility='2' date='2013-05-31' time='11:38:00' duration='32:55 min'>
-  <location gps='16.577301 -22.921600'>3 Caves, Sal Cape Verde.</location>
+<dive number='21' rating='1' visibility='2' divesiteid='848a41b7' date='2013-05-31' time='11:38:00' duration='32:55 min'>
   <divemaster>Benvindo Cabral</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>This dive contains three caves in a reef wall. The current was very strong, the strongest I've experienced so far. Had to haul myself down the shot line. There were lots of fish hidding in nooks and crannies in the reef. We saw trumpet fish, red snappers, angel fish, conger eel.  DM brought us back to shot line, however not directly after we indicated 100 and then 50 bar. This resulted in Yoke have to buddy breath at 5m. I was down to 20bar. The current got stronger while trying to hold 3min stop at 5min. The shot line snapped and we were whisked to the surface. The DM said these were the worst conditions he'd seen in years. Stressful dive with terrible visibility. I was quite unhappy with DM as we should have started back earlier or came up and not got to the air sharing situation.</notes>
@@ -2215,8 +2314,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='35:45 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='22' rating='2' visibility='2' date='2013-06-01' time='17:24:00' duration='43:50 min'>
-  <location gps='16.583223 -22.926750'>Pontinha, Sal, Cape Verde.</location>
+<dive number='22' rating='2' visibility='2' divesiteid='844bb1b5' date='2013-06-01' time='17:24:00' duration='43:50 min'>
   <divemaster>Benvindo Cabral</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Much calmer dive with a smaller current. Dived down the shot line to 20m. The visibility wasn't much better. We swam the reef overhang at the bottom. Lots of fish were hiding in cracks. Got a great shot of a nudibranch with the aid of the DM's LED torch. We ascended to 15m to swim a long the top of reef and back towards the shot line. I was still too low on air getting to the surface then I would have liked.</notes>
@@ -2790,8 +2888,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='46:45 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='23' rating='2' visibility='2' date='2013-06-04' time='09:22:00' duration='40:00 min'>
-  <location>Lost Anchor, Sal, Cape Verde.</location>
+<dive number='23' rating='2' visibility='2' divesiteid='6896dded' date='2013-06-04' time='09:22:00' duration='40:00 min'>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='50.0 bar' />
@@ -3317,8 +3414,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='42:55 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='24' rating='3' visibility='2' date='2013-06-04' time='11:23:00' duration='50:20 min'>
-  <location>3 Caves, Cape Verde.</location>
+<dive number='24' rating='3' visibility='2' divesiteid='3d711dd8' date='2013-06-04' time='11:23:00' duration='50:20 min'>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='50.0 bar' />
@@ -3967,8 +4063,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='53:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='25' rating='4' visibility='3' date='2013-06-04' time='15:00:00' duration='35:45 min'>
-  <location>Kwarcit Wreck (Boris), Cape Verde</location>
+<dive number='25' rating='4' visibility='3' divesiteid='e012b12c' date='2013-06-04' time='15:00:00' duration='35:45 min'>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='50.0 bar' />
@@ -4443,8 +4538,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='38:40 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='26' rating='2' visibility='2' date='2013-06-05' time='09:15:00' duration='43:20 min'>
-  <location>Fanol Fundo, Cape Verde</location>
+<dive number='26' rating='2' visibility='2' divesiteid='a7695f35' date='2013-06-05' time='09:15:00' duration='43:20 min'>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='60.0 bar' />
@@ -5010,8 +5104,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='46:15 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='27' rating='3' visibility='3' date='2013-06-05' time='10:49:00' duration='55:55 min'>
-  <location>Santo Antao Wreck, Cape Verde</location>
+<dive number='27' rating='3' visibility='3' divesiteid='1c502c93' date='2013-06-05' time='10:49:00' duration='55:55 min'>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='60.0 bar' />
@@ -5730,8 +5823,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='59:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='28' rating='4' visibility='4' date='2013-12-28' time='11:31:00' duration='48:30 min'>
-  <location gps='16.557074 45.488421'>Gota Abu Ramada, Red Sea, Egypt.</location>
+<dive number='28' rating='4' visibility='4' divesiteid='dcc44007' date='2013-12-28' time='11:31:00' duration='48:30 min'>
   <divemaster>Jose Aguarod</divemaster>
   <buddy>Hugh Guidera</buddy>
   <suit>5mm wetsuit</suit>
@@ -6361,8 +6453,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='51:25 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='29' rating='4' visibility='3' date='2013-12-28' time='15:34:00' duration='37:20 min'>
-  <location gps='16.557074 45.488421'>Gota Abu Ramada, Red Sea, Egypt.</location>
+<dive number='29' rating='4' visibility='3' divesiteid='dcc44007' date='2013-12-28' time='15:34:00' duration='37:20 min'>
   <divemaster>Jose</divemaster>
   <buddy>Hugh Guidera</buddy>
   <suit>5mm wetsuit</suit>
@@ -6858,8 +6949,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='40:15 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='30' rating='3' visibility='3' date='2013-12-29' time='07:28:00' duration='31:35 min'>
-  <location>Big Brother, Red Sea, Egypt.</location>
+<dive number='30' rating='3' visibility='3' divesiteid='c60223f0' date='2013-12-29' time='07:28:00' duration='31:35 min'>
   <divemaster>Albert Peirot</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
@@ -7285,8 +7375,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='34:25 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='31' rating='4' visibility='4' date='2013-12-29' time='10:20:00' duration='37:30 min'>
-  <location>Big Brother Reef, Red Sea, Egypt.</location>
+<dive number='31' rating='4' visibility='4' divesiteid='3ebf1310' date='2013-12-29' time='10:20:00' duration='37:30 min'>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='210.0 bar' end='50.0 bar' />
@@ -7783,8 +7872,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='40:20 min' depth='0.3 m' />
   </divecomputer>
 </dive>
-<dive number='32' rating='4' visibility='4' date='2013-12-30' time='06:23:00' duration='34:10 min'>
-  <location>Big Brother Reef, Red Sea, Egypt.</location>
+<dive number='32' rating='4' visibility='4' divesiteid='3ebf1310' date='2013-12-30' time='06:23:00' duration='34:10 min'>
   <suit>5mm wetsuit</suit>
   <cylinder size='15.0 l' workpressure='200.0 bar' description='15L 200 bar' />
   <weightsystem weight='10.0 kg' description='belt' />
@@ -8240,8 +8328,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='37:05 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='33' rating='4' visibility='4' date='2013-12-30' time='10:23:00' duration='31:30 min'>
-  <location>Little Brother, Reef, Red Sea, Egypt.</location>
+<dive number='33' rating='4' visibility='4' divesiteid='df288aae' date='2013-12-30' time='10:23:00' duration='31:30 min'>
   <suit>5mm wetsuit</suit>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='31.0%' start='210.0 bar' end='50.0 bar' />
   <weightsystem weight='10.0 kg' description='belt' />
@@ -8665,8 +8752,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='34:25 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='34' rating='3' visibility='3' date='2013-12-30' time='14:30:00' duration='30:55 min'>
-  <location>Little Brother, Killing Station, Red Sea, Egypt.</location>
+<dive number='34' rating='3' visibility='3' divesiteid='838ee33f' date='2013-12-30' time='14:30:00' duration='30:55 min'>
   <divemaster>Jose Aguarod</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>We were going to see the where thresher and other sharks eat. This meant wait around at 25-30m to see if any would show up. It was dark and cold</notes>
@@ -9086,8 +9172,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='33:50 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='35' rating='4' visibility='3' date='2013-12-31' time='07:35:00' duration='33:40 min'>
-  <location>Little Brother, Cleaning Station, Red Sea, Egypt.</location>
+<dive number='35' rating='4' visibility='3' divesiteid='198653f0' date='2013-12-31' time='07:35:00' duration='33:40 min'>
   <divemaster>Mohamad</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Saw thresher shark and accidentally decensed to 38m while filming with gopro...</notes>
@@ -9539,8 +9624,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='36:30 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='36' rating='4' visibility='5' date='2013-12-31' time='10:22:00' duration='41:20 min'>
-  <location>Little Brother, Reef on south side, Red Sea, Egypt.</location>
+<dive number='36' rating='4' visibility='5' divesiteid='ffb7000f' date='2013-12-31' time='10:22:00' duration='41:20 min'>
   <divemaster>Yoke Wong</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Jumped from the boat dive platform. Followed line to reef. Went along until ~120bar with reef on right hand side. The headed back and moved up to ~10m. Did 3@5m while watching the "cleaning station" action near on of the mooring lines the boat used.</notes>
@@ -10085,8 +10169,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='44:15 min' depth='0.3 m' />
   </divecomputer>
 </dive>
-<dive number='37' rating='4' visibility='3' date='2013-12-31' time='14:42:00' duration='27:20 min'>
-  <location>Big Brother, Numida, Red Sea, Egypt.</location>
+<dive number='37' rating='4' visibility='3' divesiteid='d764210d' date='2013-12-31' time='14:42:00' duration='27:20 min'>
   <divemaster>Jose Aguarod</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>GoPro rollback, numida wreck, yoke free flow, yoke buddy breath, nice coral and fish on wreck super structure.</notes>
@@ -10463,8 +10546,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='30:15 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='38' rating='4' visibility='3' date='2014-01-01' time='06:48:00' duration='33:45 min'>
-  <location>Salam Express Wreck, Red Sea, Egypt.</location>
+<dive number='38' rating='4' visibility='3' divesiteid='5f809d1a' date='2014-01-01' time='06:48:00' duration='33:45 min'>
   <divemaster>Jose Aguarod</divemaster>
   <buddy>Dave Wallace</buddy>
   <notes>Dived down at rear. Saw big open rear doors. didn't go in. swam around the "top deck" to the front then up partially open front bow. Continued up the side and finished at the shot line with 3@5m.</notes>
@@ -10942,8 +11024,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='38:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='39' rating='4' visibility='3' date='2014-01-01' time='10:55:00' duration='43:15 min'>
-  <location>Abu Ras Soma, Red Sea, Egypt.</location>
+<dive number='39' rating='4' visibility='3' divesiteid='  48b6b2' date='2014-01-01' time='10:55:00' duration='43:15 min'>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
   <cylinder o2='24.0%' />
@@ -11508,8 +11589,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='46:10 min' depth='0.0 m' temp='24.2 C' />
   </divecomputer>
 </dive>
-<dive number='40' rating='4' visibility='4' date='2014-01-01' time='14:36:00' duration='52:35 min'>
-  <location>Tobia Arbia, Red Sea, Egypt.</location>
+<dive number='40' rating='4' visibility='4' divesiteid='41b518cd' date='2014-01-01' time='14:36:00' duration='52:35 min'>
   <cylinder o2='24.0%' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff'>
   <depth max='11.8 m' mean='9.789 m' />
@@ -12184,8 +12264,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='55:30 min' depth='0.1 m' temp='23.8 C' />
   </divecomputer>
 </dive>
-<dive number='41' rating='4' visibility='3' date='2014-01-01' time='17:48:00' duration='46:40 min'>
-  <location>Tobia Arbia, Red Sea, Egypt.</location>
+<dive number='41' rating='4' visibility='3' divesiteid='41b518cd' date='2014-01-01' time='17:48:00' duration='46:40 min'>
   <cylinder o2='22.0%' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='7fffffff'>
   <depth max='12.9 m' mean='9.19 m' />
@@ -12791,8 +12870,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='49:45 min' depth='0.0 m' temp='23.7 C' />
   </divecomputer>
 </dive>
-<dive number='42' rating='3' visibility='3' date='2014-01-02' time='07:28:00' duration='52:55 min'>
-  <location>Small Giften Island, Red Sea, Egypt.</location>
+<dive number='42' rating='3' visibility='3' divesiteid='13e02e23' date='2014-01-02' time='07:28:00' duration='52:55 min'>
   <cylinder o2='22.0%' />
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='2525111a'>
   <depth max='25.0 m' mean='14.097 m' />
@@ -13471,8 +13549,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='55:50 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='43' rating='4' visibility='4' date='2014-01-02' time='10:59:00' duration='46:55 min'>
-  <location>Small Giften Island, 3 stacks in the water, Red Sea, Egypt.</location>
+<dive number='43' rating='4' visibility='4' divesiteid='30c091d2' date='2014-01-02' time='10:59:00' duration='46:55 min'>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' start='220.0 bar' end='50.0 bar' />
@@ -14094,8 +14171,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='50:55 min' depth='0.5 m' />
   </divecomputer>
 </dive>
-<dive number='44' rating='2' visibility='1' date='2014-03-15' time='12:59:00' duration='22:35 min'>
-  <location gps='52.543341 -1.273439'>Stoney Cove, Lecister, UK.</location>
+<dive number='44' rating='2' visibility='1' divesiteid='d73fd533' date='2014-03-15' time='12:59:00' duration='22:35 min'>
   <buddy>Richard (Dicky) Labrum</buddy>
   <notes>This was a training dive for Sports Diver course. The first dive involved navigating by compass and doing a reciprocal route. I then put up the DSMB and we then pottered about. It was very poor visibility. It was my first time diving with the dive knife. One strap came loose. Dicky managed to save it from getting lost. Things nearly went pear shapped as air ran to my feet trying to remove the knife's remaining strap to my leg while I tried to hold on to the DSMB. We got it sorted out in the end.</notes>
   <suit>O3 Dry Suit</suit>
@@ -14412,8 +14488,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='25:25 min' depth='0.2 m' />
   </divecomputer>
 </dive>
-<dive number='45' rating='2' visibility='1' date='2014-03-15' time='14:51:00' duration='7:25 min'>
-  <location gps='52.543372 -1.273684'>Stoney Cove, Lecister, UK.</location>
+<dive number='45' rating='2' visibility='1' divesiteid='4d22b840' date='2014-03-15' time='14:51:00' duration='7:25 min'>
   <buddy>Richard (Dicky) Labrum</buddy>
   <notes>This was a quick dive to practive swimming with a distance line. 20 strokes out and back. The I had to do a CBL (Control Boyant Lift) practice on Dicky. Once reaching the surface I then had to do rescue breathing and towing back to shore. Dicky kindly help on to his own mask rather then have it lost.</notes>
   <suit>O3 Dry Suit</suit>
@@ -14548,8 +14623,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='10:15 min' depth='0.2 m' />
   </divecomputer>
 </dive>
-<dive number='46' rating='3' visibility='5' date='2014-04-05' time='08:51:00' duration='26:50 min'>
-  <location gps='22.017066 121.551536'>Dive 1, Lanyu, Taiwan</location>
+<dive number='46' rating='3' visibility='5' divesiteid='4cfa134d' date='2014-04-05' time='08:51:00' duration='26:50 min'>
   <divemaster>Chang Ge</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>First dive with Cannon D5 in its Nauticam enclosure. 40min before the dive I set up the leak detection system and let it sit. It held the green light through out the dive. We did a stride entry from a hard boat. The camera was passed in after entry. 8kg was too little and the DM gave me and extra 3kg to get down. Saw sea snakes however there wasn't much in the way of fish.</notes>
@@ -14918,8 +14992,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='29:40 min' depth='0.4 m' />
   </divecomputer>
 </dive>
-<dive number='47' rating='3' visibility='5' date='2014-04-05' time='13:31:00' duration='25:45 min'>
-  <location gps='22.017066 121.551536'>Dive 2, Three Reefs, Lanyu, Taiwan</location>
+<dive number='47' rating='3' visibility='5' divesiteid='42090f57' date='2014-04-05' time='13:31:00' duration='25:45 min'>
   <divemaster>Chang Ge</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>First dive with Cannon D5 in its Nauticam enclosure. 40min before the dive I set up the leak detection system and let it sit. It held the green light through out the dive. We did a stride entry from a hard boat. The camera was passed in after entry. 8kg was too little and the DM gave me and extra 3kg to get down. Saw sea snakes however there wasn't much in the way of fish.</notes>
@@ -15294,8 +15367,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='30:10 min' depth='0.2 m' />
   </divecomputer>
 </dive>
-<dive number='48' rating='3' visibility='5' date='2014-04-06' time='09:34:00' duration='28:50 min'>
-  <location gps='22.017066 121.551536'>Dive 3, Lanyu, Taiwan</location>
+<dive number='48' rating='3' visibility='5' divesiteid='da5d5b33' date='2014-04-06' time='09:34:00' duration='28:50 min'>
   <divemaster>Chang Ge</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
@@ -15688,8 +15760,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='31:45 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='49' rating='3' visibility='5' date='2014-04-06' time='14:00:00' duration='32:00 min'>
-  <location gps='22.017066 121.551536'>Dive 4, Lanyu, Taiwan</location>
+<dive number='49' rating='3' visibility='5' divesiteid='6eaa9472' date='2014-04-06' time='14:00:00' duration='32:00 min'>
   <divemaster>Chang Ge</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
@@ -16121,8 +16192,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='35:00 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='50' rating='3' visibility='5' date='2014-04-07' time='08:04:00' duration='38:40 min'>
-  <location gps='22.017066 121.551536'>Dive 5, Lanyu, Taiwan</location>
+<dive number='50' rating='3' visibility='5' divesiteid='3f7640ae' date='2014-04-07' time='08:04:00' duration='38:40 min'>
   <divemaster>Chang Ge</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>5mm wetsuit</suit>
@@ -16656,8 +16726,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='43:30 min' depth='0.3 m' />
   </divecomputer>
 </dive>
-<dive number='51' rating='3' visibility='5' date='2014-04-07' time='10:00:00' duration='36:45 min'>
-  <location gps='22.056776 121.507832'>Dive 6, Wedding Propsal, Lanyu, Taiwan</location>
+<dive number='51' rating='3' visibility='5' divesiteid='dee96c1f' date='2014-04-07' time='10:00:00' duration='36:45 min'>
   <divemaster>Chang Ge</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>We helped film a wedding propsal for two people we met. This was a shore dive from the Harbour. The wet socks had no grip on the slipway so we did a stride entry from the end of the pier which was 3m drop to the water. There were a lot of nudibranch around and there was also a sea cave, It was a good dive to finish on.</notes>
@@ -17145,8 +17214,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='39:35 min' depth='0.4 m' />
   </divecomputer>
 </dive>
-<dive number='52' rating='3' visibility='2' date='2014-04-18' time='12:44:00' duration='47:10 min'>
-  <location gps='50.306848 -4.102728'>Mewstone, Plymouth.</location>
+<dive number='52' rating='3' visibility='2' divesiteid='998f4f14' date='2014-04-18' time='12:44:00' duration='47:10 min'>
   <buddy>Graham Nash</buddy>
   <notes>First dive of the year at sea in a dry suit. I had problems getting down and then holding the 3 @ 5m. I borrowed an extra 2Kg from James Fleet for later dives. The visibility wasn't great although we did see a lot of different things. Snow crabs, a dog fish, wrass to name a few. There was much more life about this time then my last dive here.  It was a good dive all in all.</notes>
   <suit>03 RI 500</suit>
@@ -17759,8 +17827,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='50:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='53' rating='3' visibility='2' date='2014-04-18' time='18:35:00' duration='31:55 min'>
-  <location gps='50.328476 -4.248447'>The Scylla, Whitsand Bay, Plymouth.</location>
+<dive number='53' rating='3' visibility='2' divesiteid='4056e5a1' date='2014-04-18' time='18:35:00' duration='31:55 min'>
   <buddy>Graham Nash</buddy>
   <notes>Plankton bloom obscured most of the wreck. We were also experiencing current as we weren't diving at slack tide. It would later turn out we hadn't got the right times.</notes>
   <suit>03 RI 500</suit>
@@ -18190,8 +18257,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='34:45 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='54' rating='3' visibility='2' date='2014-04-19' time='13:39:00' duration='20:15 min'>
-  <location gps='50.306848 -4.102728'>Mewstone, Plymouth.</location>
+<dive number='54' rating='3' visibility='2' divesiteid='998f4f14' date='2014-04-19' time='13:39:00' duration='20:15 min'>
   <buddy>James</buddy>
   <notes>We got dragged by the current away to deeper water and the depth increased. We were unable to swim back and so aborted the dive early. The visibility wasn't bad near the pinacles of rock.</notes>
   <suit>03 RI 500</suit>
@@ -18481,8 +18547,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='23:05 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='55' rating='4' visibility='2' date='2014-04-20' time='11:08:00' duration='32:20 min'>
-  <location gps='50.328476 -4.248447'>The Scylla, Whitsand Bay, Plymouth.</location>
+<dive number='55' rating='4' visibility='2' divesiteid='4056e5a1' date='2014-04-20' time='11:08:00' duration='32:20 min'>
   <buddy>Rob</buddy>
   <notes>The slack was around 10am according to InDeep dive centre and was indeed quite calm when I got in. I was</notes>
   <suit>03 RI 500</suit>
@@ -18917,8 +18982,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='35:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='56' rating='3' visibility='2' date='2014-05-17' time='16:25:00' duration='40:00 min'>
-  <location gps='50.328476 -4.248447'>The Scylla, Whitsand Bay, Plymouth.</location>
+<dive number='56' rating='3' visibility='2' divesiteid='4056e5a1' date='2014-05-17' time='16:25:00' duration='40:00 min'>
   <buddy>Matt Mitchel</buddy>
   <suit>03 RI 500</suit>
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='92251404' date='2012-02-07' time='09:25:00'>
@@ -19450,8 +19514,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='43:30 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='58' rating='3' visibility='2' date='2014-05-18' time='13:30:00' duration='40:10 min'>
-  <location>James Egan Lane, Whitsand bay, Plymouth, England.</location>
+<dive number='58' rating='3' visibility='2' divesiteid='b5d32aa3' date='2014-05-18' time='13:30:00' duration='40:10 min'>
   <buddy>Matt Mitchel</buddy>
   <suit>03 RI 500</suit>
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='08554272' date='2012-02-08' time='08:27:00'>
@@ -19977,8 +20040,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='43:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='57' rating='1' visibility='1' date='2014-05-18' time='14:45:00' duration='43:00 min'>
-  <location>Mewstone, Plymouth, England.</location>
+<dive number='57' rating='1' visibility='1' divesiteid='5359e451' date='2014-05-18' time='14:45:00' duration='43:00 min'>
   <buddy>Matt Mitchel</buddy>
   <suit>O3 Dry Suit</suit>
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='e1dd4174' date='2012-02-08' time='10:24:00'>
@@ -20539,8 +20601,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='45:55 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='58' rating='3' visibility='3' date='2014-06-21' time='11:09:00' duration='34:55 min'>
-  <location gps='50.306848 -4.102728'>Mewstone, Plymouth, England.</location>
+<dive number='58' rating='3' visibility='3' divesiteid='8c0cd0c6' date='2014-06-21' time='11:09:00' duration='34:55 min'>
   <divemaster>Graham Nash</divemaster>
   <buddy>Andy Whittaker</buddy>
   <notes>Diving as a three</notes>
@@ -21005,8 +21066,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='37:50 min' depth='0.2 m' />
   </divecomputer>
 </dive>
-<dive number='59' rating='4' visibility='3' date='2014-06-21' time='15:46:00' duration='37:35 min'>
-  <location gps='50.328476 -4.248447'>The Scylla, Whitsand Bay, Plymouth.</location>
+<dive number='59' rating='4' visibility='3' divesiteid='4056e5a1' date='2014-06-21' time='15:46:00' duration='37:35 min'>
   <buddy>Graham Nash</buddy>
   <notes>The clearest I've ever seen the Scylla at about 8m visibility.</notes>
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='03fd96ac'>
@@ -21501,8 +21561,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='40:25 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='60' rating='3' visibility='3' date='2014-06-22' time='11:26:00' duration='39:55 min'>
-  <location>The Eddystone Lighthouse, England.</location>
+<dive number='60' rating='3' visibility='3' divesiteid='abbc2331' date='2014-06-22' time='11:26:00' duration='39:55 min'>
   <buddy>Andy Whittaker</buddy>
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='6f34c02c'>
   <depth max='20.0 m' mean='13.05 m' />
@@ -22025,8 +22084,7 @@ http://www.divesitedirectory.co.uk/dive_site_uk_england_southwest_wreck_hms_scyl
   <sample time='42:50 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='61' rating='3' visibility='3' date='2014-06-22' time='16:48:00' duration='42:50 min'>
-  <location>James Egan Lane, Whitsand bay, Plymouth, England.</location>
+<dive number='61' rating='3' visibility='3' divesiteid='b5d32aa3' date='2014-06-22' time='16:48:00' duration='42:50 min'>
   <buddy>Robert Wood</buddy>
   <notes>Found the boilers
 Small schools of fish</notes>
@@ -22575,8 +22633,7 @@ Small schools of fish</notes>
   <sample time='44:50 min' depth='0.5 m' temp='17.6 C' />
   </divecomputer>
 </dive>
-<dive number='62' date='2014-09-15' time='10:12:00' duration='51:20 min'>
-  <location gps='32.138784 29.178768'/>
+<dive number='62' divesiteid='4c9c0576' date='2014-09-15' time='10:12:00' duration='51:20 min'>
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='402c9d02'>
   <depth max='20.5 m' mean='9.452 m' />
   <temperature water='26.5 C' />
@@ -23881,8 +23938,7 @@ Small schools of fish</notes>
   <sample time='53:15 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='64' rating='3' visibility='3' date='2015-05-01' time='10:41:00' duration='40:00 min'>
-  <location gps='32.878380 -18.008415'/>
+<dive number='64' rating='3' visibility='3' divesiteid='d52579c1' date='2015-05-01' time='10:41:00' duration='40:00 min'>
   <notes>Wreck</notes>
   <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='b88de86a'>
   <depth max='21.4 m' mean='12.626 m' />
@@ -24998,8 +25054,7 @@ Small schools of fish</notes>
   <sample time='48:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='66' rating='2' visibility='2' date='2015-05-02' time='10:21:00' duration='31:00 min'>
-  <location>Tenerifie, Canary Islands</location>
+<dive number='66' rating='2' visibility='2' divesiteid='1a5cb531' date='2015-05-02' time='10:21:00' duration='31:00 min'>
   <buddy>Yoke Wong</buddy>
   <notes>Strong current pulling us south west. Saw black and yellow nudibranch. Lots of sea urchins, got spiked by one. Not a great dive</notes>
   <cylinder size='15.0 l' workpressure='200.0 bar' description='15ℓ 200 bar' start='200.0 bar' end='60.0 bar' />
