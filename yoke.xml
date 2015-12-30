@@ -17,6 +17,8 @@
 </site>
 <site uuid='7e4532f8' name='Little Brother'>
 </site>
+<site uuid='85217be5' name='Doña Nina, Xcalak, Mexico'>
+</site>
 <site uuid='8a3162ce' name='Big Brother'>
 </site>
 <site uuid='9a1be545' name='Tobia Arba'>
@@ -23077,8 +23079,11 @@
   <sample time='45:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='52' date='2015-05-04' time='12:32:00' duration='50:10 min'>
-  <cylinder description='unknown' />
+<dive number='52' rating='3' visibility='3' tags='mexico, xcalak' divesiteid='85217be5' date='2015-05-04' time='12:32:00' duration='50:10 min'>
+  <buddy>Oisin Mulvihill</buddy>
+  <suit>5mm semi-dry suit</suit>
+  <cylinder size='12.0 l' workpressure='232.0 bar' description='12L 232 bar' start='220.0 bar' end='70.0 bar' />
+  <weightsystem weight='8.0 kg' description='belt' />
   <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='9a83ae37'>
   <depth max='21.7 m' mean='12.429 m' />
   <temperature water='19.5 C' />

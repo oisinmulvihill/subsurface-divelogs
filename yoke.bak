@@ -1,12 +1,43 @@
-<divelog program='subsurface' version='2'>
+<divelog program='subsurface' version='3'>
 <settings>
 <divecomputerid model='Mares Puck Pro' deviceid='47102f58' nickname='Mares Puck Pro (47102f58)'/>
 <divecomputerid model='Mares Puck Pro' deviceid='7fffffff' nickname='Yoke&apos;s Mares Puck Pro (948416f2)'/>
 <divecomputerid model='Mares Puck Pro' deviceid='948416f2' nickname='Yoke&apos;s Mares Puck Pro (948416f2)'/>
 </settings>
+<divesites>
+<site uuid='26f68617' name='Safaga'>
+</site>
+<site uuid='2b678fe5' name='Gota Abu Ramada'>
+</site>
+<site uuid='2bafc259' name='stoney cove'>
+</site>
+<site uuid='3b3e9db5' name='Big Brother, Numidia'>
+</site>
+<site uuid='648b225e' name='The Scylla, Whitsand Bay, Plymouth.'>
+</site>
+<site uuid='7e4532f8' name='Little Brother'>
+</site>
+<site uuid='85217be5' name='Doña Nina, Xcalak, Mexico'>
+</site>
+<site uuid='8a3162ce' name='Big Brother'>
+</site>
+<site uuid='9a1be545' name='Tobia Arba'>
+</site>
+<site uuid='b50e9b9c' name='Little Brother, Reef'>
+</site>
+<site uuid='bd5d823b' name='Mewstone, Plymouth.'>
+</site>
+<site uuid='c245d929' name='Abu Ras Soma'>
+</site>
+<site uuid='c52587a4' name='Stoney Cove'>
+</site>
+<site uuid='e263013a' name='Little Brother, Cleaning Station'>
+</site>
+<site uuid='efb4b5d6' name='Night Dive'>
+</site>
+</divesites>
 <dives>
-<dive number='3' date='2013-04-28' time='11:23:00' duration='29:25 min'>
-  <location>Stoney Cove</location>
+<dive number='3' divesiteid='c52587a4' date='2013-04-28' time='11:23:00' duration='29:25 min'>
   <cylinder o2='30.0%' />
   <cylinder o2='32.0%' />
   <cylinder o2='50.0%' />
@@ -403,8 +434,7 @@
   <sample time='32:20 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='4' date='2013-04-28' time='13:47:00' duration='20:35 min'>
-  <location>Stoney Cove</location>
+<dive number='4' divesiteid='c52587a4' date='2013-04-28' time='13:47:00' duration='20:35 min'>
   <cylinder o2='30.0%' />
   <cylinder o2='32.0%' />
   <cylinder o2='50.0%' />
@@ -694,8 +724,7 @@
   <sample time='23:25 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='5' date='2013-05-04' time='14:03:00' duration='13:45 min'>
-  <location>Mewstone, Plymouth.</location>
+<dive number='5' divesiteid='bd5d823b' date='2013-05-04' time='14:03:00' duration='13:45 min'>
   <cylinder o2='30.0%' />
   <cylinder o2='32.0%' />
   <cylinder o2='50.0%' />
@@ -905,8 +934,7 @@
   <sample time='16:45 min' depth='0.2 m' />
   </divecomputer>
 </dive>
-<dive number='6' date='2013-05-05' time='12:00:00' duration='28:20 min'>
-  <location>The Scylla, Whitsand Bay, Plymouth.</location>
+<dive number='6' divesiteid='648b225e' date='2013-05-05' time='12:00:00' duration='28:20 min'>
   <cylinder o2='30.0%' />
   <cylinder o2='32.0%' />
   <cylinder o2='50.0%' />
@@ -1320,8 +1348,7 @@
   <sample time='33:45 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='7' date='2013-05-06' time='10:52:00' duration='32:15 min'>
-  <location>Mewstone, Plymouth.</location>
+<dive number='7' divesiteid='bd5d823b' date='2013-05-06' time='10:52:00' duration='32:15 min'>
   <cylinder o2='30.0%' />
   <cylinder o2='32.0%' />
   <cylinder o2='50.0%' />
@@ -5720,8 +5747,7 @@
   <sample time='60:35 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='15' tags='egypt, redsea' date='2013-12-28' time='15:32:00' duration='37:10 min'>
-  <location>Gota Abu Ramada</location>
+<dive number='15' tags='egypt, redsea' divesiteid='2b678fe5' date='2013-12-28' time='15:32:00' duration='37:10 min'>
   <divemaster>Albert Peroit</divemaster>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
@@ -6214,8 +6240,7 @@
   <sample time='40:05 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='16' tags='deep, egypt, redsea' date='2013-12-29' time='07:26:00' duration='31:30 min'>
-  <location>Big Brother</location>
+<dive number='16' tags='deep, egypt, redsea' divesiteid='8a3162ce' date='2013-12-29' time='07:26:00' duration='31:30 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
@@ -6639,8 +6664,7 @@
   <sample time='34:25 min' depth='0.0 m' temp='23.2 C' />
   </divecomputer>
 </dive>
-<dive number='17' date='2013-12-29' time='11:18:00' duration='37:15 min'>
-  <location>Big Brother</location>
+<dive number='17' divesiteid='8a3162ce' date='2013-12-29' time='11:18:00' duration='37:15 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
@@ -7132,8 +7156,7 @@
   <sample time='40:05 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='18' date='2013-12-30' time='06:20:00' duration='34:20 min'>
-  <location>Little Brother, Reef</location>
+<dive number='18' divesiteid='b50e9b9c' date='2013-12-30' time='06:20:00' duration='34:20 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
   <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='4b7d3c8c'>
@@ -7589,8 +7612,7 @@
   <sample time='37:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='19' date='2013-12-30' time='10:21:00' duration='31:05 min'>
-  <location>Little Brother, Reef</location>
+<dive number='19' divesiteid='b50e9b9c' date='2013-12-30' time='10:21:00' duration='31:05 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
   <cylinder o2='31.0%' />
@@ -8009,8 +8031,7 @@
   <sample time='34:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='20' date='2013-12-30' time='14:27:00' duration='30:50 min'>
-  <location>Little Brother</location>
+<dive number='20' divesiteid='7e4532f8' date='2013-12-30' time='14:27:00' duration='30:50 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder o2='23.0%' />
@@ -8426,8 +8447,7 @@
   <sample time='33:45 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='21' visibility='3' date='2013-12-31' time='06:31:00' duration='34:00 min'>
-  <location>Little Brother, Cleaning Station</location>
+<dive number='21' visibility='3' divesiteid='e263013a' date='2013-12-31' time='06:31:00' duration='34:00 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder o2='22.0%' />
@@ -8894,8 +8914,7 @@
   <sample time='38:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='22' date='2013-12-31' time='10:19:00' duration='41:55 min'>
-  <location>Little Brother</location>
+<dive number='22' divesiteid='7e4532f8' date='2013-12-31' time='10:19:00' duration='41:55 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
   <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='b5bc1eaf'>
@@ -9443,8 +9462,7 @@
   <sample time='44:50 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='23' date='2013-12-31' time='14:39:00' duration='27:35 min'>
-  <location>Big Brother, Numidia</location>
+<dive number='23' divesiteid='3b3e9db5' date='2013-12-31' time='14:39:00' duration='27:35 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder o2='29.0%' />
@@ -9820,8 +9838,7 @@
   <sample time='30:25 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='24' date='2014-01-01' time='10:54:00' duration='43:05 min'>
-  <location>Abu Ras Soma</location>
+<dive number='24' divesiteid='c245d929' date='2014-01-01' time='10:54:00' duration='43:05 min'>
   <buddy>Oisin Mulvihill</buddy>
   <notes>tobias arba'n</notes>
   <suit>5mm semi-dry suit</suit>
@@ -10381,8 +10398,7 @@
   <sample time='45:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='25' date='2014-01-01' time='14:34:00' duration='53:40 min'>
-  <location>Tobia Arba</location>
+<dive number='25' divesiteid='9a1be545' date='2014-01-01' time='14:34:00' duration='53:40 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder o2='25.0%' />
@@ -11072,8 +11088,7 @@
   <sample time='56:35 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='26' rating='4' date='2014-01-01' time='17:46:00' duration='46:35 min'>
-  <location>Night Dive</location>
+<dive number='26' rating='4' divesiteid='efb4b5d6' date='2014-01-01' time='17:46:00' duration='46:35 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
   <cylinder o2='22.0%' />
@@ -11680,8 +11695,7 @@
   <sample time='49:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='27' date='2014-01-02' time='07:26:00' duration='52:40 min'>
-  <location>Safaga</location>
+<dive number='27' divesiteid='26f68617' date='2014-01-02' time='07:26:00' duration='52:40 min'>
   <cylinder o2='22.0%' />
   <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='91d90912'>
   <depth max='25.6 m' mean='14.479 m' />
@@ -13158,8 +13172,7 @@
   <sample time='5:00 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='31' date='2014-03-15' time='14:54:00' duration='15:35 min'>
-  <location>stoney cove</location>
+<dive number='31' divesiteid='2bafc259' date='2014-03-15' time='14:54:00' duration='15:35 min'>
   <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='fc1db4ee'>
   <depth max='7.6 m' mean='5.798 m' />
   <temperature water='7.1 C' />
@@ -23066,8 +23079,11 @@
   <sample time='45:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='52' date='2015-05-04' time='12:32:00' duration='50:10 min'>
-  <cylinder description='unknown' />
+<dive number='52' rating='3' visibility='3' divesiteid='85217be5' date='2015-05-04' time='12:32:00' duration='50:10 min'>
+  <buddy>Oisin Mulvihill</buddy>
+  <suit>5mm semi-dry suit</suit>
+  <cylinder size='12.0 l' workpressure='232.0 bar' description='12L 232 bar' start='220.0 bar' end='70.0 bar' />
+  <weightsystem weight='8.0 kg' description='belt' />
   <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='9a83ae37'>
   <depth max='21.7 m' mean='12.429 m' />
   <temperature water='19.5 C' />
