@@ -100,8 +100,6 @@
 </site>
 <site uuid='6896dded' name='Lost Anchor, Sal, Cape Verde.'>
 </site>
-<site uuid='6a975dc3' name='Ghiannis D, Abu Nuhas, Red Sea, Egypt.'>
-</site>
 <site uuid='6c441afc' name='Panagasama Reef, Moalboal, Cebu, Philippines.'>
 </site>
 <site uuid='6eaa9472' name='Dive 4, Lanyu, Taiwan' gps='22.017066 121.551536'>
@@ -115,8 +113,6 @@
 </site>
 <site uuid='76d9c4b6' name='Padi Open Water 2, Wraysbury.' gps='51.450716 -0.549230'>
   <notes>additional name for site: Padi Open Water 1, Wraysbury. </notes>
-</site>
-<site uuid='785e95ab' name='Ghiannis D, Abu Nuhas, Red Sea, Egypt.'>
 </site>
 <site uuid='7cede30a' name='Baracuda Point, Sipadan, Malaysia'>
 </site>
@@ -158,13 +154,13 @@
 </site>
 <site uuid='bf5bed2b' name='Elephant Head Rock'>
 </site>
-<site uuid='c1cc7ba3' name='Chrisola K, Abu Nuhas, Red Sea, Egypt.'>
-</site>
 <site uuid='c2d581a6' name='Tachai Reef, Thailand'>
 </site>
 <site uuid='c36dccfd' name='Kon Bon'>
 </site>
 <site uuid='c60223f0' name='Big Brother, Red Sea, Egypt.'>
+</site>
+<site uuid='c66d48b6' name='Dolphin House, Red Sea, Egypt'>
 </site>
 <site uuid='d4d7bf46' name='Tenerifie, Canary Islands' gps='32.956793 -17.938308'>
 </site>
@@ -193,8 +189,6 @@
 <site uuid='e9f2fc3e' name='Malbul House Reef, Malbul, Malaysia.'>
 </site>
 <site uuid='f1e427f4' name='Morning Dive, Ustica, Italy'>
-</site>
-<site uuid='f206a574' name='Dolphin House, Abu Nuhas, Red Sea, Egypt.'>
 </site>
 <site uuid='f2e1bd01' name='Boonsung Wreck, Thailand'>
 </site>
@@ -45899,7 +45893,7 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='50:45 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='102' rating='3' visibility='3' tags='redsea' divesiteid='f206a574' date='2019-04-13' time='10:30:53' duration='55:40 min'>
+<dive number='102' rating='3' visibility='3' tags='redsea' divesiteid='c66d48b6' date='2019-04-13' time='10:30:53' duration='55:40 min'>
   <divemaster>Sam</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Check dive, had problems with new mask not sealing. Yoke's new mask need tooth pasting as it kept fogging up. Boat was anchor off the reef so we jumped in and followed the reef on RHS. We went to the man made heart shape (out of coral) and waiting for dolphins. Sadly no show.</notes>
@@ -46098,13 +46092,8 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='58:00 min' depth='1.46 m' />
   </divecomputer>
 </dive>
-<dive number='103' rating='4' visibility='4' tags='redsea, wreck' divesiteid='c1cc7ba3' date='2019-04-13' time='14:48:27' duration='48:00 min'>
-  <divemaster>Sam</divemaster>
-  <buddy>Yoke Wong</buddy>
-  <notes>Boat mored directly above Wreck. No surge or current with lots of swim throughs. It was very atmospheric dive. The wreck has been under water since 1981. The holds are filled with the Italian marble tiles. Lots of coral on the bow which is close to the surface at 5m. It was so calm so we could do the dive.</notes>
-  <suit>5mm wetsuit</suit>
-  <cylinder size='15.0 l' workpressure='232.0 bar' description='15ℓ 232 bar' o2='30.0%' start='210.0 bar' end='70.0 bar' depth='42.75 m' />
-  <weightsystem weight='6.0 kg' description='belt' />
+<dive number='103' date='2019-04-13' time='14:48:27' duration='48:00 min'>
+  <cylinder description='unknown' o2='30.0%' depth='42.75 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='f528324b'>
   <depth max='24.7 m' mean='10.895 m' />
   <temperature air='24.0 C' water='23.0 C' />
@@ -46259,13 +46248,8 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='48:00 min' depth='3.78 m' />
   </divecomputer>
 </dive>
-<dive number='104' rating='3' visibility='2' tags='nightdive, redsea' divesiteid='6a975dc3' date='2019-04-13' time='18:25:07' duration='39:40 min'>
-  <divemaster>Sam</divemaster>
-  <buddy>Yoke Wong</buddy>
-  <notes>Night dive on wreck, we went around and around the stern section which wasn't that interesting at night. Saw possible a spanish dancer.</notes>
-  <suit>5mm wetsuit</suit>
-  <cylinder size='15.0 l' workpressure='232.0 bar' description='15ℓ 232 bar' o2='29.0%' start='210.0 bar' end='90.0 bar' depth='44.58 m' />
-  <weightsystem weight='6.0 kg' description='belt' />
+<dive number='104' date='2019-04-13' time='18:25:07' duration='39:40 min'>
+  <cylinder description='unknown' o2='29.0%' depth='44.58 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='3f2fa6f0'>
   <depth max='22.29 m' mean='12.786 m' />
   <temperature air='24.0 C' water='23.0 C' />
@@ -46395,12 +46379,8 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='39:40 min' depth='1.79 m' />
   </divecomputer>
 </dive>
-<dive number='105' rating='3' visibility='4' tags='redsea, wreck' divesiteid='785e95ab' date='2019-04-14' time='07:03:26' duration='50:20 min'>
-  <divemaster>Sam</divemaster>
-  <buddy>Yoke Wong</buddy>
-  <notes>Ghiannis D wreck, sank 19/4/1983 broken up into several sections mainly the stern with accomadation, engine room and other bits. The guide led us into the wreck down to the engine room first the around and out. The boat was mored above and we could descend and ascend the same line to/from the crane still attached to the ship.</notes>
-  <suit>5mm wetsuit</suit>
-  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='31.0%' start='210.0 bar' end='80.0 bar' depth='41.05 m' />
+<dive number='105' date='2019-04-14' time='07:03:26' duration='50:20 min'>
+  <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='01138d53'>
   <depth max='21.13 m' mean='12.943 m' />
   <temperature air='24.0 C' water='23.0 C' />
