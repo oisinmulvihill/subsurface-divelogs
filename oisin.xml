@@ -19,12 +19,16 @@
 </site>
 <site uuid='10543252' name='Afternoon Dive, Ustica, Italy'>
 </site>
+<site uuid='119a7432' name='Jack Fish Alley, Red Sea, Egypt'>
+</site>
 <site uuid='13e02e23' name='Small Giften Island, Red Sea, Egypt.'>
 </site>
 <site uuid='147ad3b8' name='Padi Open Water 4, Wraysbury.' gps='51.450716 -0.549230'>
   <notes>additional name for site: Padi Open Water 1, Wraysbury. </notes>
 </site>
 <site uuid='1602ca73' name='Thistlegorm, Red Sea, Egypt.'>
+</site>
+<site uuid='1621bd6c' name='Gotta Abu Ramada, Red Sea, Eqypt'>
 </site>
 <site uuid='198653f0' name='Little Brother, Cleaning Station, Red Sea, Egypt.'>
 </site>
@@ -87,9 +91,13 @@
 </site>
 <site uuid='544ffb86' name='Pangalima, Mabul, Malaysia'>
 </site>
+<site uuid='5a40fb71' name='Dolphin House, Abu Nuhas, Red Sea, Egypt.'>
+</site>
 <site uuid='5cfa5d76' name='Richelieu Rock, Thailand'>
 </site>
 <site uuid='5f809d1a' name='Salam Express Wreck, Red Sea, Egypt.'>
+</site>
+<site uuid='60b6d42a' name='Gotta Abu Ramada North, Red Sea, Eqypt'>
 </site>
 <site uuid='61099879' name='Padi Open Water 3, Wraysbury.' gps='51.450716 -0.549230'>
   <notes>additional name for site: Padi Open Water 1, Wraysbury. </notes>
@@ -107,6 +115,8 @@
 <site uuid='6a975dc3' name='Ghiannis D, Abu Nuhas, Red Sea, Egypt.'>
 </site>
 <site uuid='6c441afc' name='Panagasama Reef, Moalboal, Cebu, Philippines.'>
+</site>
+<site uuid='6dc5e889' name='Shark and Yolanda Reef, Red Sea, Egypt.'>
 </site>
 <site uuid='6eaa9472' name='Dive 4, Lanyu, Taiwan' gps='22.017066 121.551536'>
   <notes>additional name for site: Dive 1, Lanyu, Taiwan </notes>
@@ -126,6 +136,8 @@
 </site>
 <site uuid='7dc3f772' name='Thistlegorm, Red Sea, Egypt.'>
 </site>
+<site uuid='7f74d6e6' name='Gotta Abu Ramada, Red Sea, Eqypt'>
+</site>
 <site uuid='810156a7' name='Sea Adventure, Malbul, Malaysia.' gps='51.507300 -0.127700'>
   <geo cat='2' origin='2' value='Malaysia'/>
 </site>
@@ -139,6 +151,8 @@
 </site>
 <site uuid='8c0cd0c6' name='Mewstone, Plymouth, England.' gps='50.306848 -4.102728'>
   <notes>additional name for site: Mewstone, Plymouth. </notes>
+</site>
+<site uuid='8c5021aa' name='The Alternatives, Red Sea Egypt.'>
 </site>
 <site uuid='91fa799b' name='Pescador Island, Cebu, Philippines.'>
 </site>
@@ -47248,8 +47262,11 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='41:40 min' depth='1.34 m' />
   </divecomputer>
 </dive>
-<dive number='111' date='2019-04-15' time='18:31:10' duration='55:40 min'>
-  <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
+<dive number='111' rating='4' visibility='4' tags='nightdive, reef' divesiteid='8c5021aa' date='2019-04-15' time='18:31:10' duration='55:40 min'>
+  <buddy>Yoke Wong</buddy>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='31.0%' start='210.0 bar' end='70.0 bar' depth='41.05 m' />
+  <weightsystem weight='6.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='0b363d90'>
   <depth max='13.04 m' mean='8.279 m' />
   <temperature air='24.0 C' water='23.0 C' />
@@ -47427,8 +47444,10 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='55:40 min' depth='2.12 m' />
   </divecomputer>
 </dive>
-<dive number='112' date='2019-04-16' time='07:09:51' duration='55:20 min'>
-  <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
+<dive number='112' rating='3' visibility='3' divesiteid='119a7432' date='2019-04-16' time='07:09:51' duration='55:20 min'>
+  <buddy>Yoke Wong</buddy>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='31.0%' start='210.0 bar' end='50.0 bar' depth='41.05 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='48ff4a5f'>
   <depth max='23.3 m' mean='13.484 m' />
   <temperature air='23.0 C' water='23.0 C' />
@@ -47606,8 +47625,11 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='55:20 min' depth='1.67 m' />
   </divecomputer>
 </dive>
-<dive number='113' date='2019-04-16' time='10:24:40' duration='51:40 min'>
-  <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
+<dive number='113' rating='4' visibility='4' divesiteid='6dc5e889' date='2019-04-16' time='10:24:40' duration='51:40 min'>
+  <buddy>Yoke Wong</buddy>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='31.0%' start='210.0 bar' end='80.0 bar' depth='41.05 m' />
+  <weightsystem weight='6.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='9e6f56f0'>
   <depth max='18.78 m' mean='11.385 m' />
   <temperature air='27.0 C' water='23.0 C' />
@@ -47774,8 +47796,10 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='51:40 min' depth='1.1 m' />
   </divecomputer>
 </dive>
-<dive number='114' date='2019-04-16' time='16:26:11' duration='54:00 min'>
-  <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
+<dive number='114' rating='3' visibility='2' divesiteid='5a40fb71' date='2019-04-16' time='16:26:11' duration='54:00 min'>
+  <buddy>Yoke Wong</buddy>
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='31.0%' start='210.0 bar' end='70.0 bar' depth='41.05 m' />
+  <weightsystem weight='6.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='4029e609'>
   <depth max='12.05 m' mean='8.435 m' />
   <temperature air='23.0 C' water='23.0 C' />
@@ -47948,8 +47972,12 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='54:00 min' depth='1.7 m' />
   </divecomputer>
 </dive>
-<dive number='115' date='2019-04-17' time='15:19:41' duration='59:00 min'>
-  <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
+<dive number='115' rating='4' visibility='4' tags='redsea, reef' divesiteid='7f74d6e6' date='2019-04-17' time='15:19:41' duration='59:00 min'>
+  <buddy>Yoke Wong</buddy>
+  <notes>This was a great dive from the platform of the boat. There was lots to see on the reef. There was three big trevallys swimming about</notes>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='31.0%' start='210.0 bar' end='70.0 bar' depth='41.05 m' />
+  <weightsystem weight='6.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='4c8816bf'>
   <depth max='12.93 m' mean='9.251 m' />
   <temperature air='24.0 C' water='23.0 C' />
@@ -48137,8 +48165,12 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='59:00 min' depth='3.45 m' temp='24.0 C' />
   </divecomputer>
 </dive>
-<dive number='116' date='2019-04-17' time='18:22:31' duration='48:20 min'>
-  <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
+<dive number='116' rating='5' visibility='4' tags='nightdive, redsea, reef' divesiteid='1621bd6c' date='2019-04-17' time='18:22:31' duration='48:20 min'>
+  <buddy>Yoke Wong</buddy>
+  <notes>This night dive was done in the same location as the previous dive. Its fairly shallow and has lot of life. One of the highlights was seeing a blue fin trevally hunting and catching food at night. It was really amazing as the trevally was big. We has seen three of them moving about during the day. We also see two very unusually nudibrancs</notes>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='31.0%' start='210.0 bar' end='60.0 bar' depth='41.05 m' />
+  <weightsystem weight='6.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='b2314352'>
   <depth max='13.18 m' mean='10.043 m' />
   <temperature air='23.0 C' water='23.0 C' />
@@ -48294,8 +48326,12 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='48:20 min' depth='4.03 m' />
   </divecomputer>
 </dive>
-<dive number='117' date='2019-04-18' time='07:21:09' duration='58:20 min'>
-  <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
+<dive number='117' rating='4' visibility='4' tags='redsea, reef' divesiteid='60b6d42a' date='2019-04-18' time='07:21:09' duration='58:20 min'>
+  <buddy>Yoke Wong</buddy>
+  <notes>First dive of the final day of diving. This was done on the north side of the reef and was a shallowish dive. This was the first rib dive of the trip and the wind was up with lots of water splashing into the rib on the way to the dive site. The fish were slow at this time in the morning. There was lots to see including a blue spotted ray being cleaned by small wrasse.</notes>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='31.0%' start='210.0 bar' end='100.0 bar' depth='41.05 m' />
+  <weightsystem weight='6.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='6da930d8'>
   <depth max='12.48 m' mean='8.906 m' />
   <temperature air='23.0 C' water='23.0 C' />
@@ -48481,8 +48517,12 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='58:20 min' depth='2.08 m' />
   </divecomputer>
 </dive>
-<dive number='118' date='2019-04-18' time='11:17:31' duration='58:00 min'>
-  <cylinder description='unknown' o2='30.0%' depth='42.75 m' />
+<dive number='118' rating='3' visibility='4' tags='redsea, reef' divesiteid='13e02e23' date='2019-04-18' time='11:17:31' duration='58:00 min'>
+  <buddy>Yoke Wong</buddy>
+  <notes>Last dive of the trip. This was the second rib dive with roll back. Getting into rib from dive platform was tricky and accident prone. One of the other divers on the trip broke their toe and injured a crew member when they slipped. Yoke and I opted for unguided. We had to make our way back to the blue melody along the reef. The reef has big Gorgonia sea fans and it was a wall like dive that gradually got shallower. I saw a blue spotted ray on a shelf and some bigger fish I can't identify. We made it back to the blue melody which was amazing. There were lots of other boats and try divers at the end of the dive in the shallower parts.</notes>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='15.0 l' workpressure='232.0 bar' description='15L 232 bar' o2='30.0%' start='210.0 bar' end='70.0 bar' depth='42.75 m' />
+  <weightsystem weight='6.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='80fd111a'>
   <depth max='25.95 m' mean='11.948 m' />
   <temperature air='23.0 C' water='23.0 C' />
