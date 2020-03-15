@@ -23,9 +23,6 @@
 </site>
 <site uuid='13e02e23' name='Small Giften Island, Red Sea, Egypt.'>
 </site>
-<site uuid='147ad3b8' name='Padi Open Water 4, Wraysbury.' gps='51.450716 -0.549230'>
-  <notes>additional name for site: Padi Open Water 1, Wraysbury. </notes>
-</site>
 <site uuid='1602ca73' name='Thistlegorm, Red Sea, Egypt.'>
 </site>
 <site uuid='1621bd6c' name='Gotta Abu Ramada, Red Sea, Eqypt'>
@@ -41,8 +38,6 @@
 <site uuid='1c502c93' name='Santo Antao Wreck, Cape Verde'>
 </site>
 <site uuid='1e551afc' name='La Chimera (Abandoned Dive), Xcalak, Mexico.'>
-</site>
-<site uuid='1f1c10bf' name='Wraysbury.' gps='51.450716 -0.549230'>
 </site>
 <site uuid='259bb480' name='Afternoon Dive, Ustica, Italy'>
 </site>
@@ -101,9 +96,6 @@
 </site>
 <site uuid='60b6d42a' name='Gotta Abu Ramada North, Red Sea, Eqypt'>
 </site>
-<site uuid='61099879' name='Padi Open Water 3, Wraysbury.' gps='51.450716 -0.549230'>
-  <notes>additional name for site: Padi Open Water 1, Wraysbury. </notes>
-</site>
 <site uuid='61ac6a41' name='Kon Tachai Pinnacle'>
 </site>
 <site uuid='64a26207' name='Ray Point, Mabul, Malaysia.'>
@@ -126,11 +118,6 @@
 <site uuid='70c45fdd' name='Similan Island 7, West Of Eden'>
 </site>
 <site uuid='7481889b' name='Richelieu Rock, Thailand'>
-</site>
-<site uuid='75389ffd' name='Padi Open Water 1, Wraysbury.' gps='51.450716 -0.549230'>
-</site>
-<site uuid='76d9c4b6' name='Padi Open Water 2, Wraysbury.' gps='51.450716 -0.549230'>
-  <notes>additional name for site: Padi Open Water 1, Wraysbury. </notes>
 </site>
 <site uuid='785e95ab' name='Ghiannis D, Abu Nuhas, Red Sea, Egypt.'>
 </site>
@@ -180,9 +167,11 @@
 </site>
 <site uuid='aed6e678' name='Turtle Rock'>
 </site>
-<site uuid='b5d32aa3' name='James Egan Lane, Whitsand bay, Plymouth, England.'>
+<site uuid='aeea073c' name='Wraysbury Dive Centre' gps='51.459722 -0.548880' description='Dive Centre'>
+  <notes>Wraysbury Dive Centre, Station Rd, Wraysbury TW19 5ND </notes>
+  <geo cat='2' origin='2' value='United Kingdom'/>
 </site>
-<site uuid='bbd141ab' name='Wraysbury, United Kingdom.' gps='51.450716 -0.549230'>
+<site uuid='b5d32aa3' name='James Egan Lane, Whitsand bay, Plymouth, England.'>
 </site>
 <site uuid='bf5bed2b' name='Elephant Head Rock'>
 </site>
@@ -238,9 +227,9 @@
 </site>
 </divesites>
 <dives>
-<dive number='1' rating='2' visibility='2' divesiteid='75389ffd' date='2012-05-26' time='11:00:00' duration='42:00 min'>
+<dive number='1' rating='2' visibility='2' divesiteid='aeea073c' date='2012-05-26' time='11:00:00' duration='42:00 min'>
   <buddy>Yoke Wong</buddy>
-  <notes>First open water dive with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).</notes>
+  <notes>PADI Open water dive 1 with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).</notes>
   <suit>5mm wetsuit</suit>
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='90.0 bar' />
   <weightsystem weight='6.0 kg' description='belt' />
@@ -253,9 +242,9 @@
   <sample time='42:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='2' rating='2' visibility='2' divesiteid='76d9c4b6' date='2012-05-26' time='13:10:00' duration='40:00 min'>
+<dive number='2' rating='2' visibility='2' divesiteid='aeea073c' date='2012-05-26' time='13:10:00' duration='40:00 min'>
   <buddy>Yoke Wong</buddy>
-  <notes>Open water dive with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).</notes>
+  <notes>PADI Open water dive 2 with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).</notes>
   <suit>5mm wetsuit</suit>
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='90.0 bar' />
   <weightsystem weight='6.0 kg' description='belt' />
@@ -268,9 +257,9 @@
   <sample time='40:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='3' rating='2' visibility='2' divesiteid='61099879' date='2012-05-27' time='09:10:00' duration='25:00 min'>
+<dive number='3' rating='2' visibility='2' divesiteid='aeea073c' date='2012-05-27' time='09:10:00' duration='25:00 min'>
   <buddy>Yoke Wong</buddy>
-  <notes>Open water dive with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).
+  <notes>PADI Open water dive 3 with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).
 
 From Log:
 
@@ -287,9 +276,9 @@ A wet suit hood makes a big difference. Without it I cool down much more quickly
   <sample time='25:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='4' rating='2' visibility='2' divesiteid='147ad3b8' date='2012-05-27' time='12:25:00' duration='40:00 min'>
+<dive number='4' rating='2' visibility='2' divesiteid='aeea073c' date='2012-05-27' time='12:25:00' duration='40:00 min'>
   <buddy>Yoke Wong</buddy>
-  <notes>Open water dive with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).
+  <notes>PADI Open water dive 4 with the Oyster dive school out in Wraysbury lake in Heathrow (http://www.wraysbury.ws/).
 
 From log book:
 
@@ -48800,17 +48789,22 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <sample time='58:00 min' depth='2.27 m' />
   </divecomputer>
 </dive>
-<dive number='120' tags='lake' divesiteid='bbd141ab' date='2020-03-14' time='12:53:25' duration='19:00 min'>
+<dive number='120' rating='3' visibility='2' tags='drysuit, lake' divesiteid='aeea073c' date='2020-03-14' time='12:53:25' duration='19:00 min'>
   <buddy>Alasdair Green</buddy>
-  <notes>This was a check dive. Its the first dive I drove to and is the second time I have been to Wraysbury Dive Centre. The lake level was higher then normal I was diving with my new club Clidive (joined them in Sep/Oct).
+  <notes>This was a check dive. Its the first time I've driven to a dive site. It was just easier to transport all the gear and drysuit from home here. This is the second time I have been to Wraysbury Dive Centre. The lake level was higher then normal as there has been a lot of rain and storms this winter. It cost £10 to enter if you are diving, non divers go free. I rented a 12l tank, 10kg of weight and belt for £15. They only take cash and I happened to have £30 with me which left £5 for a black coffee and bacon sandwich. You don't get much change here and things are pricey like a small can of 7up costing £1.20
 
-It took more then a few minutes before my face go used to the cold!
+This was a check dive to get ready for the new year. I joined Clive dive club in Oct 2020 and I came here with some members of the club (Giovanni, Beatrice, Laurie, Alasdair). It wasn't an official club trip. I haven't dived in a dry suit for nearly 6 years at this point. I was nervous about my weight, the last sea dive I had 19kg in total which is a lot. They would only rent me 10kg in 2kg blocks. When I tried to submerge by clearing all air I was unable to go down. I borrowed another 1kg weight from Gio as he had a few and this made all the difference. I had no problem decending.
 
-Saw "Lady of Kent wreck" and boat I didn't catch the name of, a traffic light and two crayfish.
+The cold water was a bit of a shock. It took a few minutes before the dive hood warmed up. I've not dived with Alasdair before. He is a new member of the club and lives in Ipswitch. He was also trying out his new wing. There wasn't much of a plan other than can we get down and is there any problems. We both didn't have any problems and the dive was actualy good if a little short.
 
-Visibility was maybe 5m.
+I saw the "Lady of Kent wreck" and boat I didn't catch the name of, a traffic light and two crayfish. The first crayfish shot out of some green pong weed on the bottom when I shone my touch on it. Visibility was maybe 5m unless we accidently churned up silk on the bottom, which only happened once. With all the corona virus hysteria going around at the moment there weren't that many people here which greatly help visibility.
 
-This was my first dry suit dive in 5 years!</notes>
+The day was mostly sunny during the day although there was heavy rain on the drive over.
+
+Things to improve:
+- Have a plan and find a map of the lake and what is there.
+- Agree a time up front which we forgot to do (others planned for 30min).
+- (RE)Learn the club BAR way of doing buddy check.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='12L 232 bar' start='210.0 bar' end='140.0 bar' depth='65.38 m' />
   <weightsystem weight='11.0 kg' description='belt' />
   <weightsystem weight='1.0 kg' description='ankle' />
