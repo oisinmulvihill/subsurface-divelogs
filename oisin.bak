@@ -23,6 +23,8 @@
 </site>
 <site uuid='13e02e23' name='Small Giften Island, Red Sea, Egypt.'>
 </site>
+<site uuid='149954c8' name='Secca Gonzatti, Santa Margherita Ligure, Italy.'>
+</site>
 <site uuid='1602ca73' name='Thistlegorm, Red Sea, Egypt.'>
 </site>
 <site uuid='1621bd6c' name='Gotta Abu Ramada, Red Sea, Eqypt'>
@@ -119,6 +121,10 @@
 </site>
 <site uuid='7481889b' name='Richelieu Rock, Thailand'>
 </site>
+<site uuid='770824dc' name='Punta della Torretta,, Santa Margherita Ligure, Italy.'>
+</site>
+<site uuid='770824dd' name='Punta della Torretta,, Santa Margherita Ligure, Italy.'>
+</site>
 <site uuid='785e95ab' name='Ghiannis D, Abu Nuhas, Red Sea, Egypt.'>
 </site>
 <site uuid='7cede30a' name='Baracuda Point, Sipadan, Malaysia'>
@@ -193,6 +199,8 @@
 <site uuid='d764210d' name='Big Brother, Numida, Red Sea, Egypt.'>
 </site>
 <site uuid='d8a8fe63' name='Punta del Faro di Portofino, Santa Margherita Ligure, Italy.'>
+</site>
+<site uuid='d8a8fe64' name='Punta del Faro di Portofino, Santa Margherita Ligure, Italy.'>
 </site>
 <site uuid='d908eabc' name='Marine Sanctury, Cebu, Philippines.'>
 </site>
@@ -48877,7 +48885,10 @@ Things to improve:
   <sample time='19:00 min' depth='2.08 m' />
   </divecomputer>
 </dive>
-<dive number='121' otu='4' cns='3%' date='2020-09-29' time='08:37:43' duration='49:40 min'>
+<dive number='121' rating='3' otu='4' cns='3%' tags='portofino' divesiteid='149954c8' date='2020-09-29' time='08:37:43' duration='49:40 min'>
+  <divemaster>Gaia</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>First dive with portofino divers. Somehow managed to book and pay for 4 people diving using the online site! Bruno from the shop wasn't happy about this as I hadn't checked the emails. The online process and series of emails you get are confusing.</notes>
   <cylinder description='unknown' depth='65.378 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='310ad169'>
   <depth max='21.2 m' mean='12.975 m' />
@@ -49039,13 +49050,19 @@ Things to improve:
   <sample time='49:40 min' depth='1.44 m' />
   </divecomputer>
 </dive>
-<dive number='122' otu='5' cns='3%' date='2020-09-30' time='08:18:49' duration='45:00 min'>
-  <cylinder description='unknown' depth='65.378 m' />
+<dive number='122' rating='4' sac='14.008 l/min' otu='5' cns='3%' tags='portofino' divesiteid='770824dc' date='2020-09-30' time='08:18:49' duration='45:00 min'>
+  <divemaster>Gaia</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>. I had an extra 5mm shortie under my 5mm wetsuit to help with the added cold. I upped my weight to 7kg just in case. I took Sea sickness tablets with breakfast at 7.30am in hotel. We went over to the dive shop for ~8am to get ready and carry gear to the boat.
+
+Sea much calmer than yesterday, more overcast but the wind was lower and the roll much less. Lots of really nice soft coral on this dive site. At one point the was a wall of fans which reminded me of the christmas coral in the red sea. It was very nice to see, they looked purple but when you shone the light the showed up red and sparkely. There was also the yellow jew enemies between the fans and lots of small fish.</notes>
+  <cylinder size='12.0 l' description='12l 240 bar' o2='21.0%' start='240.0 bar' end='100.0 bar' depth='65.378 m' />
+  <weightsystem weight='7.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='4507b760' diveid='9536fd58'>
   <depth max='22.99 m' mean='13.593 m' />
   <temperature air='22.0 C' water='21.0 C' />
   <extradata key='Serial' value='83670606' />
-  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
+  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' o2='21.0%' />
   <event time='0:00 min' type='9' name='surface' />
   <event time='45:11 min' type='24' flags='1' name='tissue level warning' />
   <event time='45:11 min' type='9' name='surface' />
