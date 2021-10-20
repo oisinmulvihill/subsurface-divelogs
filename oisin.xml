@@ -81,6 +81,8 @@
 </site>
 <site uuid='4fb506ea' name='Southpoint, Sipadan, Malaysia'>
 </site>
+<site uuid='50e07bd3' name='Wrecks of the CBA. Tug, Harrier Jet plane and Helicopter'>
+</site>
 <site uuid='5359e451' name='Mewstone, Plymouth, England.'>
 </site>
 <site uuid='544ffb86' name='Pangalima, Mabul, Malaysia'>
@@ -172,6 +174,8 @@
   <notes>Wraysbury Dive Centre, Station Rd, Wraysbury TW19 5ND </notes>
   <geo cat='2' origin='2' value='United Kingdom'/>
 </site>
+<site uuid='b47c6934' name='Carbonero'>
+</site>
 <site uuid='b5d32aa3' name='James Egan Lane, Whitsand bay, Plymouth, England.'>
 </site>
 <site uuid='bf5bed2b' name='Elephant Head Rock'>
@@ -207,6 +211,8 @@
 <site uuid='dd20a5d0' name='Tuble Point, Moalboal, Cebu, Philippines.'>
 </site>
 <site uuid='dee96c1f' name='Dive 6, Wedding Propsal, Lanyu, Taiwan' gps='22.056776 121.507832'>
+</site>
+<site uuid='def44323' name='Las Palomas Island and Reef'>
 </site>
 <site uuid='df288aae' name='Little Brother, Reef, Red Sea, Egypt.'>
 </site>
@@ -49359,8 +49365,42 @@ We saw a few large groupers in this area.</notes>
   <sample time='46:20 min' depth='2.61 m' />
   </divecomputer>
 </dive>
-<dive number='124' otu='7' cns='4%' date='2021-10-16' time='09:41:30' duration='44:20 min'>
-  <cylinder description='unknown' />
+<dive number='124' rating='3' sac='13.909 l/min' otu='7' cns='4%' tags='cartagena, murcia' divesiteid='50e07bd3' date='2021-10-16' time='09:41:30' duration='44:20 min'>
+  <divemaster>Ed</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>2021-10-16 09:41
+
+First dive with Suba Murcia. Had an early start and got there for 07:50. We were staying in an apartment building called Mares II at km9. The dive centre is at km2. Had to get up at 06:45 to get ready, breakfast and 20min drive and  figure out where to park. I was able to park beside the dive centre, the centre itself has a gate that you need a card for. I parked here for free 37°38'59.2"N 0°42'59.2"W, Salida 18, 30380 La Manga, Murcia. There was lots of parking spaces at 07:50 in October!
+
+We had to present Passport, Dive Qualifications and Dive Medical insurance as the dive centre needs this paper work to get on th reserve (and they get
+checked regularly). I had bought two dive policies with Dive Master Insurance, however I hadn't realised they were both in my name! Yoke had to take up DAN
+insurance EUR6/day until I could get one of the policies renamed (took until tuesday in the end!)
+
+The day's dive was in Cartagena which is a 40min drive from the dive shop. There are very limited facilities at the dive site. Next time I need to remember to bring change of clothes and towel with us and not leave it in dive office!
+
+The dive boat was a rib and packed solid. It was very cramped, luckily it was a relatively calm day without much roll. Both dives where in the boat as they brought 2 tanks each for the dive. No going back to port between dives.
+
+The dive was ok, visiblity not great and the three wreack were close by each other.
+
+
+Dive site information from https://adventuredivers-spain.com/cartagena/
+
+Wrecks of the CBA. Tug, Harrier Jet plane and Helicopter.
+
+This Tug boat was sank in the 1950’s by the navy for training of their divers. It is 20m in long and 4m wide and has some areas for light penetration into the wreck. Swim along the port side to the bow of the ship and swim 20m off to the left you will come to the harrier jet fuselage also sank by the navy approximately 15 years ago on a sandy seabed. This is the deepest point of the dive and is very interesting to look in the jets engine and large intakes that confirm the harrier jet characteristics. At the cockpit you can sit inside which makes a great photo from in front of the jet.
+
+Swim back along the jet to the tail and usually you can see the bow of the wreck, continue along the starboard side of the wreck where you can penetrate the holds and also the bridge. And finish the dive by swimming on top of the bridge and up the mooring to make a safety stop before surfacing.
+
+Marine rescue helicopter is the newest addition to the wrecks of the CBA and was sunk also by the navy in 2017. The helicopter is at a depth of 22m to 28m deep and is for advanced divers or people making wreck diver specialty course.
+
+Common marine life: Large scorpion fish, moray eels, nudibranch and sea bream.
+Visibility: 8- 20m
+Min depth: 12m
+Max depth: 28m
+Conditions:  Mainly calm with small waves.</notes>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='15.0 l' workpressure='200.0 bar' description='15L 200 bar' start='190.0 bar' end='80.0 bar' />
+  <weightsystem weight='6.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='ed739436'>
   <depth max='23.28 m' mean='14.967 m' />
   <temperature water='23.0 C' />
@@ -49505,8 +49545,35 @@ We saw a few large groupers in this area.</notes>
   <sample time='44:20 min' depth='1.95 m' />
   </divecomputer>
 </dive>
-<dive number='125' otu='5' cns='3%' date='2021-10-16' time='11:32:38' duration='48:00 min'>
-  <cylinder description='unknown' />
+<dive number='125' rating='3' sac='13.155 l/min' otu='5' cns='6%' tags='cartagena, murcia' divesiteid='def44323' date='2021-10-16' time='11:32:38' duration='48:00 min'>
+  <divemaster>Ed</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>The second dive of the day was in the marine reserve. We stayed on the rib and changed tanks and waited in all about 1hr as a surface interval. The rib was tightly packed so we had to go in two groups, the same as the first dive. The boat skipper passed around some chilled apples. We had water and and apple packed as well. The sea was fairly calm and there was no real roll in the shade of the island.
+
+There were occasional schools of fish. The visibility was better than the previous dive location. I had hoped to see more life. 
+
+From https://adventuredivers-spain.com/cartagena/
+
+Las Palomas Island and Reef. (marine reserve since 2017)
+
+Large reef system extending  off  the Palomas Island which is very close by. This site has a large plateau at the shallowest point  and slowly gets deeper and narrower as you swim south west along the steep walls with lots of cracks and crevasses in the walls which are home to many moray eels and in the open water there’s  a huge abundance of marine life.
+
+At the very end of the dive site there is another deeper plateau and full of purse codium which look like big green doughnuts  approximately 20m deep .Swim toward the edge, there is a sheer drop to a sandy 40m seabed where you will see a huge shoal of brown meagre fish  maybe even an eagle ray or two. Swimming north east along the reef edge take a close look at the reef to find lots of various  nudibranches  and slowly head on top of the shallower plateau to make your safety stop and then surface.
+
+Common marine life: Barracuda, bait balls, moray eels, nudibranch. Possibly eagle rays or even a turtle.
+
+Visibility: 10-30mcartagena dive site grouper
+
+Min depth: 6m
+
+Max depth: 40m
+
+Experience level: Open water
+
+Conditions: Mainly calm with small waves. Can be a slight current.</notes>
+  <suit>5mm wetsuit</suit>
+  <cylinder size='15.0 l' workpressure='200.0 bar' description='15ℓ 200 bar' start='190.0 bar' end='90.0 bar' />
+  <weightsystem weight='6.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='011eb8da'>
   <depth max='22.08 m' mean='12.039 m' />
   <temperature water='23.0 C' />
@@ -49664,7 +49731,16 @@ We saw a few large groupers in this area.</notes>
   <sample time='48:00 min' depth='1.49 m' />
   </divecomputer>
 </dive>
-<dive number='126' otu='28' cns='11%' date='2021-10-18' time='09:53:54' duration='28:20 min'>
+<dive number='126' rating='4' otu='28' cns='11%' tags='mucia, wreck' divesiteid='b47c6934' date='2021-10-18' time='09:53:54' duration='28:20 min'>
+  <divemaster>Jo</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>We dived out of the local harbour in Cabos de Palos and the the Islas Hormingas dive centre (C. Marín, 30370 Cabo de Palos, Murcia). The wreck today was to be the Carbonero. This was a deep dive today and we used Nitrox 28 (although when measure it was 28.6, so I set it to 29% on dive computer). The top/just above the wreck was 35m, so the max sports diver depth. 
+
+We used a different much bigger rib with a different skipper. There was much more room. The journey took 40min to motor out to the site. Luckily it was flat calm so the journey was fine. Yoke and I both had on hats and our wind proof jackets which really helped stay warm on the ride out there. 
+
+The skipper had to set a shot line and he managed to get this right on one side of the centry of the ship wreck. We decended the shot line and as we passed the 25m mark the temperature dropped. It felt like it was suddenly very cold with the temperature dropping by 8C. The visibility was maybe 10m+ and we made our way around the  bow/front part of the wreck. Essentiallly along one side, back down the other and around and back to the shot line. We only had 15min max no deco on the wreck and were keeping strictly to it. 
+
+The wreck was covered a lot in nets and there were a lot of sardines around the stern bit. I couldn't go down to the wreck to explore it due to the depth limit. When I got back up to 25m on the shot line the rise in temperature felt like a relief and being in a warm bath</notes>
   <cylinder description='unknown' o2='29.0%' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='bda51806'>
   <depth max='36.61 m' mean='24.926 m' />
@@ -49958,7 +50034,7 @@ We saw a few large groupers in this area.</notes>
   <sample time='47:40 min' depth='1.71 m' />
   </divecomputer>
 </dive>
-<dive number='128' otu='7' cns='4%' date='2021-10-19' time='11:06:49' duration='57:00 min'>
+<dive number='128' otu='7' cns='7%' date='2021-10-19' time='11:06:49' duration='57:00 min'>
   <cylinder description='unknown' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='f6be8c72'>
   <depth max='22.83 m' mean='13.97 m' />
