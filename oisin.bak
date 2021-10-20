@@ -174,6 +174,8 @@
   <notes>Wraysbury Dive Centre, Station Rd, Wraysbury TW19 5ND </notes>
   <geo cat='2' origin='2' value='United Kingdom'/>
 </site>
+<site uuid='b47c6934' name='Carbonero'>
+</site>
 <site uuid='b5d32aa3' name='James Egan Lane, Whitsand bay, Plymouth, England.'>
 </site>
 <site uuid='bf5bed2b' name='Elephant Head Rock'>
@@ -49729,7 +49731,21 @@ Conditions: Mainly calm with small waves. Can be a slight current.</notes>
   <sample time='48:00 min' depth='1.49 m' />
   </divecomputer>
 </dive>
-<dive number='126' otu='28' cns='11%' date='2021-10-18' time='09:53:54' duration='28:20 min'>
+<dive number='126' rating='4' otu='28' cns='11%' tags='mucia, wreck' divesiteid='b47c6934' date='2021-10-18' time='09:53:54' duration='28:20 min'>
+  <divemaster>Jo</divemaster>
+  <buddy>Yoke Wong</buddy>
+  <notes>We dived out of the local harbour in Cabos de Palos and the the Islas Hormingas dive centre (C. Marín, 30370 Cabo de Palos, Murcia). The wreck today was to be the Carbonero. This was a deep dive today and we used Nitrox 28 (although when measure it was 28.6, so I set it to 29% on dive computer). The top/just above the wreck was 35m, so the max sports diver depth. 
+
+We used a different much bigger rib with a different skipper. There was much more room. The journey took 40min to motor out to the site. Luckily it was flat calm so the journey was fine. Yoke and I both had on hats and our wind proof jackets which really helped stay warm on the ride out there. 
+
+The skipper had to set a shot line and he managed to get this right on one side of the centre of the ship wreck. There was very little current at the surface. The Rib had yellow lines either side to hang on to as soon as you rolled back. We decended the shot line and as we passed the 25m mark the temperature dropped. It felt like it was suddenly very cold with the temperature dropping by 8C. The visibility was maybe 10m+ and we made our way around the bow/front part of the wreck. Essentiallly along one side, back down the other and around and back to the shot line. We only had 15min max on the wreck for the no deco stop dive. I think the prow of the ship was at 34m and the highest part of the wreck. The wreck was covered a lot in nets and there were a lot of sardines around the stern bit. I couldn't go down to the wreck to explore it due to the depth limit. When I got back up to 25m on the shot line the rise in temperature felt like a relief and being in a warm bath
+
+From https://www.tdisdi.com/tdi-diver-news/best-wreck-dives-in-murcia/:
+
+The Carbonero is another fantastic wreck, close to shore. She was initially the Thordisa, then Lilla. U-35 torpedoed and sank her on October 13, 1917. This is a perfect technical dive due to depth and size.
+Because of the cargo of coal or carbon, divers now call her the Carbonero. This 88 m/290 ft cargo vessel sits in 44 m/145 ft of water about 8 km/5 mi offshore.
+Like the Stanfield, the Carbonero is in excellent condition. She sits upright, covered in marine life. There is plenty of room to penetrate and explore safely.
+Torpedo damage creates a small debris field separating the stern from the main wreckage. The bow section is impressive. It sits upright on the sea bed and is easily penetrated. Fully appreciating the wreck takes more than one dive.</notes>
   <cylinder description='unknown' o2='29.0%' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='bda51806'>
   <depth max='36.61 m' mean='24.926 m' />
