@@ -1,10 +1,5 @@
 <divelog program='subsurface' version='3'>
 <settings>
-<divecomputerid model='Suunto Zoop Novo' deviceid='4507b760' serial='0420294212' firmware='1.0.4'/>
-<divecomputerid model='Mares Puck Pro' deviceid='47102f58' nickname='Mares Puck Pro (47102f58)'/>
-<divecomputerid model='Mares Puck Pro' deviceid='7fffffff' nickname='Yoke&apos;s Mares Puck Pro (948416f2)'/>
-<divecomputerid model='Suunto Zoop Novo' deviceid='8a90a816' serial='80371412' firmware='1.0.4'/>
-<divecomputerid model='Mares Puck Pro' deviceid='948416f2' nickname='Yoke&apos;s Mares Puck Pro (948416f2)'/>
 </settings>
 <divesites>
 <site uuid=' 51279e9' name='Cañones, Xcalak, Mexico'>
@@ -56,8 +51,12 @@
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='90.0 bar' />
   <weightsystem weight='6.0 kg' description='belt' />
   <divetemperature air='29.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='42:00 min'>
   <depth max='7.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='0:47 min' depth='7.0 m' />
+  <sample time='41:13 min' depth='7.0 m' />
+  <sample time='42:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
 <dive number='2' rating='2' visibility='2' date='2012-05-26' time='13:10:00' duration='40:00 min'>
@@ -67,8 +66,12 @@
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='90.0 bar' />
   <weightsystem weight='6.0 kg' description='belt' />
   <divetemperature air='29.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='40:00 min'>
   <depth max='7.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='0:47 min' depth='7.0 m' />
+  <sample time='39:13 min' depth='7.0 m' />
+  <sample time='40:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
 <dive number='3' rating='2' visibility='2' date='2012-05-27' time='09:10:00' duration='25:00 min'>
@@ -82,8 +85,12 @@ A wet suit hood makes a big difference. Without it I cool down much more quickly
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='100.0 bar' />
   <weightsystem weight='6.0 kg' description='belt' />
   <divetemperature air='20.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='25:00 min'>
   <depth max='7.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='0:47 min' depth='7.0 m' />
+  <sample time='24:13 min' depth='7.0 m' />
+  <sample time='25:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
 <dive number='4' rating='2' visibility='2' date='2012-05-27' time='12:25:00' duration='40:00 min'>
@@ -97,33 +104,47 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='50.0 bar' />
   <weightsystem weight='6.0 kg' description='belt' />
   <divetemperature air='25.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='40:00 min'>
   <depth max='6.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='0:40 min' depth='6.0 m' />
+  <sample time='39:20 min' depth='6.0 m' />
+  <sample time='40:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='5' rating='3' visibility='3' date='2012-06-11' time='08:30:00' duration='45:00 min'>
+<dive number='5' rating='3' visibility='3' sac='18.799 l/min' otu='2' cns='3%' date='2012-06-11' time='08:30:00' duration='45:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Visibilit was well over 10m.</notes>
   <suit>Rash Suit</suit>
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='50.0 bar' />
   <weightsystem weight='7.0 kg' description='belt' />
-  <divecomputer>
+  <divecomputer last-manual-time='45:00 min'>
   <depth max='15.0 m' mean='10.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:40 min' depth='15.0 m' />
+  <sample time='23:26 min' depth='15.0 m' />
+  <sample time='24:33 min' depth='4.95 m' />
+  <sample time='44:27 min' depth='4.95 m' />
+  <sample time='45:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='6' rating='3' visibility='4' date='2012-06-11' time='11:20:00' duration='45:00 min'>
+<dive number='6' rating='3' visibility='4' cns='1%' date='2012-06-11' time='11:20:00' duration='45:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>Rash Suit</suit>
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
   <weightsystem weight='7.0 kg' description='belt' />
   <divetemperature air='34.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='45:00 min'>
   <depth max='9.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:00 min' depth='9.0 m' />
+  <sample time='44:00 min' depth='9.0 m' />
+  <sample time='45:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='7' rating='3' visibility='3' date='2012-06-12' time='09:40:00' duration='38:00 min'>
+<dive number='7' rating='3' visibility='3' otu='8' cns='4%' date='2012-06-12' time='09:40:00' duration='38:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Strong wind from the south-west led to 0.5m waves and slightly rough boat ride. Saw turtles on the sheer "wall" around 10m. Apparently the bottom is 40-50m. The current was fairly strong but no as much close to the wall.</notes>
@@ -131,11 +152,17 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
   <weightsystem weight='7.0 kg' description='belt' />
   <divetemperature air='29.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='38:00 min'>
   <depth max='18.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:00 min' depth='18.0 m' />
+  <sample time='33:00 min' depth='18.0 m' />
+  <sample time='34:27 min' depth='5.0 m' />
+  <sample time='37:27 min' depth='5.0 m' />
+  <sample time='38:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='8' rating='4' visibility='5' date='2012-06-12' time='11:29:00' duration='45:00 min'>
+<dive number='8' rating='4' visibility='5' cns='3%' date='2012-06-12' time='11:29:00' duration='45:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>No dolphins, thats the name of the nearby restort! Lots of turtles but no whale shark that was seen here. We had to pick up 2 people (Gernan + Filipino) as their boat battery failed. Looks like cheap dive wasn't enough to pay for regular servicing of their boat.</notes>
@@ -143,11 +170,17 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
   <weightsystem weight='7.0 kg' description='belt' />
   <divetemperature air='29.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='45:00 min'>
   <depth max='10.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:07 min' depth='10.0 m' />
+  <sample time='40:53 min' depth='10.0 m' />
+  <sample time='41:27 min' depth='5.0 m' />
+  <sample time='44:27 min' depth='5.0 m' />
+  <sample time='45:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='9' rating='4' visibility='3' date='2012-06-13' time='09:30:00' duration='37:00 min'>
+<dive number='9' rating='4' visibility='3' otu='11' cns='5%' date='2012-06-13' time='09:30:00' duration='37:00 min'>
   <divemaster>Romy</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>My guage registered 18m at the plane, but using 21m for the pressure group calculation. The plane is an old cessna which was placed to start an artificial reef. Its been there for 25 years so far. No much around the plane, mostly a sandy shelf on which the plane rests.</notes>
@@ -155,11 +188,17 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='55.0 bar' />
   <weightsystem weight='7.0 kg' description='belt' />
   <divetemperature air='29.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='37:00 min'>
   <depth max='21.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:20 min' depth='21.0 m' />
+  <sample time='31:40 min' depth='21.0 m' />
+  <sample time='33:27 min' depth='5.0 m' />
+  <sample time='36:27 min' depth='5.0 m' />
+  <sample time='37:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='10' rating='3' visibility='3' date='2012-06-13' time='11:00:00' duration='48:00 min'>
+<dive number='10' rating='3' visibility='3' cns='3%' date='2012-06-13' time='11:00:00' duration='48:00 min'>
   <divemaster>Romy</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Camera imploded at 9m by my guage, its rated to 10m. The dive master's computer said it was 11m. I've learnt SPG are not accurate!</notes>
@@ -167,11 +206,17 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
   <weightsystem weight='7.0 kg' description='belt' />
   <divetemperature air='32.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='48:00 min'>
   <depth max='11.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:13 min' depth='11.0 m' />
+  <sample time='43:47 min' depth='11.0 m' />
+  <sample time='44:27 min' depth='5.0 m' />
+  <sample time='47:27 min' depth='5.0 m' />
+  <sample time='48:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='11' rating='4' visibility='4' date='2012-06-14' time='08:50:00' duration='39:00 min'>
+<dive number='11' rating='4' visibility='4' otu='11' cns='5%' date='2012-06-14' time='08:50:00' duration='39:00 min'>
   <divemaster>Romy</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Dive with Romy/ Ronny(?). We got up early to see dolphins. It was too rough however. We decided to go and try Pescador as it was good the last time. Yoke saw 3 dolphins in the distance.</notes>
@@ -179,11 +224,17 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='50.0 bar' />
   <weightsystem weight='7.0 kg' description='belt' />
   <divetemperature air='32.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='39:00 min'>
   <depth max='20.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:13 min' depth='20.0 m' />
+  <sample time='33:47 min' depth='20.0 m' />
+  <sample time='35:27 min' depth='5.0 m' />
+  <sample time='38:27 min' depth='5.0 m' />
+  <sample time='39:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='12' rating='3' visibility='3' date='2012-06-14' time='13:30:00' duration='43:00 min'>
+<dive number='12' rating='3' visibility='3' otu='9' cns='6%' date='2012-06-14' time='13:30:00' duration='43:00 min'>
   <divemaster>Romy</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>We saw boxfish a bright yellow one while at 5m stop. I also saw a blue puffer fish and really unusual "pipe fish" that looked like a lollipop! We came up away from the boat and submerged slightly to cover the distance on the DMs suggestion. This brought me down to 40bar.</notes>
@@ -191,33 +242,51 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
   <weightsystem weight='7.0 kg' description='belt' />
   <divetemperature air='26.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='43:00 min'>
   <depth max='18.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:00 min' depth='18.0 m' />
+  <sample time='38:00 min' depth='18.0 m' />
+  <sample time='39:27 min' depth='5.0 m' />
+  <sample time='42:27 min' depth='5.0 m' />
+  <sample time='43:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='13' rating='4' visibility='4' date='2012-06-15' time='09:30:00' duration='45:00 min'>
+<dive number='13' rating='4' visibility='4' otu='8' cns='5%' date='2012-06-15' time='09:30:00' duration='45:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>Rash Suit</suit>
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
   <weightsystem weight='7.0 kg' description='belt' />
   <divetemperature air='26.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='45:00 min'>
   <depth max='17.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:53 min' depth='17.0 m' />
+  <sample time='40:07 min' depth='17.0 m' />
+  <sample time='41:27 min' depth='5.0 m' />
+  <sample time='44:27 min' depth='5.0 m' />
+  <sample time='45:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='14' rating='3' visibility='3' date='2012-06-15' time='11:19:00' duration='50:00 min'>
+<dive number='14' rating='3' visibility='3' cns='3%' date='2012-06-15' time='11:19:00' duration='50:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>Rash Suit</suit>
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
   <weightsystem weight='7.0 kg' description='belt' />
   <divetemperature air='26.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='50:00 min'>
   <depth max='12.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:20 min' depth='12.0 m' />
+  <sample time='45:40 min' depth='12.0 m' />
+  <sample time='46:27 min' depth='5.0 m' />
+  <sample time='49:27 min' depth='5.0 m' />
+  <sample time='50:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='15' rating='3' visibility='3' date='2012-06-16' time='09:30:00' duration='42:00 min'>
+<dive number='15' rating='3' visibility='3' otu='9' cns='5%' date='2012-06-16' time='09:30:00' duration='42:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Heavy rain and waves accompanied our entry into the water. The locals though it was really cold. I told them 25 was the best possible summer in Ireland!</notes>
@@ -225,26 +294,38 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
   <weightsystem weight='7.0 kg' description='belt' />
   <divetemperature air='25.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='42:00 min'>
   <depth max='18.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='2:00 min' depth='18.0 m' />
+  <sample time='37:00 min' depth='18.0 m' />
+  <sample time='38:27 min' depth='5.0 m' />
+  <sample time='41:27 min' depth='5.0 m' />
+  <sample time='42:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='16' rating='4' visibility='4' date='2012-06-16' time='11:47:00' duration='51:00 min'>
+<dive number='16' rating='4' visibility='4' otu='4' cns='8%' date='2012-06-16' time='11:47:00' duration='51:00 min'>
   <divemaster>Aison G Audeje</divemaster>
   <buddy>Yoke Wong</buddy>
   <suit>Rash Suit</suit>
   <cylinder size='12.0 l' workpressure='200.0 bar' description='12L 200 bar' start='200.0 bar' end='60.0 bar' />
   <weightsystem weight='7.0 kg' description='belt' />
   <divetemperature air='24.0 C'/>
-  <divecomputer>
+  <divecomputer last-manual-time='51:00 min'>
   <depth max='15.0 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:40 min' depth='15.0 m' />
+  <sample time='46:20 min' depth='15.0 m' />
+  <sample time='47:27 min' depth='5.0 m' />
+  <sample time='50:27 min' depth='5.0 m' />
+  <sample time='51:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='17' divesiteid='c52587a4' date='2013-04-28' time='11:23:00' duration='29:25 min'>
+<dive number='17' otu='4' cns='2%' divesiteid='c52587a4' date='2013-04-28' time='11:23:00' duration='29:25 min'>
   <cylinder o2='30.0%' />
   <cylinder o2='32.0%' />
   <cylinder o2='50.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='7fffffff' diveid='7fffffff'>
+  <divecomputer model='Mares Puck Pro' diveid='7fffffff'>
   <depth max='12.5 m' mean='7.495 m' />
   <temperature water='7.9 C' />
   <sample time='0:05 min' depth='1.5 m' temp='8.7 C' />
@@ -637,11 +718,11 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='32:20 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='18' divesiteid='c52587a4' date='2013-04-28' time='13:47:00' duration='20:35 min'>
+<dive number='18' otu='2' cns='3%' divesiteid='c52587a4' date='2013-04-28' time='13:47:00' duration='20:35 min'>
   <cylinder o2='30.0%' />
   <cylinder o2='32.0%' />
   <cylinder o2='50.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='7fffffff' diveid='3a036eeb'>
+  <divecomputer model='Mares Puck Pro' diveid='3a036eeb'>
   <depth max='10.4 m' mean='7.228 m' />
   <temperature water='8.0 C' />
   <sample time='0:05 min' depth='2.4 m' temp='9.5 C' />
@@ -927,11 +1008,11 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='23:25 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='19' divesiteid='bd5d823b' date='2013-05-04' time='14:03:00' duration='13:45 min'>
+<dive number='19' otu='3' cns='2%' divesiteid='bd5d823b' date='2013-05-04' time='14:03:00' duration='13:45 min'>
   <cylinder o2='30.0%' />
   <cylinder o2='32.0%' />
   <cylinder o2='50.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='40f752f3'>
+  <divecomputer model='Mares Puck Pro' diveid='40f752f3'>
   <depth max='11.1 m' mean='7.976 m' />
   <temperature water='9.0 C' />
   <sample time='0:05 min' depth='1.3 m' temp='10.1 C' />
@@ -1137,11 +1218,11 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='16:45 min' depth='0.2 m' />
   </divecomputer>
 </dive>
-<dive number='20' divesiteid='648b225e' date='2013-05-05' time='12:00:00' duration='28:20 min'>
+<dive number='20' otu='13' cns='4%' divesiteid='648b225e' date='2013-05-05' time='12:00:00' duration='28:20 min'>
   <cylinder o2='30.0%' />
   <cylinder o2='32.0%' />
   <cylinder o2='50.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='7dc715d5'>
+  <divecomputer model='Mares Puck Pro' diveid='7dc715d5'>
   <depth max='24.0 m' mean='12.55 m' />
   <temperature water='8.7 C' />
   <sample time='0:05 min' depth='1.9 m' temp='10.7 C' />
@@ -1551,11 +1632,11 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='33:45 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='21' divesiteid='bd5d823b' date='2013-05-06' time='10:52:00' duration='32:15 min'>
+<dive number='21' otu='3' cns='3%' divesiteid='bd5d823b' date='2013-05-06' time='10:52:00' duration='32:15 min'>
   <cylinder o2='30.0%' />
   <cylinder o2='32.0%' />
   <cylinder o2='50.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='01654864'>
+  <divecomputer model='Mares Puck Pro' diveid='01654864'>
   <depth max='9.6 m' mean='7.343 m' />
   <temperature water='9.5 C' />
   <sample time='0:05 min' depth='2.6 m' temp='12.6 C' />
@@ -1982,9 +2063,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='35:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='22' date='2013-05-31' time='11:39:00' duration='31:55 min'>
+<dive number='22' cns='1%' date='2013-05-31' time='11:39:00' duration='31:55 min'>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='40a99b22'>
+  <divecomputer model='Mares Puck Pro' diveid='40a99b22'>
   <depth max='15.6 m' mean='11.115 m' />
   <temperature water='22.9 C' />
   <surface pressure='1.013 bar' />
@@ -2409,9 +2490,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='34:50 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='23' date='2013-06-01' time='17:24:00' duration='43:45 min'>
+<dive number='23' otu='8' cns='5%' date='2013-06-01' time='17:24:00' duration='43:45 min'>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='20edaefd'>
+  <divecomputer model='Mares Puck Pro' diveid='20edaefd'>
   <depth max='20.0 m' mean='15.965 m' />
   <temperature water='23.1 C' />
   <surface pressure='1.007 bar' />
@@ -2977,9 +3058,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='46:35 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='24' date='2013-06-04' time='11:22:00' duration='39:45 min'>
+<dive number='24' otu='10' cns='5%' date='2013-06-04' time='11:22:00' duration='39:45 min'>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='70a2f3dc'>
+  <divecomputer model='Mares Puck Pro' diveid='70a2f3dc'>
   <depth max='21.7 m' mean='16.883 m' />
   <temperature water='22.7 C' />
   <surface pressure='1.021 bar' />
@@ -3498,9 +3579,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='42:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='25' date='2013-06-04' time='13:23:00' duration='51:10 min'>
+<dive number='25' otu='1' cns='4%' date='2013-06-04' time='13:23:00' duration='51:10 min'>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='5cfed2c2'>
+  <divecomputer model='Mares Puck Pro' diveid='5cfed2c2'>
   <depth max='16.1 m' mean='9.916 m' />
   <temperature water='21.7 C' />
   <surface pressure='1.021 bar' />
@@ -4156,9 +4237,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='54:05 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='26' date='2013-06-04' time='16:59:00' duration='36:10 min'>
+<dive number='26' otu='12' cns='6%' date='2013-06-04' time='16:59:00' duration='36:10 min'>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='87873db2'>
+  <divecomputer model='Mares Puck Pro' diveid='87873db2'>
   <depth max='27.6 m' mean='18.964 m' />
   <temperature water='21.5 C' />
   <surface pressure='1.02 bar' />
@@ -4633,9 +4714,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='39:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='27' date='2013-06-05' time='11:14:00' duration='44:45 min'>
+<dive number='27' otu='3' cns='2%' date='2013-06-05' time='11:14:00' duration='44:45 min'>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='1d749886'>
+  <divecomputer model='Mares Puck Pro' diveid='1d749886'>
   <depth max='17.6 m' mean='12.171 m' />
   <temperature water='22.8 C' />
   <surface pressure='1.031 bar' />
@@ -5214,9 +5295,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='47:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='28' date='2013-06-05' time='12:49:00' duration='57:45 min'>
+<dive number='28' cns='2%' date='2013-06-05' time='12:49:00' duration='57:45 min'>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='09518102'>
+  <divecomputer model='Mares Puck Pro' diveid='09518102'>
   <depth max='10.3 m' mean='8.774 m' />
   <temperature water='22.7 C' />
   <surface pressure='1.015 bar' />
@@ -5955,7 +6036,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='e7acab1b' date='2013-12-28' time='14:32:00'>
+  <divecomputer model='Mares Puck Pro' diveid='e7acab1b' date='2013-12-28' time='14:32:00'>
   <depth max='12.0 m' mean='7.965 m' />
   <temperature air='25.0 C' water='24.1 C' />
   <surface pressure='1.016 bar' />
@@ -6443,11 +6524,11 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='40:05 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='30' tags='deep, egypt, redsea' divesiteid='8a3162ce' date='2013-12-29' time='07:26:00' duration='31:30 min'>
+<dive number='30' otu='11' cns='4%' tags='deep, egypt, redsea' divesiteid='8a3162ce' date='2013-12-29' time='07:26:00' duration='31:30 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='63b53be0' date='2013-12-29' time='06:26:00'>
+  <divecomputer model='Mares Puck Pro' diveid='63b53be0' date='2013-12-29' time='06:26:00'>
   <depth max='31.8 m' mean='18.943 m' />
   <temperature air='25.0 C' water='23.2 C' />
   <surface pressure='1.002 bar' />
@@ -6867,11 +6948,11 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='34:25 min' depth='0.0 m' temp='23.2 C' />
   </divecomputer>
 </dive>
-<dive number='31' divesiteid='8a3162ce' date='2013-12-29' time='11:18:00' duration='37:15 min'>
+<dive number='31' otu='9' cns='4%' divesiteid='8a3162ce' date='2013-12-29' time='11:18:00' duration='37:15 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
   <cylinder size='11.094 l' workpressure='206.843 bar' description='AL80' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='1379f353' date='2013-12-29' time='10:18:00'>
+  <divecomputer model='Mares Puck Pro' diveid='1379f353' date='2013-12-29' time='10:18:00'>
   <depth max='26.0 m' mean='15.811 m' />
   <temperature air='24.0 C' water='22.9 C' />
   <surface pressure='1.005 bar' />
@@ -7359,10 +7440,10 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='40:05 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='32' divesiteid='b50e9b9c' date='2013-12-30' time='06:20:00' duration='34:20 min'>
+<dive number='32' otu='11' cns='4%' divesiteid='b50e9b9c' date='2013-12-30' time='06:20:00' duration='34:20 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='4b7d3c8c'>
+  <divecomputer model='Mares Puck Pro' diveid='4b7d3c8c'>
   <depth max='30.1 m' mean='18.488 m' />
   <temperature water='20.7 C' />
   <surface pressure='1.005 bar' />
@@ -7814,11 +7895,11 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='37:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='33' divesiteid='b50e9b9c' date='2013-12-30' time='10:21:00' duration='31:05 min'>
+<dive number='33' otu='24' cns='9%' divesiteid='b50e9b9c' date='2013-12-30' time='10:21:00' duration='31:05 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
   <cylinder o2='31.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='6eee7b44'>
+  <divecomputer model='Mares Puck Pro' diveid='6eee7b44'>
   <depth max='28.8 m' mean='17.997 m' />
   <temperature water='22.8 C' />
   <surface pressure='1.025 bar' />
@@ -8233,11 +8314,11 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='34:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='34' divesiteid='7e4532f8' date='2013-12-30' time='14:27:00' duration='30:50 min'>
+<dive number='34' otu='14' cns='7%' divesiteid='7e4532f8' date='2013-12-30' time='14:27:00' duration='30:50 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder o2='23.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='c170e1b1'>
+  <divecomputer model='Mares Puck Pro' diveid='c170e1b1'>
   <depth max='29.4 m' mean='18.918 m' />
   <temperature water='21.9 C' />
   <surface pressure='1.004 bar' />
@@ -8649,11 +8730,11 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='33:45 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='35' visibility='3' divesiteid='e263013a' date='2013-12-31' time='06:31:00' duration='34:00 min'>
+<dive number='35' visibility='3' otu='12' cns='4%' divesiteid='e263013a' date='2013-12-31' time='06:31:00' duration='34:00 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder o2='22.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='90fb762b'>
+  <divecomputer model='Mares Puck Pro' diveid='90fb762b'>
   <depth max='36.1 m' mean='18.012 m' />
   <temperature water='21.7 C' />
   <surface pressure='1.006 bar' />
@@ -9116,10 +9197,10 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='38:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='36' divesiteid='7e4532f8' date='2013-12-31' time='10:19:00' duration='41:55 min'>
+<dive number='36' otu='4' cns='3%' divesiteid='7e4532f8' date='2013-12-31' time='10:19:00' duration='41:55 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='b5bc1eaf'>
+  <divecomputer model='Mares Puck Pro' diveid='b5bc1eaf'>
   <depth max='20.6 m' mean='12.281 m' />
   <temperature water='23.0 C' />
   <surface pressure='1.034 bar' />
@@ -9663,11 +9744,11 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='44:50 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='37' divesiteid='3b3e9db5' date='2013-12-31' time='14:39:00' duration='27:35 min'>
+<dive number='37' otu='15' cns='6%' divesiteid='3b3e9db5' date='2013-12-31' time='14:39:00' duration='27:35 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder o2='29.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='f471ae91'>
+  <divecomputer model='Mares Puck Pro' diveid='f471ae91'>
   <depth max='31.1 m' mean='15.178 m' />
   <temperature water='20.8 C' />
   <surface pressure='1.004 bar' />
@@ -10039,12 +10120,12 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='30:25 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='38' divesiteid='c245d929' date='2014-01-01' time='10:54:00' duration='43:05 min'>
+<dive number='38' otu='21' cns='8%' divesiteid='c245d929' date='2014-01-01' time='10:54:00' duration='43:05 min'>
   <buddy>Oisin Mulvihill</buddy>
   <notes>tobias arba'n</notes>
   <suit>5mm semi-dry suit</suit>
   <cylinder o2='33.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='58700a95'>
+  <divecomputer model='Mares Puck Pro' diveid='58700a95'>
   <depth max='17.4 m' mean='11.557 m' />
   <temperature water='24.1 C' />
   <surface pressure='1.01 bar' />
@@ -10599,11 +10680,11 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='45:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='39' divesiteid='9a1be545' date='2014-01-01' time='14:34:00' duration='53:40 min'>
+<dive number='39' otu='3' cns='7%' divesiteid='9a1be545' date='2014-01-01' time='14:34:00' duration='53:40 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder o2='25.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='0c5ed227'>
+  <divecomputer model='Mares Puck Pro' diveid='0c5ed227'>
   <depth max='11.6 m' mean='9.65 m' />
   <temperature water='22.8 C' />
   <surface pressure='1.02 bar' />
@@ -11289,11 +11370,11 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='56:35 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='40' rating='4' divesiteid='efb4b5d6' date='2014-01-01' time='17:46:00' duration='46:35 min'>
+<dive number='40' rating='4' cns='3%' divesiteid='efb4b5d6' date='2014-01-01' time='17:46:00' duration='46:35 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm wet suit</suit>
   <cylinder o2='22.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='3d3fb69e'>
+  <divecomputer model='Mares Puck Pro' diveid='3d3fb69e'>
   <depth max='13.5 m' mean='9.577 m' />
   <temperature water='22.6 C' />
   <surface pressure='1.032 bar' />
@@ -11896,9 +11977,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='49:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='41' divesiteid='26f68617' date='2014-01-02' time='07:26:00' duration='52:40 min'>
+<dive number='41' otu='10' cns='6%' divesiteid='26f68617' date='2014-01-02' time='07:26:00' duration='52:40 min'>
   <cylinder o2='22.0%' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='91d90912'>
+  <divecomputer model='Mares Puck Pro' diveid='91d90912'>
   <depth max='25.6 m' mean='14.479 m' />
   <temperature water='21.2 C' />
   <surface pressure='1.008 bar' />
@@ -12570,10 +12651,10 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='55:25 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='42' date='2014-01-02' time='10:59:00' duration='46:35 min'>
+<dive number='42' otu='1' cns='4%' date='2014-01-02' time='10:59:00' duration='46:35 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='a216a2a4'>
+  <divecomputer model='Mares Puck Pro' diveid='a216a2a4'>
   <depth max='16.5 m' mean='11.138 m' />
   <temperature water='22.6 C' />
   <surface pressure='1.019 bar' />
@@ -13174,7 +13255,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   </divecomputer>
 </dive>
 <dive number='43' date='2014-03-15' time='12:53:00' duration='7:25 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='53b45c2a'>
+  <divecomputer model='Mares Puck Pro' diveid='53b45c2a'>
   <depth max='13.8 m' mean='8.63 m' />
   <temperature water='6.9 C' />
   <surface pressure='1.011 bar' />
@@ -13304,7 +13385,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   </divecomputer>
 </dive>
 <dive number='44' date='2014-03-15' time='13:06:00' duration='2:05 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='e181324d'>
+  <divecomputer model='Mares Puck Pro' diveid='e181324d'>
   <depth max='14.0 m' mean='8.292 m' />
   <temperature water='6.9 C' />
   <surface pressure='1.011 bar' />
@@ -13371,7 +13452,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   </divecomputer>
 </dive>
 <dive number='45' divesiteid='2bafc259' date='2014-03-15' time='14:54:00' duration='15:35 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='fc1db4ee'>
+  <divecomputer model='Mares Puck Pro' diveid='fc1db4ee'>
   <depth max='7.6 m' mean='5.798 m' />
   <temperature water='7.1 C' />
   <surface pressure='1.005 bar' />
@@ -13598,8 +13679,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='18:25 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='46' date='2014-04-05' time='07:28:00' duration='26:15 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='03c57d14'>
+<dive number='46' otu='5' cns='3%' date='2014-04-05' time='07:28:00' duration='26:15 min'>
+  <divecomputer model='Mares Puck Pro' diveid='03c57d14'>
   <depth max='21.4 m' mean='14.652 m' />
   <temperature water='27.3 C' />
   <surface pressure='1.018 bar' />
@@ -13969,8 +14050,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='30:20 min' depth='0.2 m' />
   </divecomputer>
 </dive>
-<dive number='47' date='2014-04-05' time='08:48:00' duration='26:40 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='896ffdb6'>
+<dive number='47' otu='3' cns='4%' date='2014-04-05' time='08:48:00' duration='26:40 min'>
+  <divecomputer model='Mares Puck Pro' diveid='896ffdb6'>
   <depth max='17.1 m' mean='13.271 m' />
   <temperature water='27.3 C' />
   <surface pressure='1.004 bar' />
@@ -14331,8 +14412,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='29:35 min' depth='0.4 m' />
   </divecomputer>
 </dive>
-<dive number='48' date='2014-04-06' time='07:58:00' duration='31:15 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='a08cf899'>
+<dive number='48' otu='6' cns='4%' date='2014-04-06' time='07:58:00' duration='31:15 min'>
+  <divecomputer model='Mares Puck Pro' diveid='a08cf899'>
   <depth max='21.2 m' mean='15.594 m' />
   <temperature water='27.0 C' />
   <surface pressure='1.009 bar' />
@@ -14747,8 +14828,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='34:05 min' depth='0.5 m' />
   </divecomputer>
 </dive>
-<dive number='49' date='2014-04-06' time='09:31:00' duration='28:20 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='a9a1f0a8'>
+<dive number='49' otu='3' cns='4%' date='2014-04-06' time='09:31:00' duration='28:20 min'>
+  <divecomputer model='Mares Puck Pro' diveid='a9a1f0a8'>
   <depth max='19.0 m' mean='12.744 m' />
   <temperature water='25.1 C' />
   <surface pressure='1.009 bar' />
@@ -15130,8 +15211,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='31:20 min' depth='0.0 m' temp='26.3 C' />
   </divecomputer>
 </dive>
-<dive number='50' date='2014-04-07' time='08:03:00' duration='38:25 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='3424b604'>
+<dive number='50' otu='2' cns='2%' date='2014-04-07' time='08:03:00' duration='38:25 min'>
+  <divecomputer model='Mares Puck Pro' diveid='3424b604'>
   <depth max='18.2 m' mean='11.078 m' />
   <temperature water='26.1 C' />
   <surface pressure='1.007 bar' />
@@ -15632,8 +15713,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='41:15 min' depth='0.3 m' />
   </divecomputer>
 </dive>
-<dive number='51' date='2014-04-07' time='09:57:00' duration='36:50 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='0068ebb4'>
+<dive number='51' cns='1%' date='2014-04-07' time='09:57:00' duration='36:50 min'>
+  <divecomputer model='Mares Puck Pro' diveid='0068ebb4'>
   <depth max='14.3 m' mean='7.136 m' />
   <temperature water='24.9 C' />
   <surface pressure='1.008 bar' />
@@ -16116,8 +16197,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='39:45 min' depth='0.5 m' />
   </divecomputer>
 </dive>
-<dive number='52' date='2014-04-18' time='11:32:00' duration='38:10 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='a2cbff04'>
+<dive number='52' otu='1' cns='2%' date='2014-04-18' time='11:32:00' duration='38:10 min'>
+  <divecomputer model='Mares Puck Pro' diveid='a2cbff04'>
   <depth max='16.0 m' mean='11.642 m' />
   <temperature water='10.4 C' />
   <surface pressure='1.01 bar' />
@@ -16616,8 +16697,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='41:05 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='53' date='2014-04-18' time='17:34:00' duration='38:10 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='6b3fb6f3'>
+<dive number='53' otu='2' cns='3%' date='2014-04-18' time='17:34:00' duration='38:10 min'>
+  <divecomputer model='Mares Puck Pro' diveid='6b3fb6f3'>
   <depth max='16.0 m' mean='12.571 m' />
   <temperature water='10.4 C' />
   <surface pressure='1.016 bar' />
@@ -17115,8 +17196,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='41:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='54' date='2014-04-19' time='13:12:00' duration='34:05 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='f6301647'>
+<dive number='54' otu='1' cns='2%' date='2014-04-19' time='13:12:00' duration='34:05 min'>
+  <divecomputer model='Mares Puck Pro' diveid='f6301647'>
   <depth max='16.4 m' mean='11.915 m' />
   <temperature water='10.6 C' />
   <surface pressure='1.017 bar' />
@@ -17589,8 +17670,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='38:55 min' depth='0.0 m' temp='11.1 C' />
   </divecomputer>
 </dive>
-<dive number='55' date='2014-05-17' time='15:28:00' duration='37:20 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='ae22e6cb'>
+<dive number='55' cns='1%' date='2014-05-17' time='15:28:00' duration='37:20 min'>
+  <divecomputer model='Mares Puck Pro' diveid='ae22e6cb'>
   <depth max='15.2 m' mean='10.264 m' />
   <temperature water='11.5 C' />
   <surface pressure='1.012 bar' />
@@ -18079,8 +18160,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='40:15 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='56' date='2014-05-18' time='14:27:00' duration='34:05 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='fc7a4efd'>
+<dive number='56' otu='1' cns='1%' date='2014-05-18' time='14:27:00' duration='34:05 min'>
+  <divecomputer model='Mares Puck Pro' diveid='fc7a4efd'>
   <depth max='17.8 m' mean='10.641 m' />
   <temperature water='11.7 C' />
   <surface pressure='1.0 bar' />
@@ -18529,8 +18610,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='36:55 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='57' date='2014-05-18' time='16:25:00' duration='40:10 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='29bf467d'>
+<dive number='57' otu='3' cns='4%' date='2014-05-18' time='16:25:00' duration='40:10 min'>
+  <divecomputer model='Mares Puck Pro' diveid='29bf467d'>
   <depth max='17.4 m' mean='13.21 m' />
   <temperature water='11.8 C' />
   <surface pressure='0.997 bar' />
@@ -19052,8 +19133,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='43:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='58' date='2014-06-21' time='16:07:00' duration='33:50 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='d2a1b1c9'>
+<dive number='58' otu='3' cns='3%' date='2014-06-21' time='16:07:00' duration='33:50 min'>
+  <divecomputer model='Mares Puck Pro' diveid='d2a1b1c9'>
   <depth max='18.6 m' mean='13.506 m' />
   <temperature water='14.4 C' />
   <surface pressure='0.986 bar' />
@@ -19499,8 +19580,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='36:40 min' depth='0.3 m' />
   </divecomputer>
 </dive>
-<dive number='59' date='2014-06-22' time='11:21:00' duration='32:25 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='981540ac'>
+<dive number='59' otu='6' cns='3%' date='2014-06-22' time='11:21:00' duration='32:25 min'>
+  <divecomputer model='Mares Puck Pro' diveid='981540ac'>
   <depth max='21.1 m' mean='15.082 m' />
   <temperature water='14.7 C' />
   <surface pressure='1.01 bar' />
@@ -19930,8 +20011,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='35:20 min' depth='0.0 m' temp='18.1 C' />
   </divecomputer>
 </dive>
-<dive number='60' date='2014-09-15' time='10:12:00' duration='50:50 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='402c9d02'>
+<dive number='60' otu='1' cns='1%' date='2014-09-15' time='10:12:00' duration='50:50 min'>
+  <divecomputer model='Mares Puck Pro' diveid='402c9d02'>
   <depth max='20.6 m' mean='9.903 m' />
   <temperature water='26.2 C' />
   <surface pressure='1.003 bar' />
@@ -20581,8 +20662,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='53:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='61' date='2014-09-15' time='12:19:00' duration='46:10 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='356c3a43'>
+<dive number='61' otu='4' cns='4%' date='2014-09-15' time='12:19:00' duration='46:10 min'>
+  <divecomputer model='Mares Puck Pro' diveid='356c3a43'>
   <depth max='18.8 m' mean='12.102 m' />
   <temperature water='23.6 C' />
   <surface pressure='1.007 bar' />
@@ -21176,8 +21257,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='49:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='62' date='2015-05-01' time='10:38:00' duration='39:55 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='a02ff074'>
+<dive number='62' otu='3' cns='2%' date='2015-05-01' time='10:38:00' duration='39:55 min'>
+  <divecomputer model='Mares Puck Pro' diveid='a02ff074'>
   <depth max='21.9 m' mean='13.027 m' />
   <temperature water='19.4 C' />
   <surface pressure='1.008 bar' />
@@ -21697,8 +21778,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='42:50 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='63' date='2015-05-01' time='12:59:00' duration='46:10 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='3672cf99'>
+<dive number='63' otu='9' cns='5%' date='2015-05-01' time='12:59:00' duration='46:10 min'>
+  <divecomputer model='Mares Puck Pro' diveid='3672cf99'>
   <depth max='25.1 m' mean='15.263 m' />
   <temperature water='19.4 C' />
   <surface pressure='1.01 bar' />
@@ -22292,8 +22373,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='49:00 min' depth='0.0 m' temp='21.3 C' />
   </divecomputer>
 </dive>
-<dive number='64' date='2015-05-02' time='10:18:00' duration='31:00 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='c4beab97'>
+<dive number='64' otu='8' cns='4%' date='2015-05-02' time='10:18:00' duration='31:00 min'>
+  <divecomputer model='Mares Puck Pro' diveid='c4beab97'>
   <depth max='28.1 m' mean='17.029 m' />
   <temperature water='19.1 C' />
   <surface pressure='1.006 bar' />
@@ -22706,9 +22787,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='33:55 min' depth='0.0 m' temp='21.2 C' />
   </divecomputer>
 </dive>
-<dive number='65' date='2015-05-04' time='10:18:00' duration='42:15 min'>
+<dive number='65' otu='5' cns='3%' date='2015-05-04' time='10:18:00' duration='42:15 min'>
   <cylinder description='unknown' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='401ff52c'>
+  <divecomputer model='Mares Puck Pro' diveid='401ff52c'>
   <depth max='19.6 m' mean='12.576 m' />
   <temperature water='18.7 C' />
   <surface pressure='1.027 bar' />
@@ -23257,12 +23338,12 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='45:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='66' rating='3' visibility='3' date='2015-05-04' time='12:32:00' duration='50:10 min'>
+<dive number='66' rating='3' visibility='3' sac='14.729 l/min' otu='5' cns='5%' date='2015-05-04' time='12:32:00' duration='50:10 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='12L 232 bar' start='220.0 bar' end='70.0 bar' />
   <weightsystem weight='8.0 kg' description='belt' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='9a83ae37'>
+  <divecomputer model='Mares Puck Pro' diveid='9a83ae37'>
   <depth max='21.7 m' mean='12.429 m' />
   <temperature water='19.5 C' />
   <surface pressure='1.004 bar' />
@@ -23905,10 +23986,10 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='53:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='67' rating='3' visibility='3' tags='mexico, xcalak' divesiteid='7a8128bb' date='2015-12-29' time='14:01:00' duration='44:20 min'>
+<dive number='67' rating='3' visibility='3' sac='16.689 l/min' otu='2' cns='3%' tags='mexico, xcalak' divesiteid='7a8128bb' date='2015-12-29' time='14:01:00' duration='44:20 min'>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='12ℓ 232 bar' start='220.0 bar' end='70.0 bar' />
   <weightsystem weight='9.0 kg' description='belt' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='b23d5c07' date='2015-12-29' time='21:01:00'>
+  <divecomputer model='Mares Puck Pro' diveid='b23d5c07' date='2015-12-29' time='21:01:00'>
   <depth max='15.8 m' mean='12.418 m' />
   <temperature water='28.1 C' />
   <surface pressure='1.002 bar' />
@@ -24482,13 +24563,13 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='47:15 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='68' rating='4' visibility='3' tags='mexico, xcalak' divesiteid=' 51279e9' date='2015-12-30' time='16:25:00' duration='45:05 min'>
+<dive number='68' rating='4' visibility='3' otu='6' cns='5%' tags='mexico, xcalak' divesiteid=' 51279e9' date='2015-12-30' time='16:25:00' duration='45:05 min'>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder workpressure='232.0 bar' description='232l' start='220.0 bar' end='70.0 bar' />
   <weightsystem weight='8.0 kg' />
   <divetemperature air='28.0 C'/>
-  <divecomputer model='Mares Puck Pro' deviceid='47102f58' diveid='fc1a9378'>
+  <divecomputer model='Mares Puck Pro' diveid='fc1a9378'>
   <depth max='21.8 m' mean='14.917 m' />
   <temperature water='27.9 C' />
   <surface pressure='1.009 bar' />
@@ -25070,12 +25151,12 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='47:55 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='69' divesiteid='cf36c1a8' date='2016-01-01' time='12:00:00' duration='38:05 min'>
+<dive number='69' sac='34.831 l/min' otu='6' cns='3%' divesiteid='cf36c1a8' date='2016-01-01' time='12:00:00' duration='38:05 min'>
   <divemaster>Mary Peter</divemaster>
   <suit>5mm semi-dry suit</suit>
   <cylinder size='24.0 l' workpressure='232.0 bar' description='D12 232 bar' start='210.0 bar' end='70.0 bar' />
   <weightsystem weight='8.0 kg' description='belt' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='4877e570' date='2012-01-15' time='07:02:00'>
+  <divecomputer model='Mares Puck Pro' diveid='4877e570' date='2012-01-15' time='07:02:00'>
   <depth max='24.8 m' mean='13.335 m' />
   <temperature water='26.0 C' />
   <surface pressure='1.021 bar' />
@@ -25625,12 +25706,12 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='45:15 min' depth='0.0 m' temp='28.6 C' />
   </divecomputer>
 </dive>
-<dive number='70' rating='3' visibility='2' divesiteid='ccc069c6' date='2016-01-01' time='16:00:00' duration='50:50 min'>
+<dive number='70' rating='3' visibility='2' sac='25.304 l/min' otu='5' cns='5%' divesiteid='ccc069c6' date='2016-01-01' time='16:00:00' duration='50:50 min'>
   <buddy>Jonathan</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder size='24.0 l' workpressure='232.0 bar' description='D12 232 bar' start='210.0 bar' end='70.0 bar' />
   <weightsystem weight='8.0 kg' description='belt' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='01e6dee5' date='2012-01-15' time='09:48:00'>
+  <divecomputer model='Mares Puck Pro' diveid='01e6dee5' date='2012-01-15' time='09:48:00'>
   <depth max='20.4 m' mean='14.236 m' />
   <temperature water='27.8 C' />
   <surface pressure='1.004 bar' />
@@ -26282,13 +26363,13 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='53:45 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='71' rating='3' visibility='4' tags='Cozumel, mexico' divesiteid='d5680c9f' date='2016-01-04' time='00:07:00' duration='44:00 min'>
+<dive number='71' rating='3' visibility='4' otu='8' cns='5%' tags='Cozumel, mexico' divesiteid='d5680c9f' date='2016-01-04' time='00:07:00' duration='44:00 min'>
   <divemaster>Denis (blue magic dive)</divemaster>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder description='10l' start='210.0 bar' end='50.0 bar' />
   <weightsystem weight='8.0 kg' description='belt' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='cc76bda9' date='2012-01-19' time='04:07:00'>
+  <divecomputer model='Mares Puck Pro' diveid='cc76bda9' date='2012-01-19' time='04:07:00'>
   <depth max='21.8 m' mean='15.687 m' />
   <temperature water='27.6 C' />
   <surface pressure='1.014 bar' />
@@ -26858,14 +26939,14 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='46:55 min' depth='0.1 m' />
   </divecomputer>
 </dive>
-<dive number='72' rating='3' visibility='4' divesiteid='8699c43a' date='2016-01-05' time='14:57:00' duration='50:30 min'>
+<dive number='72' rating='3' visibility='4' sac='14.036 l/min' otu='2' cns='3%' divesiteid='8699c43a' date='2016-01-05' time='14:57:00' duration='50:30 min'>
   <divemaster>Denis (blue magic dive)</divemaster>
   <buddy>Oisin Mulvihill</buddy>
   <suit>5mm semi-dry suit</suit>
   <cylinder size='10.0 l' description='10.0ℓ' start='210.0 bar' end='40.0 bar' />
   <weightsystem weight='8.0 kg' description='belt' />
   <divetemperature air='23.0 C'/>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='73689e93' date='2012-01-19' time='05:57:00'>
+  <divecomputer model='Mares Puck Pro' diveid='73689e93' date='2012-01-19' time='05:57:00'>
   <depth max='15.7 m' mean='12.43 m' />
   <temperature water='25.9 C' />
   <surface pressure='1.018 bar' />
@@ -27513,9 +27594,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='53:25 min' depth='0.2 m' />
   </divecomputer>
 </dive>
-<dive number='73' date='2016-09-19' time='08:53:00' duration='53:45 min'>
+<dive number='73' otu='10' cns='5%' date='2016-09-19' time='08:53:00' duration='53:45 min'>
   <cylinder description='unknown' />
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='48b78fec'>
+  <divecomputer model='Mares Puck Pro' diveid='48b78fec'>
   <depth max='27.2 m' mean='15.205 m' />
   <temperature water='19.3 C' />
   <surface pressure='1.002 bar' />
@@ -28202,8 +28283,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='56:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='74' date='2018-01-05' time='09:19:00' duration='56:50 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='2c5c245f'>
+<dive number='74' otu='4' cns='2%' date='2018-01-05' time='09:19:00' duration='56:50 min'>
+  <divecomputer model='Mares Puck Pro' diveid='2c5c245f'>
   <depth max='24.7 m' mean='9.997 m' />
   <temperature water='28.4 C' />
   <surface pressure='0.996 bar' />
@@ -28926,8 +29007,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='59:45 min' depth='0.0 m' temp='28.5 C' />
   </divecomputer>
 </dive>
-<dive number='75' date='2018-01-05' time='12:19:00' duration='42:50 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='cb07d4e8'>
+<dive number='75' otu='7' cns='5%' date='2018-01-05' time='12:19:00' duration='42:50 min'>
+  <divecomputer model='Mares Puck Pro' diveid='cb07d4e8'>
   <depth max='26.4 m' mean='15.448 m' />
   <temperature water='28.2 C' />
   <surface pressure='0.999 bar' />
@@ -29481,8 +29562,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='45:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='76' date='2018-01-05' time='15:57:00' duration='38:30 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='7086d693'>
+<dive number='76' otu='9' cns='6%' date='2018-01-05' time='15:57:00' duration='38:30 min'>
+  <divecomputer model='Mares Puck Pro' diveid='7086d693'>
   <depth max='24.5 m' mean='16.654 m' />
   <temperature water='28.1 C' />
   <surface pressure='0.996 bar' />
@@ -29985,8 +30066,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='41:25 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='77' date='2018-01-05' time='20:01:00' duration='42:00 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='17e2b2db'>
+<dive number='77' cns='1%' date='2018-01-05' time='20:01:00' duration='42:00 min'>
+  <divecomputer model='Mares Puck Pro' diveid='17e2b2db'>
   <depth max='9.8 m' mean='7.077 m' />
   <temperature water='28.0 C' />
   <surface pressure='0.996 bar' />
@@ -30530,8 +30611,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='44:50 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='78' date='2018-01-06' time='12:14:00' duration='35:30 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='0dd4b536'>
+<dive number='78' otu='10' cns='4%' date='2018-01-06' time='12:14:00' duration='35:30 min'>
+  <divecomputer model='Mares Puck Pro' diveid='0dd4b536'>
   <depth max='26.2 m' mean='17.928 m' />
   <temperature water='28.1 C' />
   <surface pressure='1.003 bar' />
@@ -30998,8 +31079,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='38:25 min' depth='0.4 m' />
   </divecomputer>
 </dive>
-<dive number='79' date='2018-01-06' time='15:47:00' duration='40:10 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='6dc3cf6c'>
+<dive number='79' otu='8' cns='5%' date='2018-01-06' time='15:47:00' duration='40:10 min'>
+  <divecomputer model='Mares Puck Pro' diveid='6dc3cf6c'>
   <depth max='27.0 m' mean='16.49 m' />
   <temperature water='27.7 C' />
   <surface pressure='0.995 bar' />
@@ -31522,8 +31603,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='43:05 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='80' date='2018-01-06' time='19:52:00' duration='43:45 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='9d3d7d89'>
+<dive number='80' otu='1' cns='2%' date='2018-01-06' time='19:52:00' duration='43:45 min'>
+  <divecomputer model='Mares Puck Pro' diveid='9d3d7d89'>
   <depth max='17.0 m' mean='9.943 m' />
   <temperature water='28.1 C' />
   <surface pressure='1.001 bar' />
@@ -32089,8 +32170,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='46:40 min' depth='0.3 m' />
   </divecomputer>
 </dive>
-<dive number='81' date='2018-01-07' time='08:57:00' duration='40:20 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='d71ac15d'>
+<dive number='81' otu='8' cns='4%' date='2018-01-07' time='08:57:00' duration='40:20 min'>
+  <divecomputer model='Mares Puck Pro' diveid='d71ac15d'>
   <depth max='26.2 m' mean='16.007 m' />
   <temperature water='28.0 C' />
   <surface pressure='1.0 bar' />
@@ -32614,8 +32695,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='43:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='82' date='2018-01-07' time='12:23:00' duration='32:20 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='51e0dbc0'>
+<dive number='82' otu='8' cns='4%' date='2018-01-07' time='12:23:00' duration='32:20 min'>
+  <divecomputer model='Mares Puck Pro' diveid='51e0dbc0'>
   <depth max='31.1 m' mean='16.802 m' />
   <temperature water='27.4 C' />
   <surface pressure='0.999 bar' />
@@ -33043,8 +33124,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='35:10 min' depth='0.3 m' />
   </divecomputer>
 </dive>
-<dive number='83' date='2018-01-07' time='15:58:00' duration='46:45 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='2bc17a15'>
+<dive number='83' otu='8' cns='5%' date='2018-01-07' time='15:58:00' duration='46:45 min'>
+  <divecomputer model='Mares Puck Pro' diveid='2bc17a15'>
   <depth max='25.6 m' mean='15.056 m' />
   <temperature water='27.7 C' />
   <surface pressure='0.995 bar' />
@@ -33645,8 +33726,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='49:35 min' depth='0.2 m' />
   </divecomputer>
 </dive>
-<dive number='84' date='2018-01-07' time='18:35:00' duration='45:55 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='303457c0'>
+<dive number='84' otu='6' cns='6%' date='2018-01-07' time='18:35:00' duration='45:55 min'>
+  <divecomputer model='Mares Puck Pro' diveid='303457c0'>
   <depth max='22.6 m' mean='13.586 m' />
   <temperature water='27.9 C' />
   <surface pressure='0.997 bar' />
@@ -34238,8 +34319,8 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='48:50 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='85' date='2018-01-08' time='08:38:00' duration='44:25 min'>
-  <divecomputer model='Mares Puck Pro' deviceid='948416f2' diveid='5ee458e7'>
+<dive number='85' otu='5' cns='5%' date='2018-01-08' time='08:38:00' duration='44:25 min'>
+  <divecomputer model='Mares Puck Pro' diveid='5ee458e7'>
   <depth max='17.5 m' mean='14.403 m' />
   <temperature water='28.4 C' />
   <surface pressure='0.999 bar' />
@@ -34812,9 +34893,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='47:15 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='86' date='2018-06-11' time='14:25:22' duration='44:00 min'>
+<dive number='86' otu='5' cns='4%' date='2018-06-11' time='14:25:22' duration='44:00 min'>
   <cylinder description='unknown' depth='65.52 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='d0304dd6'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='d0304dd6'>
   <depth max='22.08 m' mean='13.665 m' />
   <temperature air='30.0 C' water='29.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -34957,9 +35038,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='44:00 min' depth='1.01 m' />
   </divecomputer>
 </dive>
-<dive number='87' date='2018-06-11' time='16:28:13' duration='46:00 min'>
+<dive number='87' otu='1' cns='3%' date='2018-06-11' time='16:28:13' duration='46:00 min'>
   <cylinder description='unknown' depth='65.52 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='74cae06b'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='74cae06b'>
   <depth max='17.36 m' mean='9.473 m' />
   <temperature air='31.0 C' water='29.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -35108,9 +35189,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='46:00 min' depth='1.69 m' />
   </divecomputer>
 </dive>
-<dive number='88' date='2018-06-11' time='18:46:05' duration='46:40 min'>
+<dive number='88' otu='5' cns='5%' date='2018-06-11' time='18:46:05' duration='46:40 min'>
   <cylinder description='unknown' depth='65.52 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='67cce773'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='67cce773'>
   <depth max='19.07 m' mean='13.526 m' />
   <temperature air='31.0 C' water='28.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -35261,9 +35342,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='46:40 min' depth='2.53 m' />
   </divecomputer>
 </dive>
-<dive number='89' date='2018-06-12' time='14:19:41' duration='47:40 min'>
+<dive number='89' otu='5' cns='3%' date='2018-06-12' time='14:19:41' duration='47:40 min'>
   <cylinder description='unknown' depth='65.52 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='1c4de125'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='1c4de125'>
   <depth max='20.89 m' mean='13.604 m' />
   <temperature air='30.0 C' water='29.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -35417,9 +35498,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='47:40 min' depth='2.26 m' />
   </divecomputer>
 </dive>
-<dive number='90' date='2018-06-12' time='16:28:24' duration='46:40 min'>
+<dive number='90' otu='8' cns='6%' date='2018-06-12' time='16:28:24' duration='46:40 min'>
   <cylinder description='unknown' depth='65.52 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='53558f51'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='53558f51'>
   <depth max='20.97 m' mean='14.831 m' />
   <temperature air='30.0 C' water='29.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -35570,9 +35651,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='46:40 min' depth='2.91 m' />
   </divecomputer>
 </dive>
-<dive number='91' date='2018-06-12' time='19:56:36' duration='49:20 min'>
+<dive number='91' cns='3%' date='2018-06-12' time='19:56:36' duration='49:20 min'>
   <cylinder description='unknown' depth='65.52 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='d3a954c8'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='d3a954c8'>
   <depth max='14.99 m' mean='10.817 m' />
   <temperature air='30.0 C' water='29.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -35731,9 +35812,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='49:20 min' depth='1.3 m' />
   </divecomputer>
 </dive>
-<dive number='92' date='2018-06-13' time='14:10:32' duration='44:40 min'>
+<dive number='92' otu='5' cns='4%' date='2018-06-13' time='14:10:32' duration='44:40 min'>
   <cylinder description='unknown' depth='65.52 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='a3dafeb2'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='a3dafeb2'>
   <depth max='20.72 m' mean='13.173 m' />
   <temperature air='31.0 C' water='29.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -35878,9 +35959,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='44:40 min' depth='1.18 m' />
   </divecomputer>
 </dive>
-<dive number='93' date='2018-06-13' time='16:20:44' duration='49:00 min'>
+<dive number='93' otu='2' cns='6%' date='2018-06-13' time='16:20:44' duration='49:00 min'>
   <cylinder description='unknown' depth='65.52 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='931bde14'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='931bde14'>
   <depth max='15.76 m' mean='12.846 m' />
   <temperature air='30.0 C' water='29.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -36038,9 +36119,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='49:00 min' depth='1.85 m' temp='30.0 C' />
   </divecomputer>
 </dive>
-<dive number='94' date='2018-06-13' time='19:58:16' duration='42:20 min'>
+<dive number='94' otu='1' cns='4%' date='2018-06-13' time='19:58:16' duration='42:20 min'>
   <cylinder description='unknown' depth='65.52 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='8f9d9304'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='8f9d9304'>
   <depth max='16.45 m' mean='11.862 m' />
   <temperature air='31.0 C' water='29.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -36180,9 +36261,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='42:20 min' depth='3.36 m' />
   </divecomputer>
 </dive>
-<dive number='95' date='2018-06-13' time='23:44:20' duration='49:00 min'>
+<dive number='95' cns='1%' date='2018-06-13' time='23:44:20' duration='49:00 min'>
   <cylinder description='unknown' depth='65.52 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='f7ad7b0b'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='f7ad7b0b'>
   <depth max='10.14 m' mean='6.548 m' />
   <temperature air='30.0 C' water='29.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -36339,9 +36420,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='49:00 min' depth='2.6 m' />
   </divecomputer>
 </dive>
-<dive number='96' date='2018-06-14' time='14:57:53' duration='45:00 min'>
+<dive number='96' otu='3' cns='2%' date='2018-06-14' time='14:57:53' duration='45:00 min'>
   <cylinder description='unknown' depth='65.52 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='6687e697'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='6687e697'>
   <depth max='19.31 m' mean='11.482 m' />
   <temperature air='30.0 C' water='29.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -36489,9 +36570,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='45:00 min' depth='1.69 m' />
   </divecomputer>
 </dive>
-<dive number='97' date='2018-06-14' time='17:03:46' duration='47:40 min'>
+<dive number='97' otu='1' cns='4%' date='2018-06-14' time='17:03:46' duration='47:40 min'>
   <cylinder description='unknown' depth='65.52 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='9ea9ed48'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='9ea9ed48'>
   <depth max='15.66 m' mean='12.529 m' />
   <temperature air='30.0 C' water='29.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -36647,7 +36728,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
 </dive>
 <dive number='98' date='2019-04-13' time='10:32:29' duration='54:20 min'>
   <cylinder description='unknown' depth='65.38 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='64c7e6f6'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='64c7e6f6'>
   <depth max='9.97 m' mean='7.674 m' />
   <temperature air='23.0 C' water='22.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -36833,9 +36914,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='57:00 min' depth='3.79 m' temp='23.0 C' />
   </divecomputer>
 </dive>
-<dive number='99' date='2019-04-13' time='14:49:38' duration='48:40 min'>
+<dive number='99' otu='12' cns='5%' date='2019-04-13' time='14:49:38' duration='48:40 min'>
   <cylinder description='unknown' o2='26.0%' depth='50.87 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='97c8725e'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='97c8725e'>
   <depth max='25.89 m' mean='11.664 m' />
   <temperature air='25.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -36992,9 +37073,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='48:40 min' depth='1.52 m' />
   </divecomputer>
 </dive>
-<dive number='100' date='2019-04-13' time='18:26:32' duration='39:40 min'>
+<dive number='100' otu='17' cns='8%' date='2019-04-13' time='18:26:32' duration='39:40 min'>
   <cylinder description='unknown' o2='29.0%' depth='44.58 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='b4c5f998'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='b4c5f998'>
   <depth max='21.83 m' mean='13.415 m' />
   <temperature air='24.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -37127,9 +37208,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='39:40 min' depth='3.07 m' />
   </divecomputer>
 </dive>
-<dive number='101' date='2019-04-14' time='07:04:51' duration='50:00 min'>
+<dive number='101' otu='25' cns='9%' date='2019-04-14' time='07:04:51' duration='50:00 min'>
   <cylinder description='unknown' o2='30.0%' depth='42.75 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='14264aeb'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='14264aeb'>
   <depth max='20.75 m' mean='13.843 m' />
   <temperature air='25.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -37292,9 +37373,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='50:00 min' depth='2.22 m' />
   </divecomputer>
 </dive>
-<dive number='102' date='2019-04-14' time='11:02:29' duration='45:00 min'>
+<dive number='102' otu='34' cns='13%' date='2019-04-14' time='11:02:29' duration='45:00 min'>
   <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='224c97a7'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='224c97a7'>
   <depth max='24.36 m' mean='17.361 m' />
   <temperature air='25.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -37444,9 +37525,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='45:00 min' depth='2.91 m' />
   </divecomputer>
 </dive>
-<dive number='103' date='2019-04-14' time='15:03:40' duration='39:00 min'>
+<dive number='103' otu='29' cns='12%' date='2019-04-14' time='15:03:40' duration='39:00 min'>
   <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='2dd27138'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='2dd27138'>
   <depth max='26.32 m' mean='17.515 m' />
   <temperature air='25.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -37574,9 +37655,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='39:00 min' depth='2.86 m' />
   </divecomputer>
 </dive>
-<dive number='104' date='2019-04-15' time='07:30:09' duration='32:40 min'>
+<dive number='104' otu='23' cns='8%' date='2019-04-15' time='07:30:09' duration='32:40 min'>
   <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='e60d05fc'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='e60d05fc'>
   <depth max='24.54 m' mean='16.908 m' />
   <temperature air='24.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -37685,9 +37766,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='32:40 min' depth='3.04 m' />
   </divecomputer>
 </dive>
-<dive number='105' date='2019-04-15' time='10:57:29' duration='33:00 min'>
+<dive number='105' otu='25' cns='10%' date='2019-04-15' time='10:57:29' duration='33:00 min'>
   <cylinder description='unknown' o2='30.0%' depth='42.75 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='060aabd3'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='060aabd3'>
   <depth max='27.04 m' mean='18.564 m' />
   <temperature air='24.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -37797,9 +37878,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='33:00 min' depth='4.26 m' />
   </divecomputer>
 </dive>
-<dive number='106' date='2019-04-15' time='15:04:11' duration='41:20 min'>
+<dive number='106' otu='24' cns='10%' date='2019-04-15' time='15:04:11' duration='41:20 min'>
   <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='620c8ea7'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='620c8ea7'>
   <depth max='22.86 m' mean='14.38 m' />
   <temperature air='24.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -37936,9 +38017,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='41:20 min' depth='2.5 m' temp='24.0 C' />
   </divecomputer>
 </dive>
-<dive number='107' date='2019-04-15' time='18:32:46' duration='55:20 min'>
+<dive number='107' otu='14' cns='10%' date='2019-04-15' time='18:32:46' duration='55:20 min'>
   <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='555a2193'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='555a2193'>
   <depth max='13.65 m' mean='8.979 m' />
   <temperature air='24.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -38116,9 +38197,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='55:20 min' depth='4.65 m' />
   </divecomputer>
 </dive>
-<dive number='108' date='2019-04-16' time='07:11:36' duration='54:40 min'>
+<dive number='108' otu='30' cns='11%' date='2019-04-16' time='07:11:36' duration='54:40 min'>
   <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='fd4ad8af'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='fd4ad8af'>
   <depth max='23.8 m' mean='13.99 m' />
   <temperature air='24.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -38293,9 +38374,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='54:40 min' depth='3.08 m' />
   </divecomputer>
 </dive>
-<dive number='109' date='2019-04-16' time='10:26:06' duration='51:20 min'>
+<dive number='109' otu='23' cns='12%' date='2019-04-16' time='10:26:06' duration='51:20 min'>
   <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='f480c157'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='f480c157'>
   <depth max='18.89 m' mean='12.16 m' />
   <temperature air='25.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -38460,9 +38541,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='51:20 min' depth='2.95 m' />
   </divecomputer>
 </dive>
-<dive number='110' date='2019-04-16' time='16:27:45' duration='54:20 min'>
+<dive number='110' otu='12' cns='8%' date='2019-04-16' time='16:27:45' duration='54:20 min'>
   <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='be946faf'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='be946faf'>
   <depth max='11.43 m' mean='8.492 m' />
   <temperature air='24.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -38635,9 +38716,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='54:20 min' depth='1.43 m' />
   </divecomputer>
 </dive>
-<dive number='111' date='2019-04-17' time='10:56:44' duration='65:20 min'>
+<dive number='111' otu='22' cns='10%' date='2019-04-17' time='10:56:44' duration='65:20 min'>
   <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='e2f509ba'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='e2f509ba'>
   <depth max='20.17 m' mean='10.506 m' />
   <temperature air='24.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -38843,9 +38924,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='65:20 min' depth='1.49 m' />
   </divecomputer>
 </dive>
-<dive number='112' date='2019-04-17' time='15:21:10' duration='59:00 min'>
+<dive number='112' otu='16' cns='10%' date='2019-04-17' time='15:21:10' duration='59:00 min'>
   <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='cafcce89'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='cafcce89'>
   <depth max='12.28 m' mean='9.414 m' />
   <temperature air='23.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -39032,9 +39113,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='59:00 min' depth='3.78 m' />
   </divecomputer>
 </dive>
-<dive number='113' date='2019-04-17' time='18:23:47' duration='48:40 min'>
+<dive number='113' otu='16' cns='11%' date='2019-04-17' time='18:23:47' duration='48:40 min'>
   <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='d69c8bf5'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='d69c8bf5'>
   <depth max='12.68 m' mean='10.105 m' />
   <temperature air='22.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -39190,9 +39271,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='48:40 min' depth='3.75 m' />
   </divecomputer>
 </dive>
-<dive number='114' date='2019-04-18' time='07:22:56' duration='58:00 min'>
+<dive number='114' otu='14' cns='8%' date='2019-04-18' time='07:22:56' duration='58:00 min'>
   <cylinder description='unknown' o2='31.0%' depth='41.05 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='23aa92c8'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='23aa92c8'>
   <depth max='12.38 m' mean='8.984 m' />
   <temperature air='23.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -39376,9 +39457,9 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='58:00 min' depth='3.98 m' />
   </divecomputer>
 </dive>
-<dive number='115' date='2019-04-18' time='11:19:05' duration='59:00 min'>
+<dive number='115' otu='21' cns='10%' date='2019-04-18' time='11:19:05' duration='59:00 min'>
   <cylinder description='unknown' o2='29.0%' depth='44.58 m' />
-  <divecomputer model='Suunto Zoop Novo' deviceid='8a90a816' diveid='fdd058a0'>
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='fdd058a0'>
   <depth max='24.31 m' mean='11.971 m' />
   <temperature air='24.0 C' water='23.0 C' />
   <extradata key='Serial' value='80371412' />
@@ -39564,6 +39645,1386 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='58:20 min' depth='2.63 m' />
   <sample time='58:40 min' depth='3.65 m' />
   <sample time='59:00 min' depth='2.16 m' />
+  </divecomputer>
+</dive>
+<dive number='116' otu='5' cns='4%' date='2020-09-29' time='08:37:39' duration='49:40 min'>
+  <cylinder description='unknown' depth='65.378 m' />
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='2b6ab71a'>
+  <depth max='21.02 m' mean='13.452 m' />
+  <temperature air='22.0 C' water='21.0 C' />
+  <extradata key='Serial' value='80371412' />
+  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
+  <event time='0:00 min' type='9' name='surface' />
+  <event time='49:44 min' type='24' flags='1' name='tissue level warning' />
+  <event time='49:44 min' type='9' name='surface' />
+  <sample time='0:00 min' depth='1.76 m' />
+  <sample time='0:20 min' depth='6.94 m' temp='22.0 C' />
+  <sample time='0:40 min' depth='11.57 m' />
+  <sample time='1:00 min' depth='11.3 m' />
+  <sample time='1:20 min' depth='11.04 m' />
+  <sample time='1:40 min' depth='13.11 m' />
+  <sample time='2:00 min' depth='14.98 m' />
+  <sample time='2:20 min' depth='16.32 m' />
+  <sample time='2:40 min' depth='17.92 m' />
+  <sample time='3:00 min' depth='18.71 m' />
+  <sample time='3:20 min' depth='19.02 m' />
+  <sample time='3:40 min' depth='19.61 m' />
+  <sample time='4:00 min' depth='19.79 m' />
+  <sample time='4:20 min' depth='19.79 m' />
+  <sample time='4:40 min' depth='20.06 m' temp='21.0 C' />
+  <sample time='5:00 min' depth='20.77 m' />
+  <sample time='5:20 min' depth='20.04 m' temp='22.0 C' />
+  <sample time='5:40 min' depth='19.04 m' />
+  <sample time='6:00 min' depth='18.66 m' />
+  <sample time='6:20 min' depth='18.49 m' />
+  <sample time='6:40 min' depth='17.76 m' />
+  <sample time='7:00 min' depth='17.77 m' />
+  <sample time='7:20 min' depth='17.42 m' />
+  <sample time='7:40 min' depth='17.79 m' />
+  <sample time='8:00 min' depth='17.56 m' />
+  <sample time='8:20 min' depth='17.59 m' />
+  <sample time='8:40 min' depth='17.66 m' />
+  <sample time='9:00 min' depth='18.12 m' />
+  <sample time='9:20 min' depth='17.96 m' />
+  <sample time='9:40 min' depth='17.9 m' />
+  <sample time='10:00 min' depth='18.12 m' />
+  <sample time='10:20 min' depth='18.48 m' />
+  <sample time='10:40 min' depth='19.21 m' />
+  <sample time='11:00 min' depth='19.23 m' />
+  <sample time='11:20 min' depth='19.23 m' />
+  <sample time='11:40 min' depth='18.76 m' />
+  <sample time='12:00 min' depth='19.42 m' />
+  <sample time='12:20 min' depth='19.63 m' />
+  <sample time='12:40 min' depth='19.28 m' />
+  <sample time='13:00 min' depth='18.83 m' />
+  <sample time='13:20 min' depth='18.09 m' />
+  <sample time='13:40 min' depth='18.46 m' />
+  <sample time='14:00 min' depth='18.48 m' />
+  <sample time='14:20 min' depth='18.39 m' />
+  <sample time='14:40 min' depth='18.44 m' />
+  <sample time='15:00 min' depth='18.15 m' />
+  <sample time='15:20 min' depth='17.2 m' />
+  <sample time='15:40 min' depth='16.51 m' />
+  <sample time='16:00 min' depth='16.01 m' />
+  <sample time='16:20 min' depth='16.14 m' />
+  <sample time='16:40 min' depth='15.81 m' />
+  <sample time='17:00 min' depth='15.54 m' />
+  <sample time='17:20 min' depth='15.48 m' />
+  <sample time='17:40 min' depth='15.46 m' />
+  <sample time='18:00 min' depth='15.03 m' />
+  <sample time='18:20 min' depth='14.66 m' />
+  <sample time='18:40 min' depth='14.53 m' />
+  <sample time='19:00 min' depth='14.43 m' />
+  <sample time='19:20 min' depth='15.41 m' />
+  <sample time='19:40 min' depth='16.12 m' />
+  <sample time='20:00 min' depth='15.83 m' temp='21.0 C' />
+  <sample time='20:20 min' depth='15.23 m' />
+  <sample time='20:40 min' depth='13.95 m' />
+  <sample time='21:00 min' depth='13.23 m' />
+  <sample time='21:20 min' depth='14.06 m' />
+  <sample time='21:40 min' depth='13.84 m' />
+  <sample time='22:00 min' depth='13.68 m' />
+  <sample time='22:20 min' depth='13.64 m' />
+  <sample time='22:40 min' depth='13.7 m' />
+  <sample time='23:00 min' depth='13.17 m' />
+  <sample time='23:20 min' depth='13.41 m' />
+  <sample time='23:40 min' depth='13.41 m' />
+  <sample time='24:00 min' depth='13.54 m' />
+  <sample time='24:20 min' depth='13.73 m' />
+  <sample time='24:40 min' depth='13.85 m' />
+  <sample time='25:00 min' depth='13.04 m' />
+  <sample time='25:20 min' depth='13.71 m' />
+  <sample time='25:40 min' depth='13.82 m' />
+  <sample time='26:00 min' depth='14.86 m' />
+  <sample time='26:20 min' depth='14.51 m' />
+  <sample time='26:40 min' depth='14.31 m' />
+  <sample time='27:00 min' depth='14.29 m' />
+  <sample time='27:20 min' depth='14.2 m' />
+  <sample time='27:40 min' depth='15.02 m' />
+  <sample time='28:00 min' depth='15.02 m' />
+  <sample time='28:20 min' depth='15.31 m' temp='22.0 C' />
+  <sample time='28:40 min' depth='15.41 m' />
+  <sample time='29:00 min' depth='15.96 m' />
+  <sample time='29:20 min' depth='16.17 m' />
+  <sample time='29:40 min' depth='16.0 m' />
+  <sample time='30:00 min' depth='16.43 m' />
+  <sample time='30:20 min' depth='16.3 m' />
+  <sample time='30:40 min' depth='15.52 m' />
+  <sample time='31:00 min' depth='15.52 m' />
+  <sample time='31:20 min' depth='15.41 m' />
+  <sample time='31:40 min' depth='15.19 m' />
+  <sample time='32:00 min' depth='14.58 m' />
+  <sample time='32:20 min' depth='14.38 m' temp='21.0 C' />
+  <sample time='32:40 min' depth='14.39 m' temp='22.0 C' />
+  <sample time='33:00 min' depth='14.36 m' />
+  <sample time='33:20 min' depth='14.45 m' />
+  <sample time='33:40 min' depth='14.82 m' />
+  <sample time='34:00 min' depth='14.74 m' />
+  <sample time='34:20 min' depth='14.8 m' />
+  <sample time='34:40 min' depth='14.34 m' />
+  <sample time='35:00 min' depth='13.22 m' />
+  <sample time='35:20 min' depth='12.31 m' />
+  <sample time='35:40 min' depth='12.45 m' />
+  <sample time='36:00 min' depth='12.97 m' />
+  <sample time='36:20 min' depth='12.4 m' />
+  <sample time='36:40 min' depth='10.37 m' />
+  <sample time='37:00 min' depth='8.24 m' />
+  <sample time='37:20 min' depth='7.12 m' />
+  <sample time='37:40 min' depth='7.57 m' />
+  <sample time='38:00 min' depth='7.97 m' />
+  <sample time='38:20 min' depth='8.33 m' />
+  <sample time='38:40 min' depth='8.83 m' />
+  <sample time='39:00 min' depth='8.95 m' />
+  <sample time='39:20 min' depth='9.01 m' />
+  <sample time='39:40 min' depth='8.57 m' />
+  <sample time='40:00 min' depth='8.94 m' />
+  <sample time='40:20 min' depth='8.45 m' />
+  <sample time='40:40 min' depth='8.73 m' />
+  <sample time='41:00 min' depth='8.55 m' />
+  <sample time='41:20 min' depth='8.37 m' />
+  <sample time='41:40 min' depth='8.09 m' />
+  <sample time='42:00 min' depth='7.08 m' />
+  <sample time='42:20 min' depth='6.44 m' />
+  <sample time='42:40 min' depth='7.09 m' />
+  <sample time='43:00 min' depth='5.42 m' />
+  <sample time='43:20 min' depth='5.4 m' />
+  <sample time='43:40 min' depth='5.59 m' />
+  <sample time='44:00 min' depth='4.87 m' />
+  <sample time='44:20 min' depth='4.84 m' />
+  <sample time='44:40 min' depth='4.75 m' />
+  <sample time='45:00 min' depth='4.94 m' />
+  <sample time='45:20 min' depth='4.78 m' />
+  <sample time='45:40 min' depth='4.65 m' />
+  <sample time='46:00 min' depth='5.4 m' />
+  <sample time='46:20 min' depth='6.36 m' />
+  <sample time='46:40 min' depth='7.53 m' />
+  <sample time='47:00 min' depth='6.99 m' />
+  <sample time='47:20 min' depth='6.69 m' />
+  <sample time='47:40 min' depth='6.57 m' />
+  <sample time='48:00 min' depth='6.94 m' />
+  <sample time='48:20 min' depth='6.96 m' />
+  <sample time='48:40 min' depth='6.13 m' />
+  <sample time='49:00 min' depth='5.31 m' />
+  <sample time='49:20 min' depth='4.07 m' />
+  <sample time='49:40 min' depth='1.8 m' />
+  </divecomputer>
+</dive>
+<dive number='117' otu='9' cns='6%' date='2020-09-29' time='10:48:51' duration='48:00 min'>
+  <cylinder description='unknown' depth='65.378 m' />
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='a45a9dea'>
+  <depth max='27.31 m' mean='14.783 m' />
+  <temperature air='22.0 C' water='21.0 C' />
+  <extradata key='Serial' value='80371412' />
+  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
+  <event time='0:00 min' type='9' name='surface' />
+  <event time='40:34 min' type='3' flags='1' name='ascent' />
+  <event time='40:43 min' type='3' flags='2' name='ascent' />
+  <event time='48:04 min' type='24' flags='1' name='tissue level warning' />
+  <event time='48:04 min' type='9' name='surface' />
+  <sample time='0:00 min' depth='1.75 m' />
+  <sample time='0:20 min' depth='2.38 m' temp='22.0 C' />
+  <sample time='0:40 min' depth='4.15 m' />
+  <sample time='1:00 min' depth='4.79 m' />
+  <sample time='1:20 min' depth='6.13 m' />
+  <sample time='1:40 min' depth='8.51 m' />
+  <sample time='2:00 min' depth='9.97 m' />
+  <sample time='2:20 min' depth='10.84 m' />
+  <sample time='2:40 min' depth='10.3 m' />
+  <sample time='3:00 min' depth='11.04 m' />
+  <sample time='3:20 min' depth='12.54 m' />
+  <sample time='3:40 min' depth='13.04 m' />
+  <sample time='4:00 min' depth='13.36 m' />
+  <sample time='4:20 min' depth='14.58 m' />
+  <sample time='4:40 min' depth='17.26 m' />
+  <sample time='5:00 min' depth='19.09 m' />
+  <sample time='5:20 min' depth='20.64 m' />
+  <sample time='5:40 min' depth='21.99 m' />
+  <sample time='6:00 min' depth='22.72 m' />
+  <sample time='6:20 min' depth='23.15 m' />
+  <sample time='6:40 min' depth='23.69 m' />
+  <sample time='7:00 min' depth='23.8 m' />
+  <sample time='7:20 min' depth='23.9 m' />
+  <sample time='7:40 min' depth='23.84 m' />
+  <sample time='8:00 min' depth='24.78 m' />
+  <sample time='8:20 min' depth='24.29 m' />
+  <sample time='8:40 min' depth='24.65 m' />
+  <sample time='9:00 min' depth='25.28 m' />
+  <sample time='9:20 min' depth='25.34 m' />
+  <sample time='9:40 min' depth='25.73 m' />
+  <sample time='10:00 min' depth='26.21 m' />
+  <sample time='10:20 min' depth='27.05 m' temp='21.0 C' />
+  <sample time='10:40 min' depth='24.52 m' />
+  <sample time='11:00 min' depth='25.47 m' />
+  <sample time='11:20 min' depth='25.77 m' />
+  <sample time='11:40 min' depth='25.79 m' />
+  <sample time='12:00 min' depth='25.21 m' />
+  <sample time='12:20 min' depth='24.61 m' />
+  <sample time='12:40 min' depth='24.72 m' temp='22.0 C' />
+  <sample time='13:00 min' depth='24.84 m' temp='21.0 C' />
+  <sample time='13:20 min' depth='24.11 m' />
+  <sample time='13:40 min' depth='24.2 m' temp='22.0 C' />
+  <sample time='14:00 min' depth='24.13 m' />
+  <sample time='14:20 min' depth='25.33 m' />
+  <sample time='14:40 min' depth='25.91 m' />
+  <sample time='15:00 min' depth='24.5 m' />
+  <sample time='15:20 min' depth='23.74 m' />
+  <sample time='15:40 min' depth='23.32 m' />
+  <sample time='16:00 min' depth='23.02 m' temp='21.0 C' />
+  <sample time='16:20 min' depth='22.13 m' />
+  <sample time='16:40 min' depth='21.79 m' />
+  <sample time='17:00 min' depth='22.13 m' temp='22.0 C' />
+  <sample time='17:20 min' depth='21.75 m' />
+  <sample time='17:40 min' depth='21.68 m' />
+  <sample time='18:00 min' depth='21.27 m' />
+  <sample time='18:20 min' depth='20.63 m' />
+  <sample time='18:40 min' depth='20.45 m' temp='21.0 C' />
+  <sample time='19:00 min' depth='20.33 m' temp='22.0 C' />
+  <sample time='19:20 min' depth='19.27 m' />
+  <sample time='19:40 min' depth='17.48 m' />
+  <sample time='20:00 min' depth='17.16 m' />
+  <sample time='20:20 min' depth='17.47 m' />
+  <sample time='20:40 min' depth='17.41 m' />
+  <sample time='21:00 min' depth='17.75 m' />
+  <sample time='21:20 min' depth='17.83 m' />
+  <sample time='21:40 min' depth='18.09 m' />
+  <sample time='22:00 min' depth='17.99 m' />
+  <sample time='22:20 min' depth='18.73 m' />
+  <sample time='22:40 min' depth='18.48 m' />
+  <sample time='23:00 min' depth='18.14 m' />
+  <sample time='23:20 min' depth='17.39 m' />
+  <sample time='23:40 min' depth='16.91 m' />
+  <sample time='24:00 min' depth='17.29 m' />
+  <sample time='24:20 min' depth='16.91 m' />
+  <sample time='24:40 min' depth='15.68 m' />
+  <sample time='25:00 min' depth='14.06 m' />
+  <sample time='25:20 min' depth='14.19 m' />
+  <sample time='25:40 min' depth='15.24 m' />
+  <sample time='26:00 min' depth='15.63 m' />
+  <sample time='26:20 min' depth='15.27 m' />
+  <sample time='26:40 min' depth='14.52 m' />
+  <sample time='27:00 min' depth='14.05 m' />
+  <sample time='27:20 min' depth='13.79 m' />
+  <sample time='27:40 min' depth='13.9 m' />
+  <sample time='28:00 min' depth='13.81 m' />
+  <sample time='28:20 min' depth='14.43 m' />
+  <sample time='28:40 min' depth='15.34 m' />
+  <sample time='29:00 min' depth='14.42 m' />
+  <sample time='29:20 min' depth='13.71 m' />
+  <sample time='29:40 min' depth='13.02 m' />
+  <sample time='30:00 min' depth='12.53 m' />
+  <sample time='30:20 min' depth='11.59 m' />
+  <sample time='30:40 min' depth='11.84 m' />
+  <sample time='31:00 min' depth='13.47 m' />
+  <sample time='31:20 min' depth='14.3 m' />
+  <sample time='31:40 min' depth='13.77 m' />
+  <sample time='32:00 min' depth='13.65 m' />
+  <sample time='32:20 min' depth='13.35 m' temp='21.0 C' />
+  <sample time='32:40 min' depth='11.97 m' temp='22.0 C' />
+  <sample time='33:00 min' depth='11.73 m' />
+  <sample time='33:20 min' depth='10.13 m' />
+  <sample time='33:40 min' depth='8.74 m' />
+  <sample time='34:00 min' depth='9.69 m' />
+  <sample time='34:20 min' depth='10.36 m' />
+  <sample time='34:40 min' depth='10.6 m' />
+  <sample time='35:00 min' depth='10.41 m' />
+  <sample time='35:20 min' depth='9.93 m' />
+  <sample time='35:40 min' depth='9.73 m' />
+  <sample time='36:00 min' depth='9.71 m' />
+  <sample time='36:20 min' depth='9.96 m' />
+  <sample time='36:40 min' depth='9.95 m' />
+  <sample time='37:00 min' depth='8.87 m' />
+  <sample time='37:20 min' depth='8.14 m' />
+  <sample time='37:40 min' depth='8.79 m' />
+  <sample time='38:00 min' depth='9.56 m' />
+  <sample time='38:20 min' depth='9.45 m' />
+  <sample time='38:40 min' depth='9.56 m' />
+  <sample time='39:00 min' depth='9.89 m' />
+  <sample time='39:20 min' depth='9.93 m' />
+  <sample time='39:40 min' depth='8.23 m' />
+  <sample time='40:00 min' depth='7.1 m' />
+  <sample time='40:20 min' depth='7.1 m' />
+  <sample time='40:40 min' depth='3.92 m' />
+  <sample time='41:00 min' depth='6.1 m' />
+  <sample time='41:20 min' depth='6.45 m' />
+  <sample time='41:40 min' depth='6.07 m' />
+  <sample time='42:00 min' depth='6.07 m' />
+  <sample time='42:20 min' depth='5.58 m' />
+  <sample time='42:40 min' depth='5.46 m' />
+  <sample time='43:00 min' depth='3.89 m' />
+  <sample time='43:20 min' depth='6.01 m' />
+  <sample time='43:40 min' depth='5.98 m' />
+  <sample time='44:00 min' depth='5.42 m' />
+  <sample time='44:20 min' depth='5.6 m' />
+  <sample time='44:40 min' depth='5.89 m' />
+  <sample time='45:00 min' depth='5.44 m' />
+  <sample time='45:20 min' depth='5.59 m' />
+  <sample time='45:40 min' depth='5.92 m' />
+  <sample time='46:00 min' depth='5.84 m' />
+  <sample time='46:20 min' depth='6.12 m' />
+  <sample time='46:40 min' depth='5.77 m' />
+  <sample time='47:00 min' depth='5.61 m' />
+  <sample time='47:20 min' depth='5.33 m' />
+  <sample time='47:40 min' depth='3.23 m' />
+  <sample time='48:00 min' depth='1.55 m' />
+  </divecomputer>
+</dive>
+<dive number='118' otu='6' cns='4%' date='2020-09-30' time='08:18:46' duration='45:40 min'>
+  <cylinder description='unknown' depth='65.378 m' />
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='d3c62301'>
+  <depth max='23.67 m' mean='14.258 m' />
+  <temperature air='22.0 C' water='21.0 C' />
+  <extradata key='Serial' value='80371412' />
+  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
+  <event time='0:00 min' type='9' name='surface' />
+  <event time='45:42 min' type='24' flags='1' name='tissue level warning' />
+  <event time='45:42 min' type='9' name='surface' />
+  <sample time='0:00 min' depth='1.42 m' />
+  <sample time='0:20 min' depth='3.53 m' temp='22.0 C' />
+  <sample time='0:40 min' depth='5.88 m' />
+  <sample time='1:00 min' depth='6.4 m' />
+  <sample time='1:20 min' depth='7.57 m' />
+  <sample time='1:40 min' depth='8.85 m' />
+  <sample time='2:00 min' depth='9.77 m' />
+  <sample time='2:20 min' depth='10.31 m' />
+  <sample time='2:40 min' depth='10.75 m' />
+  <sample time='3:00 min' depth='11.08 m' />
+  <sample time='3:20 min' depth='11.39 m' />
+  <sample time='3:40 min' depth='11.92 m' />
+  <sample time='4:00 min' depth='12.52 m' />
+  <sample time='4:20 min' depth='13.38 m' />
+  <sample time='4:40 min' depth='14.63 m' />
+  <sample time='5:00 min' depth='15.72 m' />
+  <sample time='5:20 min' depth='16.71 m' />
+  <sample time='5:40 min' depth='17.69 m' />
+  <sample time='6:00 min' depth='18.45 m' />
+  <sample time='6:20 min' depth='18.85 m' />
+  <sample time='6:40 min' depth='19.66 m' />
+  <sample time='7:00 min' depth='20.42 m' />
+  <sample time='7:20 min' depth='19.9 m' />
+  <sample time='7:40 min' depth='20.16 m' />
+  <sample time='8:00 min' depth='20.4 m' />
+  <sample time='8:20 min' depth='21.39 m' />
+  <sample time='8:40 min' depth='20.98 m' />
+  <sample time='9:00 min' depth='21.59 m' />
+  <sample time='9:20 min' depth='21.25 m' />
+  <sample time='9:40 min' depth='21.7 m' />
+  <sample time='10:00 min' depth='21.96 m' />
+  <sample time='10:20 min' depth='22.44 m' />
+  <sample time='10:40 min' depth='22.26 m' />
+  <sample time='11:00 min' depth='22.3 m' />
+  <sample time='11:20 min' depth='22.58 m' />
+  <sample time='11:40 min' depth='21.92 m' />
+  <sample time='12:00 min' depth='23.08 m' />
+  <sample time='12:20 min' depth='23.08 m' />
+  <sample time='12:40 min' depth='23.44 m' />
+  <sample time='13:00 min' depth='23.13 m' />
+  <sample time='13:20 min' depth='23.35 m' />
+  <sample time='13:40 min' depth='22.83 m' />
+  <sample time='14:00 min' depth='21.7 m' />
+  <sample time='14:20 min' depth='20.59 m' />
+  <sample time='14:40 min' depth='19.86 m' />
+  <sample time='15:00 min' depth='19.05 m' />
+  <sample time='15:20 min' depth='18.33 m' />
+  <sample time='15:40 min' depth='17.91 m' />
+  <sample time='16:00 min' depth='18.38 m' />
+  <sample time='16:20 min' depth='18.67 m' />
+  <sample time='16:40 min' depth='17.98 m' />
+  <sample time='17:00 min' depth='18.71 m' />
+  <sample time='17:20 min' depth='19.7 m' />
+  <sample time='17:40 min' depth='19.52 m' />
+  <sample time='18:00 min' depth='18.44 m' />
+  <sample time='18:20 min' depth='17.39 m' />
+  <sample time='18:40 min' depth='17.79 m' />
+  <sample time='19:00 min' depth='17.38 m' />
+  <sample time='19:20 min' depth='16.98 m' />
+  <sample time='19:40 min' depth='16.93 m' />
+  <sample time='20:00 min' depth='16.12 m' />
+  <sample time='20:20 min' depth='15.98 m' />
+  <sample time='20:40 min' depth='15.16 m' />
+  <sample time='21:00 min' depth='15.19 m' />
+  <sample time='21:20 min' depth='15.57 m' />
+  <sample time='21:40 min' depth='15.08 m' />
+  <sample time='22:00 min' depth='14.57 m' />
+  <sample time='22:20 min' depth='14.4 m' />
+  <sample time='22:40 min' depth='14.02 m' />
+  <sample time='23:00 min' depth='14.47 m' />
+  <sample time='23:20 min' depth='15.02 m' />
+  <sample time='23:40 min' depth='15.28 m' />
+  <sample time='24:00 min' depth='16.02 m' />
+  <sample time='24:20 min' depth='16.02 m' />
+  <sample time='24:40 min' depth='15.53 m' />
+  <sample time='25:00 min' depth='14.97 m' />
+  <sample time='25:20 min' depth='15.64 m' />
+  <sample time='25:40 min' depth='16.2 m' />
+  <sample time='26:00 min' depth='16.52 m' />
+  <sample time='26:20 min' depth='15.59 m' />
+  <sample time='26:40 min' depth='16.24 m' />
+  <sample time='27:00 min' depth='15.97 m' temp='21.0 C' />
+  <sample time='27:20 min' depth='16.03 m' />
+  <sample time='27:40 min' depth='15.69 m' temp='22.0 C' />
+  <sample time='28:00 min' depth='15.2 m' />
+  <sample time='28:20 min' depth='15.17 m' />
+  <sample time='28:40 min' depth='15.41 m' />
+  <sample time='29:00 min' depth='15.29 m' />
+  <sample time='29:20 min' depth='14.98 m' />
+  <sample time='29:40 min' depth='14.69 m' />
+  <sample time='30:00 min' depth='13.99 m' />
+  <sample time='30:20 min' depth='13.83 m' />
+  <sample time='30:40 min' depth='13.95 m' />
+  <sample time='31:00 min' depth='13.75 m' />
+  <sample time='31:20 min' depth='13.93 m' />
+  <sample time='31:40 min' depth='14.27 m' />
+  <sample time='32:00 min' depth='12.82 m' />
+  <sample time='32:20 min' depth='12.62 m' />
+  <sample time='32:40 min' depth='12.99 m' />
+  <sample time='33:00 min' depth='12.05 m' />
+  <sample time='33:20 min' depth='13.34 m' />
+  <sample time='33:40 min' depth='13.82 m' />
+  <sample time='34:00 min' depth='14.27 m' />
+  <sample time='34:20 min' depth='14.58 m' />
+  <sample time='34:40 min' depth='14.61 m' />
+  <sample time='35:00 min' depth='14.25 m' />
+  <sample time='35:20 min' depth='13.86 m' />
+  <sample time='35:40 min' depth='13.59 m' />
+  <sample time='36:00 min' depth='13.13 m' />
+  <sample time='36:20 min' depth='12.95 m' />
+  <sample time='36:40 min' depth='12.62 m' />
+  <sample time='37:00 min' depth='12.51 m' />
+  <sample time='37:20 min' depth='11.96 m' />
+  <sample time='37:40 min' depth='11.03 m' />
+  <sample time='38:00 min' depth='10.53 m' />
+  <sample time='38:20 min' depth='9.03 m' />
+  <sample time='38:40 min' depth='7.57 m' />
+  <sample time='39:00 min' depth='7.13 m' />
+  <sample time='39:20 min' depth='5.75 m' />
+  <sample time='39:40 min' depth='5.64 m' />
+  <sample time='40:00 min' depth='4.97 m' />
+  <sample time='40:20 min' depth='5.17 m' />
+  <sample time='40:40 min' depth='5.47 m' />
+  <sample time='41:00 min' depth='5.6 m' />
+  <sample time='41:20 min' depth='5.7 m' />
+  <sample time='41:40 min' depth='4.95 m' />
+  <sample time='42:00 min' depth='5.26 m' />
+  <sample time='42:20 min' depth='5.6 m' />
+  <sample time='42:40 min' depth='5.8 m' />
+  <sample time='43:00 min' depth='6.21 m' />
+  <sample time='43:20 min' depth='6.34 m' />
+  <sample time='43:40 min' depth='5.1 m' />
+  <sample time='44:00 min' depth='4.55 m' />
+  <sample time='44:20 min' depth='3.77 m' />
+  <sample time='44:40 min' depth='3.2 m' />
+  <sample time='45:00 min' depth='3.01 m' />
+  <sample time='45:20 min' depth='2.34 m' />
+  <sample time='45:40 min' depth='1.33 m' />
+  </divecomputer>
+</dive>
+<dive number='119' otu='3' cns='5%' date='2020-09-30' time='10:04:58' duration='46:40 min'>
+  <cylinder description='unknown' depth='65.378 m' />
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='e2ceb41a'>
+  <depth max='18.01 m' mean='11.42 m' />
+  <temperature air='22.0 C' water='22.0 C' />
+  <extradata key='Serial' value='80371412' />
+  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
+  <event time='0:00 min' type='9' name='surface' />
+  <event time='46:41 min' type='24' flags='1' name='tissue level warning' />
+  <event time='46:41 min' type='9' name='surface' />
+  <sample time='0:00 min' depth='1.53 m' />
+  <sample time='0:20 min' depth='6.44 m' temp='22.0 C' />
+  <sample time='0:40 min' depth='8.14 m' />
+  <sample time='1:00 min' depth='8.59 m' />
+  <sample time='1:20 min' depth='8.94 m' />
+  <sample time='1:40 min' depth='9.15 m' />
+  <sample time='2:00 min' depth='8.14 m' />
+  <sample time='2:20 min' depth='8.1 m' />
+  <sample time='2:40 min' depth='8.44 m' />
+  <sample time='3:00 min' depth='8.24 m' />
+  <sample time='3:20 min' depth='8.55 m' />
+  <sample time='3:40 min' depth='8.33 m' />
+  <sample time='4:00 min' depth='7.54 m' />
+  <sample time='4:20 min' depth='6.89 m' />
+  <sample time='4:40 min' depth='6.74 m' />
+  <sample time='5:00 min' depth='7.17 m' />
+  <sample time='5:20 min' depth='7.3 m' />
+  <sample time='5:40 min' depth='6.3 m' />
+  <sample time='6:00 min' depth='5.65 m' />
+  <sample time='6:20 min' depth='5.85 m' />
+  <sample time='6:40 min' depth='5.71 m' />
+  <sample time='7:00 min' depth='5.98 m' />
+  <sample time='7:20 min' depth='5.58 m' />
+  <sample time='7:40 min' depth='6.08 m' />
+  <sample time='8:00 min' depth='5.64 m' />
+  <sample time='8:20 min' depth='4.96 m' />
+  <sample time='8:40 min' depth='5.36 m' />
+  <sample time='9:00 min' depth='6.19 m' />
+  <sample time='9:20 min' depth='6.14 m' />
+  <sample time='9:40 min' depth='6.08 m' />
+  <sample time='10:00 min' depth='6.65 m' />
+  <sample time='10:20 min' depth='6.8 m' />
+  <sample time='10:40 min' depth='6.47 m' />
+  <sample time='11:00 min' depth='6.42 m' />
+  <sample time='11:20 min' depth='5.93 m' />
+  <sample time='11:40 min' depth='6.47 m' />
+  <sample time='12:00 min' depth='8.82 m' />
+  <sample time='12:20 min' depth='10.93 m' />
+  <sample time='12:40 min' depth='12.32 m' />
+  <sample time='13:00 min' depth='12.81 m' />
+  <sample time='13:20 min' depth='13.8 m' />
+  <sample time='13:40 min' depth='14.61 m' />
+  <sample time='14:00 min' depth='15.61 m' />
+  <sample time='14:20 min' depth='16.05 m' />
+  <sample time='14:40 min' depth='15.97 m' />
+  <sample time='15:00 min' depth='15.56 m' />
+  <sample time='15:20 min' depth='15.37 m' />
+  <sample time='15:40 min' depth='15.11 m' />
+  <sample time='16:00 min' depth='14.37 m' />
+  <sample time='16:20 min' depth='13.77 m' />
+  <sample time='16:40 min' depth='13.56 m' />
+  <sample time='17:00 min' depth='13.64 m' />
+  <sample time='17:20 min' depth='14.6 m' />
+  <sample time='17:40 min' depth='13.85 m' />
+  <sample time='18:00 min' depth='13.92 m' />
+  <sample time='18:20 min' depth='13.95 m' />
+  <sample time='18:40 min' depth='14.78 m' />
+  <sample time='19:00 min' depth='15.0 m' />
+  <sample time='19:20 min' depth='15.39 m' />
+  <sample time='19:40 min' depth='15.81 m' />
+  <sample time='20:00 min' depth='16.55 m' />
+  <sample time='20:20 min' depth='16.62 m' />
+  <sample time='20:40 min' depth='16.18 m' />
+  <sample time='21:00 min' depth='16.33 m' />
+  <sample time='21:20 min' depth='16.1 m' />
+  <sample time='21:40 min' depth='15.71 m' />
+  <sample time='22:00 min' depth='15.84 m' />
+  <sample time='22:20 min' depth='16.15 m' />
+  <sample time='22:40 min' depth='15.86 m' />
+  <sample time='23:00 min' depth='16.36 m' />
+  <sample time='23:20 min' depth='17.2 m' />
+  <sample time='23:40 min' depth='17.01 m' />
+  <sample time='24:00 min' depth='16.98 m' />
+  <sample time='24:20 min' depth='17.43 m' />
+  <sample time='24:40 min' depth='17.65 m' />
+  <sample time='25:00 min' depth='17.57 m' />
+  <sample time='25:20 min' depth='16.87 m' />
+  <sample time='25:40 min' depth='15.67 m' />
+  <sample time='26:00 min' depth='15.88 m' />
+  <sample time='26:20 min' depth='15.91 m' />
+  <sample time='26:40 min' depth='16.01 m' />
+  <sample time='27:00 min' depth='15.54 m' />
+  <sample time='27:20 min' depth='16.07 m' />
+  <sample time='27:40 min' depth='16.15 m' />
+  <sample time='28:00 min' depth='16.19 m' />
+  <sample time='28:20 min' depth='16.76 m' />
+  <sample time='28:40 min' depth='17.01 m' />
+  <sample time='29:00 min' depth='16.24 m' />
+  <sample time='29:20 min' depth='16.22 m' />
+  <sample time='29:40 min' depth='16.08 m' />
+  <sample time='30:00 min' depth='16.15 m' />
+  <sample time='30:20 min' depth='16.79 m' />
+  <sample time='30:40 min' depth='17.22 m' />
+  <sample time='31:00 min' depth='16.7 m' />
+  <sample time='31:20 min' depth='16.49 m' />
+  <sample time='31:40 min' depth='15.98 m' />
+  <sample time='32:00 min' depth='15.89 m' />
+  <sample time='32:20 min' depth='16.07 m' />
+  <sample time='32:40 min' depth='15.88 m' />
+  <sample time='33:00 min' depth='15.89 m' />
+  <sample time='33:20 min' depth='14.9 m' />
+  <sample time='33:40 min' depth='15.08 m' />
+  <sample time='34:00 min' depth='15.35 m' />
+  <sample time='34:20 min' depth='14.84 m' />
+  <sample time='34:40 min' depth='14.42 m' />
+  <sample time='35:00 min' depth='13.67 m' />
+  <sample time='35:20 min' depth='13.22 m' />
+  <sample time='35:40 min' depth='12.89 m' />
+  <sample time='36:00 min' depth='12.72 m' />
+  <sample time='36:20 min' depth='12.7 m' />
+  <sample time='36:40 min' depth='12.21 m' />
+  <sample time='37:00 min' depth='11.8 m' />
+  <sample time='37:20 min' depth='11.42 m' />
+  <sample time='37:40 min' depth='10.58 m' />
+  <sample time='38:00 min' depth='10.44 m' />
+  <sample time='38:20 min' depth='10.2 m' />
+  <sample time='38:40 min' depth='10.27 m' />
+  <sample time='39:00 min' depth='10.43 m' />
+  <sample time='39:20 min' depth='10.28 m' />
+  <sample time='39:40 min' depth='10.15 m' />
+  <sample time='40:00 min' depth='9.92 m' />
+  <sample time='40:20 min' depth='9.26 m' />
+  <sample time='40:40 min' depth='8.26 m' />
+  <sample time='41:00 min' depth='6.1 m' />
+  <sample time='41:20 min' depth='6.42 m' />
+  <sample time='41:40 min' depth='5.99 m' />
+  <sample time='42:00 min' depth='5.26 m' />
+  <sample time='42:20 min' depth='5.43 m' />
+  <sample time='42:40 min' depth='5.62 m' />
+  <sample time='43:00 min' depth='5.19 m' />
+  <sample time='43:20 min' depth='5.23 m' />
+  <sample time='43:40 min' depth='5.72 m' />
+  <sample time='44:00 min' depth='5.64 m' />
+  <sample time='44:20 min' depth='4.83 m' />
+  <sample time='44:40 min' depth='5.23 m' />
+  <sample time='45:00 min' depth='6.04 m' />
+  <sample time='45:20 min' depth='4.82 m' />
+  <sample time='45:40 min' depth='3.78 m' />
+  <sample time='46:00 min' depth='2.91 m' />
+  <sample time='46:20 min' depth='2.4 m' />
+  <sample time='46:40 min' depth='1.39 m' />
+  </divecomputer>
+</dive>
+<dive number='120' otu='8' cns='5%' date='2021-10-16' time='09:41:13' duration='44:20 min'>
+  <cylinder description='unknown' />
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='86d941a3'>
+  <depth max='23.29 m' mean='15.621 m' />
+  <temperature water='23.0 C' />
+  <extradata key='Serial' value='80371412' />
+  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
+  <event time='0:00 min' type='9' name='surface' />
+  <event time='44:33 min' type='24' flags='1' name='tissue level warning' />
+  <event time='44:33 min' type='9' name='surface' />
+  <sample time='0:00 min' depth='1.39 m' temp='24.0 C' />
+  <sample time='0:20 min' depth='3.96 m' />
+  <sample time='0:40 min' depth='5.97 m' />
+  <sample time='1:00 min' depth='7.75 m' />
+  <sample time='1:20 min' depth='10.09 m' />
+  <sample time='1:40 min' depth='12.1 m' />
+  <sample time='2:00 min' depth='12.24 m' temp='23.0 C' />
+  <sample time='2:20 min' depth='12.62 m' />
+  <sample time='2:40 min' depth='13.73 m' />
+  <sample time='3:00 min' depth='14.33 m' />
+  <sample time='3:20 min' depth='15.6 m' />
+  <sample time='3:40 min' depth='16.63 m' />
+  <sample time='4:00 min' depth='17.69 m' />
+  <sample time='4:20 min' depth='18.83 m' />
+  <sample time='4:40 min' depth='19.49 m' />
+  <sample time='5:00 min' depth='20.33 m' />
+  <sample time='5:20 min' depth='20.05 m' />
+  <sample time='5:40 min' depth='20.25 m' />
+  <sample time='6:00 min' depth='21.07 m' />
+  <sample time='6:20 min' depth='22.08 m' />
+  <sample time='6:40 min' depth='22.26 m' />
+  <sample time='7:00 min' depth='23.24 m' />
+  <sample time='7:20 min' depth='22.11 m' />
+  <sample time='7:40 min' depth='22.24 m' />
+  <sample time='8:00 min' depth='22.22 m' />
+  <sample time='8:20 min' depth='22.29 m' />
+  <sample time='8:40 min' depth='22.11 m' />
+  <sample time='9:00 min' depth='21.95 m' />
+  <sample time='9:20 min' depth='22.12 m' />
+  <sample time='9:40 min' depth='22.7 m' />
+  <sample time='10:00 min' depth='21.94 m' />
+  <sample time='10:20 min' depth='22.33 m' />
+  <sample time='10:40 min' depth='22.44 m' />
+  <sample time='11:00 min' depth='22.2 m' />
+  <sample time='11:20 min' depth='22.02 m' />
+  <sample time='11:40 min' depth='21.46 m' />
+  <sample time='12:00 min' depth='20.97 m' />
+  <sample time='12:20 min' depth='19.94 m' />
+  <sample time='12:40 min' depth='19.03 m' />
+  <sample time='13:00 min' depth='18.72 m' />
+  <sample time='13:20 min' depth='18.44 m' />
+  <sample time='13:40 min' depth='19.01 m' />
+  <sample time='14:00 min' depth='18.25 m' />
+  <sample time='14:20 min' depth='18.2 m' />
+  <sample time='14:40 min' depth='17.74 m' />
+  <sample time='15:00 min' depth='16.66 m' />
+  <sample time='15:20 min' depth='15.74 m' />
+  <sample time='15:40 min' depth='17.01 m' />
+  <sample time='16:00 min' depth='17.45 m' />
+  <sample time='16:20 min' depth='18.3 m' />
+  <sample time='16:40 min' depth='18.66 m' />
+  <sample time='17:00 min' depth='18.5 m' />
+  <sample time='17:20 min' depth='18.67 m' />
+  <sample time='17:40 min' depth='18.14 m' />
+  <sample time='18:00 min' depth='16.1 m' />
+  <sample time='18:20 min' depth='15.83 m' />
+  <sample time='18:40 min' depth='17.27 m' />
+  <sample time='19:00 min' depth='17.17 m' />
+  <sample time='19:20 min' depth='16.53 m' />
+  <sample time='19:40 min' depth='16.52 m' />
+  <sample time='20:00 min' depth='16.7 m' />
+  <sample time='20:20 min' depth='17.86 m' />
+  <sample time='20:40 min' depth='17.7 m' />
+  <sample time='21:00 min' depth='17.59 m' />
+  <sample time='21:20 min' depth='18.26 m' />
+  <sample time='21:40 min' depth='18.29 m' />
+  <sample time='22:00 min' depth='19.0 m' />
+  <sample time='22:20 min' depth='18.28 m' />
+  <sample time='22:40 min' depth='18.51 m' />
+  <sample time='23:00 min' depth='18.07 m' />
+  <sample time='23:20 min' depth='18.29 m' />
+  <sample time='23:40 min' depth='18.49 m' />
+  <sample time='24:00 min' depth='18.78 m' />
+  <sample time='24:20 min' depth='18.82 m' />
+  <sample time='24:40 min' depth='19.48 m' />
+  <sample time='25:00 min' depth='18.48 m' />
+  <sample time='25:20 min' depth='18.01 m' />
+  <sample time='25:40 min' depth='17.83 m' />
+  <sample time='26:00 min' depth='17.39 m' />
+  <sample time='26:20 min' depth='17.82 m' />
+  <sample time='26:40 min' depth='17.78 m' />
+  <sample time='27:00 min' depth='17.79 m' />
+  <sample time='27:20 min' depth='18.03 m' />
+  <sample time='27:40 min' depth='17.46 m' />
+  <sample time='28:00 min' depth='16.97 m' />
+  <sample time='28:20 min' depth='16.1 m' />
+  <sample time='28:40 min' depth='16.36 m' />
+  <sample time='29:00 min' depth='16.41 m' />
+  <sample time='29:20 min' depth='16.08 m' />
+  <sample time='29:40 min' depth='15.89 m' />
+  <sample time='30:00 min' depth='15.8 m' />
+  <sample time='30:20 min' depth='15.38 m' />
+  <sample time='30:40 min' depth='14.89 m' />
+  <sample time='31:00 min' depth='15.23 m' />
+  <sample time='31:20 min' depth='15.18 m' />
+  <sample time='31:40 min' depth='14.9 m' />
+  <sample time='32:00 min' depth='15.38 m' />
+  <sample time='32:20 min' depth='14.97 m' />
+  <sample time='32:40 min' depth='15.02 m' />
+  <sample time='33:00 min' depth='14.41 m' />
+  <sample time='33:20 min' depth='14.77 m' />
+  <sample time='33:40 min' depth='14.97 m' />
+  <sample time='34:00 min' depth='14.75 m' />
+  <sample time='34:20 min' depth='14.28 m' />
+  <sample time='34:40 min' depth='13.95 m' />
+  <sample time='35:00 min' depth='13.8 m' />
+  <sample time='35:20 min' depth='13.59 m' />
+  <sample time='35:40 min' depth='14.13 m' />
+  <sample time='36:00 min' depth='13.96 m' />
+  <sample time='36:20 min' depth='14.12 m' />
+  <sample time='36:40 min' depth='13.76 m' />
+  <sample time='37:00 min' depth='12.7 m' />
+  <sample time='37:20 min' depth='12.49 m' />
+  <sample time='37:40 min' depth='12.95 m' />
+  <sample time='38:00 min' depth='12.36 m' />
+  <sample time='38:20 min' depth='11.34 m' />
+  <sample time='38:40 min' depth='10.62 m' />
+  <sample time='39:00 min' depth='9.51 m' />
+  <sample time='39:20 min' depth='7.8 m' />
+  <sample time='39:40 min' depth='6.85 m' />
+  <sample time='40:00 min' depth='6.19 m' />
+  <sample time='40:20 min' depth='5.75 m' />
+  <sample time='40:40 min' depth='5.83 m' />
+  <sample time='41:00 min' depth='5.78 m' />
+  <sample time='41:20 min' depth='5.79 m' />
+  <sample time='41:40 min' depth='5.68 m' />
+  <sample time='42:00 min' depth='5.68 m' />
+  <sample time='42:20 min' depth='5.71 m' />
+  <sample time='42:40 min' depth='5.54 m' />
+  <sample time='43:00 min' depth='5.36 m' />
+  <sample time='43:20 min' depth='5.27 m' />
+  <sample time='43:40 min' depth='4.62 m' />
+  <sample time='44:00 min' depth='3.18 m' />
+  <sample time='44:20 min' depth='1.82 m' />
+  </divecomputer>
+</dive>
+<dive number='121' otu='5' cns='3%' date='2021-10-16' time='11:32:14' duration='48:20 min'>
+  <cylinder description='unknown' />
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='b07db87c'>
+  <depth max='21.61 m' mean='12.649 m' />
+  <temperature water='23.0 C' />
+  <extradata key='Serial' value='80371412' />
+  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
+  <event time='0:00 min' type='9' name='surface' />
+  <event time='19:57 min' type='8' name='bookmark' />
+  <event time='19:59 min' type='8' name='bookmark' />
+  <event time='48:31 min' type='24' flags='1' name='tissue level warning' />
+  <event time='48:31 min' type='9' name='surface' />
+  <sample time='0:00 min' depth='1.55 m' temp='24.0 C' />
+  <sample time='0:20 min' depth='3.86 m' temp='23.0 C' />
+  <sample time='0:40 min' depth='4.06 m' temp='24.0 C' />
+  <sample time='1:00 min' depth='4.56 m' temp='23.0 C' />
+  <sample time='1:20 min' depth='5.21 m' />
+  <sample time='1:40 min' depth='5.97 m' />
+  <sample time='2:00 min' depth='6.38 m' />
+  <sample time='2:20 min' depth='7.45 m' />
+  <sample time='2:40 min' depth='9.34 m' />
+  <sample time='3:00 min' depth='10.47 m' />
+  <sample time='3:20 min' depth='11.55 m' />
+  <sample time='3:40 min' depth='11.86 m' />
+  <sample time='4:00 min' depth='12.4 m' />
+  <sample time='4:20 min' depth='12.27 m' />
+  <sample time='4:40 min' depth='13.22 m' />
+  <sample time='5:00 min' depth='14.62 m' />
+  <sample time='5:20 min' depth='15.18 m' />
+  <sample time='5:40 min' depth='15.5 m' />
+  <sample time='6:00 min' depth='16.28 m' />
+  <sample time='6:20 min' depth='15.7 m' />
+  <sample time='6:40 min' depth='16.52 m' />
+  <sample time='7:00 min' depth='17.98 m' />
+  <sample time='7:20 min' depth='18.62 m' />
+  <sample time='7:40 min' depth='18.62 m' />
+  <sample time='8:00 min' depth='19.13 m' />
+  <sample time='8:20 min' depth='19.47 m' />
+  <sample time='8:40 min' depth='18.85 m' />
+  <sample time='9:00 min' depth='19.18 m' />
+  <sample time='9:20 min' depth='19.87 m' />
+  <sample time='9:40 min' depth='21.1 m' />
+  <sample time='10:00 min' depth='21.6 m' />
+  <sample time='10:20 min' depth='21.07 m' />
+  <sample time='10:40 min' depth='20.2 m' />
+  <sample time='11:00 min' depth='19.55 m' />
+  <sample time='11:20 min' depth='19.14 m' />
+  <sample time='11:40 min' depth='18.98 m' />
+  <sample time='12:00 min' depth='19.01 m' />
+  <sample time='12:20 min' depth='19.5 m' />
+  <sample time='12:40 min' depth='19.8 m' />
+  <sample time='13:00 min' depth='19.84 m' />
+  <sample time='13:20 min' depth='19.33 m' />
+  <sample time='13:40 min' depth='19.57 m' />
+  <sample time='14:00 min' depth='18.99 m' />
+  <sample time='14:20 min' depth='18.27 m' />
+  <sample time='14:40 min' depth='18.33 m' />
+  <sample time='15:00 min' depth='18.87 m' />
+  <sample time='15:20 min' depth='18.31 m' />
+  <sample time='15:40 min' depth='18.42 m' />
+  <sample time='16:00 min' depth='18.56 m' />
+  <sample time='16:20 min' depth='18.82 m' />
+  <sample time='16:40 min' depth='18.51 m' />
+  <sample time='17:00 min' depth='17.78 m' />
+  <sample time='17:20 min' depth='17.47 m' />
+  <sample time='17:40 min' depth='17.48 m' />
+  <sample time='18:00 min' depth='17.41 m' />
+  <sample time='18:20 min' depth='18.76 m' />
+  <sample time='18:40 min' depth='18.75 m' />
+  <sample time='19:00 min' depth='19.45 m' />
+  <sample time='19:20 min' depth='18.09 m' />
+  <sample time='19:40 min' depth='17.51 m' />
+  <sample time='20:00 min' depth='17.02 m' />
+  <sample time='20:20 min' depth='16.83 m' />
+  <sample time='20:40 min' depth='16.79 m' />
+  <sample time='21:00 min' depth='15.65 m' />
+  <sample time='21:20 min' depth='15.95 m' />
+  <sample time='21:40 min' depth='16.18 m' />
+  <sample time='22:00 min' depth='16.34 m' />
+  <sample time='22:20 min' depth='17.09 m' />
+  <sample time='22:40 min' depth='17.59 m' />
+  <sample time='23:00 min' depth='17.82 m' />
+  <sample time='23:20 min' depth='18.09 m' />
+  <sample time='23:40 min' depth='17.8 m' />
+  <sample time='24:00 min' depth='17.64 m' />
+  <sample time='24:20 min' depth='16.99 m' />
+  <sample time='24:40 min' depth='16.94 m' />
+  <sample time='25:00 min' depth='17.42 m' />
+  <sample time='25:20 min' depth='16.82 m' />
+  <sample time='25:40 min' depth='16.37 m' />
+  <sample time='26:00 min' depth='15.62 m' />
+  <sample time='26:20 min' depth='15.39 m' />
+  <sample time='26:40 min' depth='15.12 m' />
+  <sample time='27:00 min' depth='14.54 m' />
+  <sample time='27:20 min' depth='14.54 m' />
+  <sample time='27:40 min' depth='14.58 m' />
+  <sample time='28:00 min' depth='14.41 m' />
+  <sample time='28:20 min' depth='13.46 m' />
+  <sample time='28:40 min' depth='12.6 m' />
+  <sample time='29:00 min' depth='12.22 m' />
+  <sample time='29:20 min' depth='11.2 m' />
+  <sample time='29:40 min' depth='10.38 m' />
+  <sample time='30:00 min' depth='9.88 m' />
+  <sample time='30:20 min' depth='9.65 m' />
+  <sample time='30:40 min' depth='10.31 m' />
+  <sample time='31:00 min' depth='10.08 m' />
+  <sample time='31:20 min' depth='10.35 m' />
+  <sample time='31:40 min' depth='10.55 m' />
+  <sample time='32:00 min' depth='10.4 m' />
+  <sample time='32:20 min' depth='10.26 m' />
+  <sample time='32:40 min' depth='10.12 m' />
+  <sample time='33:00 min' depth='9.21 m' />
+  <sample time='33:20 min' depth='9.97 m' />
+  <sample time='33:40 min' depth='10.08 m' />
+  <sample time='34:00 min' depth='10.24 m' />
+  <sample time='34:20 min' depth='10.54 m' />
+  <sample time='34:40 min' depth='9.3 m' />
+  <sample time='35:00 min' depth='8.77 m' />
+  <sample time='35:20 min' depth='8.9 m' />
+  <sample time='35:40 min' depth='8.2 m' />
+  <sample time='36:00 min' depth='7.98 m' />
+  <sample time='36:20 min' depth='8.05 m' />
+  <sample time='36:40 min' depth='8.09 m' />
+  <sample time='37:00 min' depth='7.79 m' />
+  <sample time='37:20 min' depth='8.45 m' />
+  <sample time='37:40 min' depth='9.11 m' />
+  <sample time='38:00 min' depth='8.52 m' />
+  <sample time='38:20 min' depth='7.98 m' />
+  <sample time='38:40 min' depth='7.2 m' />
+  <sample time='39:00 min' depth='6.55 m' />
+  <sample time='39:20 min' depth='6.67 m' />
+  <sample time='39:40 min' depth='6.81 m' />
+  <sample time='40:00 min' depth='6.7 m' />
+  <sample time='40:20 min' depth='6.37 m' />
+  <sample time='40:40 min' depth='6.39 m' />
+  <sample time='41:00 min' depth='6.55 m' />
+  <sample time='41:20 min' depth='7.0 m' />
+  <sample time='41:40 min' depth='7.12 m' />
+  <sample time='42:00 min' depth='7.03 m' />
+  <sample time='42:20 min' depth='7.3 m' />
+  <sample time='42:40 min' depth='7.24 m' />
+  <sample time='43:00 min' depth='6.51 m' />
+  <sample time='43:20 min' depth='6.39 m' />
+  <sample time='43:40 min' depth='6.38 m' />
+  <sample time='44:00 min' depth='6.94 m' />
+  <sample time='44:20 min' depth='6.2 m' />
+  <sample time='44:40 min' depth='6.11 m' />
+  <sample time='45:00 min' depth='5.3 m' />
+  <sample time='45:20 min' depth='5.16 m' />
+  <sample time='45:40 min' depth='4.6 m' />
+  <sample time='46:00 min' depth='4.35 m' />
+  <sample time='46:20 min' depth='4.16 m' />
+  <sample time='46:40 min' depth='3.87 m' />
+  <sample time='47:00 min' depth='3.34 m' />
+  <sample time='47:20 min' depth='3.08 m' />
+  <sample time='47:40 min' depth='3.17 m' />
+  <sample time='48:00 min' depth='3.16 m' />
+  <sample time='48:20 min' depth='1.81 m' />
+  </divecomputer>
+</dive>
+<dive number='122' otu='30' cns='11%' date='2021-10-18' time='09:53:25' duration='29:00 min'>
+  <cylinder description='unknown' o2='29.0%' />
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='61412516'>
+  <depth max='36.34 m' mean='25.225 m' />
+  <temperature water='16.0 C' />
+  <extradata key='Serial' value='80371412' />
+  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' o2='29.0%' />
+  <event time='0:00 min' type='9' name='surface' />
+  <event time='1:58 min' type='18' flags='1' name='maxdepth' />
+  <event time='18:32 min' type='18' flags='2' name='maxdepth' />
+  <event time='19:24 min' type='16' flags='1' name='below floor' />
+  <event time='20:04 min' type='16' flags='2' name='below floor' />
+  <event time='21:06 min' type='3' flags='1' name='ascent' />
+  <event time='21:09 min' type='3' flags='2' name='ascent' />
+  <event time='21:43 min' type='3' flags='1' name='ascent' />
+  <event time='21:48 min' type='3' flags='2' name='ascent' />
+  <event time='29:07 min' type='24' flags='1' name='tissue level warning' />
+  <event time='29:07 min' type='9' name='surface' />
+  <sample time='0:00 min' depth='1.29 m' temp='23.0 C' />
+  <sample time='0:20 min' depth='6.38 m' />
+  <sample time='0:40 min' depth='10.83 m' />
+  <sample time='1:00 min' depth='16.33 m' />
+  <sample time='1:20 min' depth='22.53 m' />
+  <sample time='1:40 min' depth='27.54 m' />
+  <sample time='2:00 min' depth='30.5 m' temp='21.0 C' />
+  <sample time='2:20 min' depth='33.28 m' temp='20.0 C' />
+  <sample time='2:40 min' depth='33.98 m' temp='19.0 C' />
+  <sample time='3:00 min' depth='33.87 m' temp='18.0 C' />
+  <sample time='3:20 min' depth='34.08 m' temp='19.0 C' />
+  <sample time='3:40 min' depth='34.18 m' temp='18.0 C' />
+  <sample time='4:00 min' depth='34.47 m' />
+  <sample time='4:20 min' depth='35.35 m' />
+  <sample time='4:40 min' depth='35.3 m' />
+  <sample time='5:00 min' depth='35.13 m' temp='17.0 C' />
+  <sample time='5:20 min' depth='35.28 m' />
+  <sample time='5:40 min' depth='35.44 m' />
+  <sample time='6:00 min' depth='36.15 m' />
+  <sample time='6:20 min' depth='34.99 m' />
+  <sample time='6:40 min' depth='35.01 m' />
+  <sample time='7:00 min' depth='34.88 m' />
+  <sample time='7:20 min' depth='34.44 m' />
+  <sample time='7:40 min' depth='34.46 m' />
+  <sample time='8:00 min' depth='34.79 m' />
+  <sample time='8:20 min' depth='34.82 m' />
+  <sample time='8:40 min' depth='34.4 m' />
+  <sample time='9:00 min' depth='34.87 m' temp='16.0 C' />
+  <sample time='9:20 min' depth='35.2 m' />
+  <sample time='9:40 min' depth='35.66 m' />
+  <sample time='10:00 min' depth='35.6 m' />
+  <sample time='10:20 min' depth='35.49 m' />
+  <sample time='10:40 min' depth='35.07 m' />
+  <sample time='11:00 min' depth='35.55 m' />
+  <sample time='11:20 min' depth='35.05 m' />
+  <sample time='11:40 min' depth='35.44 m' />
+  <sample time='12:00 min' depth='35.2 m' />
+  <sample time='12:20 min' depth='35.04 m' />
+  <sample time='12:40 min' depth='34.92 m' />
+  <sample time='13:00 min' depth='35.17 m' />
+  <sample time='13:20 min' depth='35.04 m' />
+  <sample time='13:40 min' depth='34.79 m' />
+  <sample time='14:00 min' depth='35.11 m' />
+  <sample time='14:20 min' depth='35.4 m' />
+  <sample time='14:40 min' depth='36.26 m' />
+  <sample time='15:00 min' depth='35.79 m' />
+  <sample time='15:20 min' depth='35.86 m' />
+  <sample time='15:40 min' depth='35.14 m' temp='17.0 C' />
+  <sample time='16:00 min' depth='34.44 m' />
+  <sample time='16:20 min' depth='33.9 m' />
+  <sample time='16:40 min' depth='34.82 m' />
+  <sample time='17:00 min' depth='34.43 m' />
+  <sample time='17:20 min' depth='33.92 m' />
+  <sample time='17:40 min' depth='33.18 m' />
+  <sample time='18:00 min' depth='32.34 m' />
+  <sample time='18:20 min' depth='30.94 m' temp='18.0 C' />
+  <sample time='18:40 min' depth='29.28 m' />
+  <sample time='19:00 min' depth='28.61 m' temp='19.0 C' />
+  <sample time='19:20 min' depth='28.13 m' />
+  <sample time='19:40 min' depth='27.21 m' temp='20.0 C' />
+  <sample time='20:00 min' depth='25.03 m' temp='21.0 C' />
+  <sample time='20:20 min' depth='23.52 m' />
+  <sample time='20:40 min' depth='22.15 m' temp='22.0 C' />
+  <sample time='21:00 min' depth='19.83 m' />
+  <sample time='21:20 min' depth='17.17 m' />
+  <sample time='21:40 min' depth='14.68 m' />
+  <sample time='22:00 min' depth='12.35 m' />
+  <sample time='22:20 min' depth='10.69 m' />
+  <sample time='22:40 min' depth='11.02 m' />
+  <sample time='23:00 min' depth='10.2 m' />
+  <sample time='23:20 min' depth='8.8 m' temp='23.0 C' />
+  <sample time='23:40 min' depth='7.52 m' />
+  <sample time='24:00 min' depth='6.13 m' />
+  <sample time='24:20 min' depth='5.68 m' />
+  <sample time='24:40 min' depth='5.53 m' />
+  <sample time='25:00 min' depth='5.62 m' />
+  <sample time='25:20 min' depth='5.73 m' />
+  <sample time='25:40 min' depth='5.39 m' />
+  <sample time='26:00 min' depth='5.15 m' />
+  <sample time='26:20 min' depth='5.32 m' />
+  <sample time='26:40 min' depth='5.37 m' />
+  <sample time='27:00 min' depth='5.56 m' />
+  <sample time='27:20 min' depth='5.34 m' />
+  <sample time='27:40 min' depth='5.61 m' />
+  <sample time='28:00 min' depth='5.12 m' />
+  <sample time='28:20 min' depth='4.31 m' />
+  <sample time='28:40 min' depth='3.01 m' />
+  <sample time='29:00 min' depth='1.66 m' />
+  </divecomputer>
+</dive>
+<dive number='123' otu='11' cns='5%' date='2021-10-19' time='08:55:00' duration='48:00 min'>
+  <cylinder description='unknown' />
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='ffed2f79'>
+  <depth max='27.28 m' mean='16.734 m' />
+  <temperature water='21.0 C' />
+  <extradata key='Serial' value='80371412' />
+  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
+  <event time='0:00 min' type='9' name='surface' />
+  <event time='47:55 min' type='8' name='bookmark' />
+  <event time='48:01 min' type='24' flags='1' name='tissue level warning' />
+  <event time='48:01 min' type='9' name='surface' />
+  <sample time='0:00 min' depth='1.29 m' temp='23.0 C' />
+  <sample time='0:20 min' depth='3.95 m' />
+  <sample time='0:40 min' depth='6.32 m' />
+  <sample time='1:00 min' depth='7.04 m' />
+  <sample time='1:20 min' depth='10.31 m' />
+  <sample time='1:40 min' depth='10.87 m' />
+  <sample time='2:00 min' depth='11.11 m' />
+  <sample time='2:20 min' depth='11.2 m' />
+  <sample time='2:40 min' depth='10.95 m' />
+  <sample time='3:00 min' depth='11.53 m' />
+  <sample time='3:20 min' depth='11.78 m' />
+  <sample time='3:40 min' depth='12.49 m' />
+  <sample time='4:00 min' depth='14.09 m' />
+  <sample time='4:20 min' depth='14.85 m' />
+  <sample time='4:40 min' depth='15.47 m' />
+  <sample time='5:00 min' depth='16.67 m' />
+  <sample time='5:20 min' depth='17.79 m' />
+  <sample time='5:40 min' depth='18.4 m' />
+  <sample time='6:00 min' depth='18.82 m' />
+  <sample time='6:20 min' depth='19.3 m' />
+  <sample time='6:40 min' depth='20.18 m' />
+  <sample time='7:00 min' depth='20.73 m' />
+  <sample time='7:20 min' depth='20.51 m' />
+  <sample time='7:40 min' depth='20.98 m' />
+  <sample time='8:00 min' depth='21.49 m' />
+  <sample time='8:20 min' depth='21.52 m' />
+  <sample time='8:40 min' depth='22.11 m' />
+  <sample time='9:00 min' depth='22.4 m' />
+  <sample time='9:20 min' depth='23.13 m' />
+  <sample time='9:40 min' depth='23.35 m' />
+  <sample time='10:00 min' depth='24.59 m' />
+  <sample time='10:20 min' depth='25.67 m' temp='22.0 C' />
+  <sample time='10:40 min' depth='25.61 m' />
+  <sample time='11:00 min' depth='26.37 m' />
+  <sample time='11:20 min' depth='26.24 m' />
+  <sample time='11:40 min' depth='26.52 m' temp='21.0 C' />
+  <sample time='12:00 min' depth='24.97 m' temp='22.0 C' />
+  <sample time='12:20 min' depth='25.1 m' />
+  <sample time='12:40 min' depth='24.69 m' />
+  <sample time='13:00 min' depth='24.89 m' />
+  <sample time='13:20 min' depth='25.45 m' />
+  <sample time='13:40 min' depth='24.64 m' />
+  <sample time='14:00 min' depth='25.31 m' />
+  <sample time='14:20 min' depth='25.71 m' />
+  <sample time='14:40 min' depth='25.66 m' />
+  <sample time='15:00 min' depth='25.77 m' />
+  <sample time='15:20 min' depth='26.12 m' />
+  <sample time='15:40 min' depth='25.5 m' />
+  <sample time='16:00 min' depth='24.59 m' />
+  <sample time='16:20 min' depth='24.03 m' />
+  <sample time='16:40 min' depth='24.14 m' />
+  <sample time='17:00 min' depth='23.84 m' />
+  <sample time='17:20 min' depth='23.8 m' />
+  <sample time='17:40 min' depth='24.62 m' />
+  <sample time='18:00 min' depth='23.95 m' />
+  <sample time='18:20 min' depth='24.39 m' />
+  <sample time='18:40 min' depth='24.77 m' />
+  <sample time='19:00 min' depth='24.8 m' />
+  <sample time='19:20 min' depth='25.36 m' />
+  <sample time='19:40 min' depth='25.31 m' />
+  <sample time='20:00 min' depth='25.04 m' />
+  <sample time='20:20 min' depth='24.16 m' />
+  <sample time='20:40 min' depth='25.22 m' />
+  <sample time='21:00 min' depth='25.94 m' />
+  <sample time='21:20 min' depth='26.27 m' />
+  <sample time='21:40 min' depth='27.07 m' temp='21.0 C' />
+  <sample time='22:00 min' depth='26.23 m' />
+  <sample time='22:20 min' depth='25.91 m' />
+  <sample time='22:40 min' depth='25.23 m' />
+  <sample time='23:00 min' depth='24.7 m' />
+  <sample time='23:20 min' depth='23.89 m' />
+  <sample time='23:40 min' depth='23.16 m' />
+  <sample time='24:00 min' depth='22.68 m' temp='22.0 C' />
+  <sample time='24:20 min' depth='22.23 m' />
+  <sample time='24:40 min' depth='22.11 m' />
+  <sample time='25:00 min' depth='21.89 m' />
+  <sample time='25:20 min' depth='21.37 m' />
+  <sample time='25:40 min' depth='20.45 m' />
+  <sample time='26:00 min' depth='19.7 m' temp='23.0 C' />
+  <sample time='26:20 min' depth='18.66 m' />
+  <sample time='26:40 min' depth='17.8 m' />
+  <sample time='27:00 min' depth='15.49 m' />
+  <sample time='27:20 min' depth='15.99 m' />
+  <sample time='27:40 min' depth='16.57 m' />
+  <sample time='28:00 min' depth='16.43 m' />
+  <sample time='28:20 min' depth='16.56 m' />
+  <sample time='28:40 min' depth='16.57 m' />
+  <sample time='29:00 min' depth='16.87 m' />
+  <sample time='29:20 min' depth='17.02 m' />
+  <sample time='29:40 min' depth='16.87 m' />
+  <sample time='30:00 min' depth='16.64 m' />
+  <sample time='30:20 min' depth='17.09 m' />
+  <sample time='30:40 min' depth='16.7 m' />
+  <sample time='31:00 min' depth='15.85 m' />
+  <sample time='31:20 min' depth='15.16 m' />
+  <sample time='31:40 min' depth='14.77 m' />
+  <sample time='32:00 min' depth='14.06 m' />
+  <sample time='32:20 min' depth='13.03 m' />
+  <sample time='32:40 min' depth='12.31 m' />
+  <sample time='33:00 min' depth='10.86 m' />
+  <sample time='33:20 min' depth='10.39 m' />
+  <sample time='33:40 min' depth='10.67 m' />
+  <sample time='34:00 min' depth='11.69 m' />
+  <sample time='34:20 min' depth='12.09 m' />
+  <sample time='34:40 min' depth='12.32 m' />
+  <sample time='35:00 min' depth='12.16 m' />
+  <sample time='35:20 min' depth='12.61 m' />
+  <sample time='35:40 min' depth='12.34 m' />
+  <sample time='36:00 min' depth='12.72 m' />
+  <sample time='36:20 min' depth='13.76 m' />
+  <sample time='36:40 min' depth='14.77 m' />
+  <sample time='37:00 min' depth='15.02 m' />
+  <sample time='37:20 min' depth='13.88 m' />
+  <sample time='37:40 min' depth='13.34 m' />
+  <sample time='38:00 min' depth='12.47 m' />
+  <sample time='38:20 min' depth='11.68 m' />
+  <sample time='38:40 min' depth='10.86 m' />
+  <sample time='39:00 min' depth='10.75 m' />
+  <sample time='39:20 min' depth='10.08 m' />
+  <sample time='39:40 min' depth='9.6 m' />
+  <sample time='40:00 min' depth='9.12 m' />
+  <sample time='40:20 min' depth='8.65 m' />
+  <sample time='40:40 min' depth='8.58 m' />
+  <sample time='41:00 min' depth='9.09 m' />
+  <sample time='41:20 min' depth='9.46 m' />
+  <sample time='41:40 min' depth='9.68 m' />
+  <sample time='42:00 min' depth='9.71 m' />
+  <sample time='42:20 min' depth='10.01 m' />
+  <sample time='42:40 min' depth='10.2 m' />
+  <sample time='43:00 min' depth='8.5 m' />
+  <sample time='43:20 min' depth='7.69 m' />
+  <sample time='43:40 min' depth='6.29 m' />
+  <sample time='44:00 min' depth='6.08 m' />
+  <sample time='44:20 min' depth='5.85 m' />
+  <sample time='44:40 min' depth='5.79 m' />
+  <sample time='45:00 min' depth='5.76 m' />
+  <sample time='45:20 min' depth='5.38 m' />
+  <sample time='45:40 min' depth='5.62 m' />
+  <sample time='46:00 min' depth='4.86 m' />
+  <sample time='46:20 min' depth='4.96 m' />
+  <sample time='46:40 min' depth='4.86 m' />
+  <sample time='47:00 min' depth='4.77 m' />
+  <sample time='47:20 min' depth='4.69 m' />
+  <sample time='47:40 min' depth='3.27 m' />
+  <sample time='48:00 min' depth='1.33 m' />
+  </divecomputer>
+</dive>
+<dive number='124' otu='8' cns='4%' date='2021-10-19' time='11:06:30' duration='57:00 min'>
+  <cylinder description='unknown' />
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='a2b35154'>
+  <depth max='22.78 m' mean='14.172 m' />
+  <temperature water='22.0 C' />
+  <extradata key='Serial' value='80371412' />
+  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
+  <event time='0:00 min' type='9' name='surface' />
+  <event time='57:10 min' type='24' flags='1' name='tissue level warning' />
+  <event time='57:10 min' type='9' name='surface' />
+  <sample time='0:00 min' depth='1.41 m' temp='23.0 C' />
+  <sample time='0:20 min' depth='4.25 m' />
+  <sample time='0:40 min' depth='7.78 m' />
+  <sample time='1:00 min' depth='10.8 m' />
+  <sample time='1:20 min' depth='10.54 m' />
+  <sample time='1:40 min' depth='10.6 m' />
+  <sample time='2:00 min' depth='10.61 m' />
+  <sample time='2:20 min' depth='11.15 m' />
+  <sample time='2:40 min' depth='11.31 m' />
+  <sample time='3:00 min' depth='11.58 m' />
+  <sample time='3:20 min' depth='12.19 m' />
+  <sample time='3:40 min' depth='12.62 m' />
+  <sample time='4:00 min' depth='13.29 m' />
+  <sample time='4:20 min' depth='13.63 m' />
+  <sample time='4:40 min' depth='14.72 m' />
+  <sample time='5:00 min' depth='15.13 m' />
+  <sample time='5:20 min' depth='16.3 m' />
+  <sample time='5:40 min' depth='17.86 m' />
+  <sample time='6:00 min' depth='17.99 m' />
+  <sample time='6:20 min' depth='17.96 m' />
+  <sample time='6:40 min' depth='18.36 m' />
+  <sample time='7:00 min' depth='18.24 m' />
+  <sample time='7:20 min' depth='18.38 m' />
+  <sample time='7:40 min' depth='18.5 m' />
+  <sample time='8:00 min' depth='18.75 m' />
+  <sample time='8:20 min' depth='18.36 m' />
+  <sample time='8:40 min' depth='18.5 m' />
+  <sample time='9:00 min' depth='18.75 m' />
+  <sample time='9:20 min' depth='18.78 m' />
+  <sample time='9:40 min' depth='18.45 m' />
+  <sample time='10:00 min' depth='18.67 m' />
+  <sample time='10:20 min' depth='17.66 m' temp='22.0 C' />
+  <sample time='10:40 min' depth='17.42 m' temp='23.0 C' />
+  <sample time='11:00 min' depth='17.42 m' />
+  <sample time='11:20 min' depth='17.06 m' />
+  <sample time='11:40 min' depth='17.15 m' />
+  <sample time='12:00 min' depth='17.78 m' />
+  <sample time='12:20 min' depth='18.19 m' />
+  <sample time='12:40 min' depth='19.11 m' temp='22.0 C' />
+  <sample time='13:00 min' depth='19.09 m' />
+  <sample time='13:20 min' depth='19.62 m' />
+  <sample time='13:40 min' depth='19.78 m' />
+  <sample time='14:00 min' depth='19.18 m' />
+  <sample time='14:20 min' depth='18.94 m' />
+  <sample time='14:40 min' depth='18.66 m' />
+  <sample time='15:00 min' depth='18.28 m' />
+  <sample time='15:20 min' depth='18.42 m' />
+  <sample time='15:40 min' depth='17.57 m' />
+  <sample time='16:00 min' depth='16.6 m' />
+  <sample time='16:20 min' depth='16.5 m' />
+  <sample time='16:40 min' depth='16.55 m' />
+  <sample time='17:00 min' depth='16.67 m' />
+  <sample time='17:20 min' depth='16.94 m' />
+  <sample time='17:40 min' depth='16.48 m' />
+  <sample time='18:00 min' depth='16.99 m' temp='23.0 C' />
+  <sample time='18:20 min' depth='16.51 m' />
+  <sample time='18:40 min' depth='16.78 m' temp='22.0 C' />
+  <sample time='19:00 min' depth='16.97 m' />
+  <sample time='19:20 min' depth='16.66 m' />
+  <sample time='19:40 min' depth='16.86 m' />
+  <sample time='20:00 min' depth='15.8 m' />
+  <sample time='20:20 min' depth='15.95 m' />
+  <sample time='20:40 min' depth='16.34 m' />
+  <sample time='21:00 min' depth='16.02 m' />
+  <sample time='21:20 min' depth='16.76 m' />
+  <sample time='21:40 min' depth='17.19 m' />
+  <sample time='22:00 min' depth='18.66 m' />
+  <sample time='22:20 min' depth='19.58 m' />
+  <sample time='22:40 min' depth='19.32 m' />
+  <sample time='23:00 min' depth='20.23 m' />
+  <sample time='23:20 min' depth='20.74 m' />
+  <sample time='23:40 min' depth='20.81 m' />
+  <sample time='24:00 min' depth='21.54 m' />
+  <sample time='24:20 min' depth='21.81 m' />
+  <sample time='24:40 min' depth='22.02 m' />
+  <sample time='25:00 min' depth='21.7 m' />
+  <sample time='25:20 min' depth='21.84 m' />
+  <sample time='25:40 min' depth='22.58 m' />
+  <sample time='26:00 min' depth='22.39 m' />
+  <sample time='26:20 min' depth='22.06 m' />
+  <sample time='26:40 min' depth='21.94 m' />
+  <sample time='27:00 min' depth='21.62 m' />
+  <sample time='27:20 min' depth='20.61 m' />
+  <sample time='27:40 min' depth='20.17 m' />
+  <sample time='28:00 min' depth='20.45 m' />
+  <sample time='28:20 min' depth='19.52 m' />
+  <sample time='28:40 min' depth='18.96 m' />
+  <sample time='29:00 min' depth='18.84 m' />
+  <sample time='29:20 min' depth='18.68 m' />
+  <sample time='29:40 min' depth='18.11 m' />
+  <sample time='30:00 min' depth='17.33 m' />
+  <sample time='30:20 min' depth='16.65 m' />
+  <sample time='30:40 min' depth='16.55 m' />
+  <sample time='31:00 min' depth='16.78 m' />
+  <sample time='31:20 min' depth='16.46 m' />
+  <sample time='31:40 min' depth='16.37 m' />
+  <sample time='32:00 min' depth='17.08 m' />
+  <sample time='32:20 min' depth='16.69 m' />
+  <sample time='32:40 min' depth='16.39 m' />
+  <sample time='33:00 min' depth='16.15 m' />
+  <sample time='33:20 min' depth='16.27 m' />
+  <sample time='33:40 min' depth='15.86 m' />
+  <sample time='34:00 min' depth='15.48 m' />
+  <sample time='34:20 min' depth='15.36 m' />
+  <sample time='34:40 min' depth='15.22 m' />
+  <sample time='35:00 min' depth='14.38 m' temp='23.0 C' />
+  <sample time='35:20 min' depth='13.59 m' />
+  <sample time='35:40 min' depth='12.83 m' />
+  <sample time='36:00 min' depth='12.38 m' />
+  <sample time='36:20 min' depth='12.09 m' />
+  <sample time='36:40 min' depth='11.78 m' />
+  <sample time='37:00 min' depth='11.62 m' />
+  <sample time='37:20 min' depth='11.26 m' />
+  <sample time='37:40 min' depth='10.54 m' />
+  <sample time='38:00 min' depth='10.64 m' />
+  <sample time='38:20 min' depth='10.47 m' />
+  <sample time='38:40 min' depth='10.59 m' />
+  <sample time='39:00 min' depth='10.37 m' />
+  <sample time='39:20 min' depth='10.1 m' />
+  <sample time='39:40 min' depth='9.78 m' />
+  <sample time='40:00 min' depth='9.74 m' />
+  <sample time='40:20 min' depth='10.25 m' />
+  <sample time='40:40 min' depth='10.39 m' />
+  <sample time='41:00 min' depth='10.7 m' />
+  <sample time='41:20 min' depth='10.84 m' />
+  <sample time='41:40 min' depth='10.42 m' />
+  <sample time='42:00 min' depth='11.26 m' />
+  <sample time='42:20 min' depth='10.9 m' />
+  <sample time='42:40 min' depth='10.89 m' />
+  <sample time='43:00 min' depth='10.88 m' />
+  <sample time='43:20 min' depth='10.74 m' />
+  <sample time='43:40 min' depth='10.44 m' />
+  <sample time='44:00 min' depth='10.27 m' />
+  <sample time='44:20 min' depth='9.9 m' />
+  <sample time='44:40 min' depth='9.7 m' />
+  <sample time='45:00 min' depth='9.93 m' />
+  <sample time='45:20 min' depth='9.98 m' />
+  <sample time='45:40 min' depth='9.91 m' />
+  <sample time='46:00 min' depth='10.02 m' />
+  <sample time='46:20 min' depth='10.22 m' />
+  <sample time='46:40 min' depth='10.31 m' />
+  <sample time='47:00 min' depth='10.96 m' />
+  <sample time='47:20 min' depth='10.95 m' />
+  <sample time='47:40 min' depth='10.62 m' />
+  <sample time='48:00 min' depth='10.01 m' />
+  <sample time='48:20 min' depth='9.87 m' />
+  <sample time='48:40 min' depth='9.42 m' />
+  <sample time='49:00 min' depth='9.45 m' />
+  <sample time='49:20 min' depth='10.06 m' />
+  <sample time='49:40 min' depth='9.71 m' />
+  <sample time='50:00 min' depth='9.77 m' />
+  <sample time='50:20 min' depth='10.14 m' />
+  <sample time='50:40 min' depth='9.65 m' />
+  <sample time='51:00 min' depth='10.22 m' />
+  <sample time='51:20 min' depth='10.56 m' />
+  <sample time='51:40 min' depth='10.78 m' />
+  <sample time='52:00 min' depth='9.01 m' />
+  <sample time='52:20 min' depth='7.62 m' />
+  <sample time='52:40 min' depth='6.8 m' />
+  <sample time='53:00 min' depth='6.58 m' />
+  <sample time='53:20 min' depth='6.02 m' />
+  <sample time='53:40 min' depth='5.31 m' />
+  <sample time='54:00 min' depth='5.73 m' />
+  <sample time='54:20 min' depth='5.35 m' />
+  <sample time='54:40 min' depth='5.14 m' />
+  <sample time='55:00 min' depth='5.09 m' />
+  <sample time='55:20 min' depth='5.07 m' />
+  <sample time='55:40 min' depth='5.29 m' />
+  <sample time='56:00 min' depth='5.12 m' />
+  <sample time='56:20 min' depth='5.22 m' />
+  <sample time='56:40 min' depth='3.39 m' />
+  <sample time='57:00 min' depth='1.81 m' />
   </divecomputer>
 </dive>
 </dives>
