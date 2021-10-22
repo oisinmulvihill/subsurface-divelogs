@@ -24,6 +24,8 @@
 </site>
 <site uuid='9a1be545' name='Tobia Arba'>
 </site>
+<site uuid='b3926863' name='Naranjito Wreck'>
+</site>
 <site uuid='b50e9b9c' name='Little Brother, Reef'>
 </site>
 <site uuid='bd5d823b' name='Mewstone, Plymouth.'>
@@ -41178,7 +41180,7 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='45:40 min' depth='0.32 m' />
   </divecomputer>
 </dive>
-<dive number='126' otu='10' cns='4%' date='2021-10-21' time='10:59:59' duration='48:20 min'>
+<dive number='126' otu='10' cns='7%' date='2021-10-21' time='10:59:59' duration='48:20 min'>
   <cylinder description='unknown' />
   <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='f89a517a'>
   <depth max='25.66 m' mean='15.473 m' />
@@ -41335,6 +41337,109 @@ Lake is cold and very murky after lots of people have been dive training. The si
   <sample time='47:40 min' depth='5.64 m' />
   <sample time='48:00 min' depth='4.2 m' />
   <sample time='48:20 min' depth='3.21 m' />
+  </divecomputer>
+</dive>
+<dive number='127' otu='12' cns='4%' divesiteid='b3926863' date='2021-10-22' time='08:54:55' duration='28:40 min'>
+  <cylinder description='unknown' />
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='04476452'>
+  <depth max='33.33 m' mean='21.031 m' />
+  <temperature water='19.0 C' />
+  <extradata key='Serial' value='80371412' />
+  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
+  <event time='0:00 min' type='9' name='surface' />
+  <event time='5:23 min' type='18' flags='1' name='maxdepth' />
+  <event time='12:40 min' type='18' flags='2' name='maxdepth' />
+  <event time='17:03 min' type='3' flags='1' name='ascent' />
+  <event time='17:05 min' type='3' flags='2' name='ascent' />
+  <event time='28:41 min' type='24' flags='1' name='tissue level warning' />
+  <event time='28:41 min' type='9' name='surface' />
+  <sample time='0:00 min' depth='1.36 m' temp='23.0 C' />
+  <sample time='0:20 min' depth='5.02 m' />
+  <sample time='0:40 min' depth='7.75 m' />
+  <sample time='1:00 min' depth='11.48 m' />
+  <sample time='1:20 min' depth='12.5 m' />
+  <sample time='1:40 min' depth='13.75 m' />
+  <sample time='2:00 min' depth='17.19 m' />
+  <sample time='2:20 min' depth='19.38 m' />
+  <sample time='2:40 min' depth='23.28 m' temp='22.0 C' />
+  <sample time='3:00 min' depth='25.3 m' />
+  <sample time='3:20 min' depth='27.41 m' />
+  <sample time='3:40 min' depth='27.98 m' />
+  <sample time='4:00 min' depth='28.28 m' />
+  <sample time='4:20 min' depth='28.97 m' />
+  <sample time='4:40 min' depth='29.11 m' />
+  <sample time='5:00 min' depth='29.44 m' />
+  <sample time='5:20 min' depth='29.81 m' temp='21.0 C' />
+  <sample time='5:40 min' depth='30.38 m' />
+  <sample time='6:00 min' depth='30.51 m' />
+  <sample time='6:20 min' depth='30.16 m' />
+  <sample time='6:40 min' depth='30.53 m' />
+  <sample time='7:00 min' depth='30.73 m' />
+  <sample time='7:20 min' depth='31.1 m' temp='20.0 C' />
+  <sample time='7:40 min' depth='32.04 m' />
+  <sample time='8:00 min' depth='31.92 m' />
+  <sample time='8:20 min' depth='31.93 m' />
+  <sample time='8:40 min' depth='32.1 m' />
+  <sample time='9:00 min' depth='32.14 m' />
+  <sample time='9:20 min' depth='32.97 m' />
+  <sample time='9:40 min' depth='32.84 m' temp='19.0 C' />
+  <sample time='10:00 min' depth='32.68 m' />
+  <sample time='10:20 min' depth='32.38 m' />
+  <sample time='10:40 min' depth='33.14 m' />
+  <sample time='11:00 min' depth='32.79 m' />
+  <sample time='11:20 min' depth='32.89 m' />
+  <sample time='11:40 min' depth='31.53 m' />
+  <sample time='12:00 min' depth='30.88 m' temp='20.0 C' />
+  <sample time='12:20 min' depth='31.36 m' />
+  <sample time='12:40 min' depth='29.92 m' temp='21.0 C' />
+  <sample time='13:00 min' depth='29.59 m' />
+  <sample time='13:20 min' depth='28.58 m' />
+  <sample time='13:40 min' depth='27.99 m' />
+  <sample time='14:00 min' depth='27.18 m' temp='22.0 C' />
+  <sample time='14:20 min' depth='27.62 m' />
+  <sample time='14:40 min' depth='27.56 m' />
+  <sample time='15:00 min' depth='27.13 m' />
+  <sample time='15:20 min' depth='27.38 m' />
+  <sample time='15:40 min' depth='27.58 m' />
+  <sample time='16:00 min' depth='28.32 m' />
+  <sample time='16:20 min' depth='29.1 m' temp='21.0 C' />
+  <sample time='16:40 min' depth='29.12 m' />
+  <sample time='17:00 min' depth='26.98 m' temp='22.0 C' />
+  <sample time='17:20 min' depth='25.79 m' />
+  <sample time='17:40 min' depth='24.61 m' />
+  <sample time='18:00 min' depth='24.11 m' />
+  <sample time='18:20 min' depth='23.61 m' />
+  <sample time='18:40 min' depth='22.98 m' />
+  <sample time='19:00 min' depth='22.31 m' />
+  <sample time='19:20 min' depth='21.41 m' />
+  <sample time='19:40 min' depth='20.34 m' />
+  <sample time='20:00 min' depth='19.4 m' />
+  <sample time='20:20 min' depth='18.33 m' />
+  <sample time='20:40 min' depth='17.09 m' />
+  <sample time='21:00 min' depth='16.0 m' />
+  <sample time='21:20 min' depth='14.85 m' />
+  <sample time='21:40 min' depth='13.17 m' />
+  <sample time='22:00 min' depth='11.23 m' />
+  <sample time='22:20 min' depth='10.09 m' temp='23.0 C' />
+  <sample time='22:40 min' depth='9.28 m' />
+  <sample time='23:00 min' depth='8.7 m' />
+  <sample time='23:20 min' depth='8.19 m' />
+  <sample time='23:40 min' depth='7.82 m' />
+  <sample time='24:00 min' depth='6.81 m' />
+  <sample time='24:20 min' depth='5.19 m' />
+  <sample time='24:40 min' depth='5.36 m' />
+  <sample time='25:00 min' depth='5.9 m' />
+  <sample time='25:20 min' depth='5.41 m' />
+  <sample time='25:40 min' depth='5.42 m' />
+  <sample time='26:00 min' depth='4.79 m' />
+  <sample time='26:20 min' depth='5.09 m' />
+  <sample time='26:40 min' depth='5.01 m' />
+  <sample time='27:00 min' depth='4.75 m' />
+  <sample time='27:20 min' depth='4.64 m' />
+  <sample time='27:40 min' depth='4.99 m' />
+  <sample time='28:00 min' depth='4.44 m' />
+  <sample time='28:20 min' depth='2.56 m' />
+  <sample time='28:40 min' depth='1.24 m' />
   </divecomputer>
 </dive>
 </dives>
