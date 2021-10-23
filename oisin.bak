@@ -49755,7 +49755,7 @@ Conditions: Mainly calm with small waves. Can be a slight current.</notes>
   </divecomputer>
 </dive>
 <dive number='126' rating='4' visibility='3' current='4' sac='18.548 l/min' otu='28' cns='11%' tags='mucia, wreck' divesiteid='b47c6934' date='2021-10-18' time='09:53:54' duration='28:20 min'>
-  <divemaster>Jo</divemaster>
+  <divemaster>Jo Golder</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>We dived out of the local harbour in Cabos de Palos and the the Islas Hormingas dive centre (C. Marín, 30370 Cabo de Palos, Murcia). The wreck today was to be the Carbonero. This was a deep dive today and we used Nitrox 28 (although when measure it was 28.6, so I set it to 29% on dive computer). The top/just above the wreck was 35m, so the max sports diver depth. 
 
@@ -50595,15 +50595,17 @@ The Bajo de Dentro is a submarine mountain that rises from 40 meters deep to a m
   <sample time='48:40 min' depth='1.15 m' />
   </divecomputer>
 </dive>
-<dive number='131' rating='4' otu='12' cns='4%' tags='cabodepalos, murcia, spain, wreck' divesiteid='4de60a0d' date='2021-10-22' time='08:55:30' duration='28:20 min'>
+<dive number='131' rating='4' visibility='3' current='5' sac='16.006 l/min' otu='12' cns='4%' tags='cabodepalos, murcia, spain, wreck' divesiteid='4de60a0d' date='2021-10-22' time='08:55:30' duration='28:20 min'>
   <divemaster>Alex Lopez Fernandes</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Last dive of the holiday. 
 
-We forgot to set the alarm for 07:15 and Yoke woke up at 07:45. Luckily I had gotten everything ready to go. Yoke chopped and avacodo and I had some chicken and off we went. We made it to the dive centre by 08:30.
+We forgot to set the alarm for 07:15 and Yoke woke up at 07:45. Luckily I had gotten everything ready to go. Yoke chopped an avacodo and I had some chicken and off we went. We made it to the dive centre by 08:30.
 
 A storm was comming in today at about 11:00. With high winds and heavy rain. It was looking likely the afternoon dive would be cancelled. We headed off to the Isla Hormingas and discoverd I hadn't packed the wetboots. Luckily our dive guide Alex got some for Yoke and I at the Isla Hormingas dive centre we were at.</notes>
-  <cylinder description='unknown' />
+  <suit>5mm wetsuit</suit>
+  <cylinder size='15.0 l' workpressure='200.0 bar' description='15ℓ 200 bar' start='200.0 bar' end='100.0 bar' />
+  <weightsystem weight='5.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='82da28cf'>
   <depth max='32.43 m' mean='20.272 m' />
   <temperature water='20.0 C' />
