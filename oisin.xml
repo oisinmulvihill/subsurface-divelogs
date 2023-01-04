@@ -21,7 +21,7 @@
 </site>
 <site uuid='10543252' name='Afternoon Dive, Ustica, Italy'>
 </site>
-<site uuid='119a7432' name='Jack Fish Alley, Red Sea, Egypt'>
+<site uuid='119a7432' name='Jack Fish Alley, Red Sea, Egypt' gps='27.728285 34.258760'>
 </site>
 <site uuid='13e02e23' name='Small Giften Island, Red Sea, Egypt.'>
 </site>
@@ -96,6 +96,12 @@
 </site>
 <site uuid='4e4442a4' name='Sea Adventure, Malbul, Malaysia.'>
 </site>
+<site uuid='4e495a3b' name='Alternatives, Egypt' gps='27.728282 34.198346'>
+</site>
+<site uuid='4e495a3c' name='Alternatives, Egypt'>
+</site>
+<site uuid='4e495a3d' name='Alternatives, Egypt' gps='27.728282 34.198346'>
+</site>
 <site uuid='4fb506ea' name='Southpoint, Sipadan, Malaysia'>
 </site>
 <site uuid='50e07bd3' name='Wrecks of the CBA. Tug, Harrier Jet plane and Helicopter'>
@@ -122,7 +128,7 @@
 </site>
 <site uuid='6896dded' name='Lost Anchor, Sal, Cape Verde.'>
 </site>
-<site uuid='69db3199' name='Woodhouse Reef, Egypt'>
+<site uuid='69db3199' name='Woodhouse Reef, Egypt' gps='28.000293 34.465849'>
 </site>
 <site uuid='6a975dc3' name='Ghiannis D, Abu Nuhas, Red Sea, Egypt.'>
 </site>
@@ -172,7 +178,7 @@
 </site>
 <site uuid='84731750' name='Jackson Reef, Egypt'>
 </site>
-<site uuid='84731751' name='Jackson Reef, Egypt'>
+<site uuid='84731751' name='Jackson Reef, Egypt' gps='28.005771 34.471548'>
 </site>
 <site uuid='848a41b7' name='3 Caves, Sal Cape Verde.' gps='16.577301 -22.921600'>
 </site>
@@ -256,6 +262,7 @@
   <notes>additional name for site: Dive 1, Lanyu, Taiwan </notes>
 </site>
 <site uuid='db07f09a' name='Poseidan Reef (Sha&apos;ab El Erg)'>
+  <notes>Rough guess of the dive site's location. </notes>
 </site>
 <site uuid='dcc44007' name='Gota Abu Ramada, Red Sea, Egypt.' gps='16.557074 45.488421'>
 </site>
@@ -271,7 +278,7 @@
 </site>
 <site uuid='e012b12c' name='Kwarcit Wreck (Boris), Cape Verde'>
 </site>
-<site uuid='e561d58e' name='Shark and Yolanda, Ras Mohamed, Egypt'>
+<site uuid='e561d58e' name='Shark and Yolanda, Ras Mohamed, Egypt' gps='27.728290 34.256571'>
 </site>
 <site uuid='e9f2fc3e' name='Malbul House Reef, Malbul, Malaysia.'>
 </site>
@@ -51863,7 +51870,7 @@ Yoke practiced here DSMB after we did a safety stop at the 5m underwater blue o2
   <sample time='52:00 min' depth='2.69 m' />
   </divecomputer>
 </dive>
-<dive number='143' rating='5' visibility='4' current='4' sac='19.048 l/min' otu='12' cns='7%' tags='egypt' divesiteid='9c8cf20d' date='2022-12-24' time='14:49:01' duration='52:20 min'>
+<dive number='143' rating='5' visibility='4' current='4' sac='19.048 l/min' otu='12' cns='7%' tags='egypt' divesiteid='4e495a3b' date='2022-12-24' time='14:49:01' duration='52:20 min'>
   <divemaster>Moussa</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Stingray station.
@@ -52046,7 +52053,7 @@ This is a shallow reef area with two large pinacles and lots of small pinacles a
   <sample time='52:20 min' depth='1.35 m' />
   </divecomputer>
 </dive>
-<dive number='144' rating='5' visibility='4' current='5' sac='18.592 l/min' otu='8' cns='8%' tags='egypt' divesiteid='9c8cf20d' date='2022-12-24' time='17:32:08' duration='48:40 min'>
+<dive number='144' rating='5' visibility='4' current='5' sac='18.592 l/min' otu='8' cns='8%' tags='egypt' divesiteid='4e495a3d' date='2022-12-24' time='17:32:08' duration='48:40 min'>
   <divemaster>Moussa</divemaster>
   <buddy>Yoke Wong</buddy>
   <notes>Night dive on stingray station.

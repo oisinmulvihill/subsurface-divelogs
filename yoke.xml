@@ -10,7 +10,7 @@
 </site>
 <site uuid=' 9663dcd' name='Umm Gamar, Egypt' gps='27.355833 33.899279'>
 </site>
-<site uuid='238e2c47' name='Thistlegorm, Egypt.'>
+<site uuid='238e2c47' name='Thistlegorm, Egypt.' gps='27.852291 33.951437'>
 </site>
 <site uuid='26f68617' name='Safaga'>
 </site>
@@ -38,7 +38,7 @@
 </site>
 <site uuid='7e4532f8' name='Little Brother'>
 </site>
-<site uuid='84731750' name='Jackson Reef, Egypt'>
+<site uuid='84731750' name='Jackson Reef, Egypt' gps='28.005771 34.471548'>
 </site>
 <site uuid='8699c43a' name='Yukab, Cozumel, Mexico'>
 </site>
@@ -68,7 +68,7 @@
 </site>
 <site uuid='db07f09b' name='Poseidan Reef (Sha&apos;ab El Erg)'>
 </site>
-<site uuid='db91695c' name='Woodhouse Reef, Egypt.'>
+<site uuid='db91695c' name='Woodhouse Reef, Egypt.' gps='28.000293 34.465849'>
 </site>
 <site uuid='e263013a' name='Little Brother, Cleaning Station'>
 </site>
@@ -78,13 +78,13 @@
 </site>
 <site uuid='e561d58e' name='Shark and Yolanda, Ras Mohamed, Egypt'>
 </site>
-<site uuid='e561d58f' name='Shark and Yolanda, Ras Mohamed, Egypt'>
+<site uuid='e561d58f' name='Shark and Yolanda, Ras Mohamed, Egypt' gps='27.728290 34.256571'>
 </site>
-<site uuid='e9008f9f' name='Gordon Reef, Egypt'>
+<site uuid='e9008f9f' name='Gordon Reef, Egypt' gps='27.986295 34.458490'>
 </site>
 <site uuid='efb4b5d6' name='Night Dive'>
 </site>
-<site uuid='f491ccd0' name='Jack fish alley, Egypt'>
+<site uuid='f491ccd0' name='Jack fish alley, Egypt' gps='27.728290 34.256571'>
 </site>
 <site uuid='f82e10f6' name='Ghiannis D Wreck, Abu nuhas, Egypt'>
 </site>
