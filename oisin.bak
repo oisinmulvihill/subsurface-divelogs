@@ -261,7 +261,7 @@
 <site uuid='da5d5b33' name='Dive 3, Lanyu, Taiwan' gps='22.017066 121.551536'>
   <notes>additional name for site: Dive 1, Lanyu, Taiwan </notes>
 </site>
-<site uuid='db07f09a' name='Poseidan Reef (Sha&apos;ab El Erg)' gps='28.690744 32.175401'>
+<site uuid='db07f09a' name='Poseidan Reef (Sha&apos;ab El Erg)'>
   <notes>Rough guess of the dive site's location. </notes>
 </site>
 <site uuid='dcc44007' name='Gota Abu Ramada, Red Sea, Egypt.' gps='16.557074 45.488421'>
