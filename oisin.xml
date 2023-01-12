@@ -51869,6 +51869,7 @@ Yoke practiced here DSMB after we did a safety stop at the 5m underwater blue o2
   <sample time='51:40 min' depth='4.64 m' />
   <sample time='52:00 min' depth='2.69 m' />
   </divecomputer>
+  <picture filename='/Users/oisin/src/subsurface-divelogs/images/20221224_090300_Poseidon_Reef_dive_site_screenshot.jpg' offset='+1:18 min'/>
 </dive>
 <dive number='143' rating='5' visibility='4' current='4' sac='19.048 l/min' otu='12' cns='7%' tags='egypt' divesiteid='4e495a3b' date='2022-12-24' time='14:49:01' duration='52:20 min'>
   <divemaster>Moussa</divemaster>
