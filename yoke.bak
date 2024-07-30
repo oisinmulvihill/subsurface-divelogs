@@ -1,6 +1,6 @@
 <divelog program='subsurface' version='3'>
 <settings>
-<fingerprint model='642eadee' serial='04ca5ed4' deviceid='31808912' diveid='bc217b7d' data='e807071d0b1213'/>
+<fingerprint model='642eadee' serial='04ca5ed4' deviceid='31808912' diveid='d0abbe1d' data='e807071e0b1907'/>
 <fingerprint model='642eadee' serial='04fcb64e' deviceid='105f4e78' diveid='18e5081b' data='e60707100e2a19'/>
 </settings>
 <divesites>
@@ -46382,6 +46382,173 @@ Surfaced with 70 bar air. Saw small green, brown moray eel with brown spots in a
   <sample time='36:00 min' depth='4.5 m' />
   <sample time='36:20 min' depth='4.06 m' />
   <sample time='36:40 min' depth='2.83 m' />
+  </divecomputer>
+</dive>
+<dive number='158' otu='7' cns='3%' date='2024-07-30' time='11:25:07' duration='51:20 min'>
+  <cylinder description='unknown' />
+  <divecomputer model='Suunto Zoop Novo' deviceid='31808912' diveid='d0abbe1d'>
+  <depth max='29.49 m' mean='12.783 m' />
+  <temperature water='20.0 C' />
+  <extradata key='Serial' value='80371412' />
+  <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
+  <event time='0:00 min' type='9' name='surface' />
+  <event time='51:35 min' type='24' flags='1' name='tissue level warning' />
+  <event time='51:35 min' type='9' name='surface' />
+  <sample time='0:00 min' depth='1.57 m' temp='26.0 C' />
+  <sample time='0:20 min' depth='3.83 m' />
+  <sample time='0:40 min' depth='3.6 m' temp='25.0 C' />
+  <sample time='1:00 min' depth='4.3 m' />
+  <sample time='1:20 min' depth='4.24 m' />
+  <sample time='1:40 min' depth='5.19 m' />
+  <sample time='2:00 min' depth='6.05 m' />
+  <sample time='2:20 min' depth='5.87 m' />
+  <sample time='2:40 min' depth='5.6 m' />
+  <sample time='3:00 min' depth='5.19 m' />
+  <sample time='3:20 min' depth='4.97 m' />
+  <sample time='3:40 min' depth='4.53 m' />
+  <sample time='4:00 min' depth='4.59 m' />
+  <sample time='4:20 min' depth='4.6 m' />
+  <sample time='4:40 min' depth='4.7 m' />
+  <sample time='5:00 min' depth='4.81 m' />
+  <sample time='5:20 min' depth='4.73 m' />
+  <sample time='5:40 min' depth='4.82 m' />
+  <sample time='6:00 min' depth='5.08 m' />
+  <sample time='6:20 min' depth='5.35 m' />
+  <sample time='6:40 min' depth='5.41 m' />
+  <sample time='7:00 min' depth='5.19 m' />
+  <sample time='7:20 min' depth='5.57 m' />
+  <sample time='7:40 min' depth='5.86 m' />
+  <sample time='8:00 min' depth='5.58 m' />
+  <sample time='8:20 min' depth='5.53 m' />
+  <sample time='8:40 min' depth='6.01 m' />
+  <sample time='9:00 min' depth='6.29 m' />
+  <sample time='9:20 min' depth='6.67 m' />
+  <sample time='9:40 min' depth='7.16 m' />
+  <sample time='10:00 min' depth='7.42 m' temp='24.0 C' />
+  <sample time='10:20 min' depth='7.42 m' temp='25.0 C' />
+  <sample time='10:40 min' depth='7.16 m' />
+  <sample time='11:00 min' depth='7.01 m' />
+  <sample time='11:20 min' depth='6.55 m' temp='24.0 C' />
+  <sample time='11:40 min' depth='6.59 m' />
+  <sample time='12:00 min' depth='7.07 m' />
+  <sample time='12:20 min' depth='8.46 m' />
+  <sample time='12:40 min' depth='8.5 m' />
+  <sample time='13:00 min' depth='8.86 m' />
+  <sample time='13:20 min' depth='9.99 m' />
+  <sample time='13:40 min' depth='10.81 m' />
+  <sample time='14:00 min' depth='12.24 m' />
+  <sample time='14:20 min' depth='14.69 m' />
+  <sample time='14:40 min' depth='16.62 m' />
+  <sample time='15:00 min' depth='17.83 m' />
+  <sample time='15:20 min' depth='18.2 m' />
+  <sample time='15:40 min' depth='18.4 m' />
+  <sample time='16:00 min' depth='18.58 m' />
+  <sample time='16:20 min' depth='18.53 m' />
+  <sample time='16:40 min' depth='18.69 m' />
+  <sample time='17:00 min' depth='19.12 m' />
+  <sample time='17:20 min' depth='20.76 m' />
+  <sample time='17:40 min' depth='22.29 m' />
+  <sample time='18:00 min' depth='23.61 m' />
+  <sample time='18:20 min' depth='24.68 m' />
+  <sample time='18:40 min' depth='25.04 m' />
+  <sample time='19:00 min' depth='25.41 m' temp='23.0 C' />
+  <sample time='19:20 min' depth='26.28 m' />
+  <sample time='19:40 min' depth='26.13 m' />
+  <sample time='20:00 min' depth='26.57 m' />
+  <sample time='20:20 min' depth='27.75 m' temp='22.0 C' />
+  <sample time='20:40 min' depth='28.78 m' temp='21.0 C' />
+  <sample time='21:00 min' depth='29.49 m' />
+  <sample time='21:20 min' depth='29.03 m' temp='20.0 C' />
+  <sample time='21:40 min' depth='28.92 m' />
+  <sample time='22:00 min' depth='28.85 m' />
+  <sample time='22:20 min' depth='28.22 m' />
+  <sample time='22:40 min' depth='27.62 m' />
+  <sample time='23:00 min' depth='27.15 m' />
+  <sample time='23:20 min' depth='27.49 m' />
+  <sample time='23:40 min' depth='26.21 m' />
+  <sample time='24:00 min' depth='25.56 m' />
+  <sample time='24:20 min' depth='24.7 m' />
+  <sample time='24:40 min' depth='23.79 m' temp='21.0 C' />
+  <sample time='25:00 min' depth='22.9 m' temp='22.0 C' />
+  <sample time='25:20 min' depth='22.35 m' />
+  <sample time='25:40 min' depth='21.97 m' />
+  <sample time='26:00 min' depth='21.42 m' temp='23.0 C' />
+  <sample time='26:20 min' depth='20.62 m' />
+  <sample time='26:40 min' depth='20.27 m' />
+  <sample time='27:00 min' depth='19.97 m' />
+  <sample time='27:20 min' depth='19.44 m' />
+  <sample time='27:40 min' depth='18.82 m' />
+  <sample time='28:00 min' depth='18.94 m' />
+  <sample time='28:20 min' depth='18.17 m' />
+  <sample time='28:40 min' depth='17.67 m' />
+  <sample time='29:00 min' depth='17.81 m' />
+  <sample time='29:20 min' depth='17.7 m' />
+  <sample time='29:40 min' depth='18.1 m' />
+  <sample time='30:00 min' depth='17.49 m' />
+  <sample time='30:20 min' depth='17.0 m' temp='24.0 C' />
+  <sample time='30:40 min' depth='16.83 m' />
+  <sample time='31:00 min' depth='16.37 m' />
+  <sample time='31:20 min' depth='16.2 m' />
+  <sample time='31:40 min' depth='15.07 m' />
+  <sample time='32:00 min' depth='14.26 m' />
+  <sample time='32:20 min' depth='13.44 m' />
+  <sample time='32:40 min' depth='14.12 m' />
+  <sample time='33:00 min' depth='13.94 m' />
+  <sample time='33:20 min' depth='13.66 m' />
+  <sample time='33:40 min' depth='13.61 m' />
+  <sample time='34:00 min' depth='13.55 m' />
+  <sample time='34:20 min' depth='13.82 m' />
+  <sample time='34:40 min' depth='13.56 m' />
+  <sample time='35:00 min' depth='13.2 m' />
+  <sample time='35:20 min' depth='12.28 m' />
+  <sample time='35:40 min' depth='12.25 m' />
+  <sample time='36:00 min' depth='11.85 m' />
+  <sample time='36:20 min' depth='10.95 m' />
+  <sample time='36:40 min' depth='10.6 m' />
+  <sample time='37:00 min' depth='11.46 m' />
+  <sample time='37:20 min' depth='11.45 m' />
+  <sample time='37:40 min' depth='11.45 m' />
+  <sample time='38:00 min' depth='11.29 m' />
+  <sample time='38:20 min' depth='10.62 m' />
+  <sample time='38:40 min' depth='11.27 m' />
+  <sample time='39:00 min' depth='11.05 m' />
+  <sample time='39:20 min' depth='10.9 m' />
+  <sample time='39:40 min' depth='10.67 m' />
+  <sample time='40:00 min' depth='10.01 m' />
+  <sample time='40:20 min' depth='10.45 m' />
+  <sample time='40:40 min' depth='10.63 m' />
+  <sample time='41:00 min' depth='10.13 m' />
+  <sample time='41:20 min' depth='9.52 m' />
+  <sample time='41:40 min' depth='9.92 m' />
+  <sample time='42:00 min' depth='9.78 m' />
+  <sample time='42:20 min' depth='9.61 m' />
+  <sample time='42:40 min' depth='9.75 m' />
+  <sample time='43:00 min' depth='9.68 m' />
+  <sample time='43:20 min' depth='9.5 m' />
+  <sample time='43:40 min' depth='8.77 m' />
+  <sample time='44:00 min' depth='8.04 m' />
+  <sample time='44:20 min' depth='8.21 m' />
+  <sample time='44:40 min' depth='8.59 m' />
+  <sample time='45:00 min' depth='8.27 m' />
+  <sample time='45:20 min' depth='7.62 m' />
+  <sample time='45:40 min' depth='7.25 m' />
+  <sample time='46:00 min' depth='6.77 m' />
+  <sample time='46:20 min' depth='6.87 m' />
+  <sample time='46:40 min' depth='6.84 m' />
+  <sample time='47:00 min' depth='6.79 m' />
+  <sample time='47:20 min' depth='6.11 m' />
+  <sample time='47:40 min' depth='5.74 m' />
+  <sample time='48:00 min' depth='5.33 m' />
+  <sample time='48:20 min' depth='5.46 m' />
+  <sample time='48:40 min' depth='5.93 m' />
+  <sample time='49:00 min' depth='5.09 m' />
+  <sample time='49:20 min' depth='4.69 m' />
+  <sample time='49:40 min' depth='4.63 m' />
+  <sample time='50:00 min' depth='4.08 m' />
+  <sample time='50:20 min' depth='3.65 m' />
+  <sample time='50:40 min' depth='3.98 m' />
+  <sample time='51:00 min' depth='3.86 m' />
+  <sample time='51:20 min' depth='2.92 m' />
   </divecomputer>
 </dive>
 </dives>
