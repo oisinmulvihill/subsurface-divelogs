@@ -46188,8 +46188,6 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <event time='6:57 min' type='15' flags='1' name='ceiling (safety stop)' />
   <event time='7:04 min' type='15' flags='2' name='ceiling (safety stop)' />
   <event time='7:04 min' type='9' name='surface' />
-  <event time='7:09 min' type='15' flags='1' name='ceiling (safety stop)' />
-  <event time='7:15 min' type='15' flags='2' name='ceiling (safety stop)' />
   <event time='58:02 min' type='9' name='surface' />
   <sample time='0:00 min' depth='1.29 m' />
   <sample time='0:20 min' depth='0.99 m' temp='23.0 C' />
@@ -46677,8 +46675,8 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' o2='31.0%' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='50:21 min' type='24' flags='1' name='tissue level warning' />
   <event time='50:21 min' type='9' name='surface' />
+  <event time='50:21 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.3 m' />
   <sample time='0:20 min' depth='1.92 m' temp='24.0 C' />
   <sample time='0:40 min' depth='0.94 m' />
@@ -46846,8 +46844,8 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' o2='31.0%' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='45:28 min' type='24' flags='1' name='tissue level warning' />
   <event time='45:28 min' type='9' name='surface' />
+  <event time='45:28 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.4 m' />
   <sample time='0:20 min' depth='2.82 m' temp='25.0 C' />
   <sample time='0:40 min' depth='3.83 m' />
@@ -47000,8 +46998,8 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' o2='30.0%' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='39:57 min' type='24' flags='1' name='tissue level warning' />
   <event time='39:57 min' type='9' name='surface' />
+  <event time='39:57 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.3 m' />
   <sample time='0:20 min' depth='1.9 m' temp='26.0 C' />
   <sample time='0:40 min' depth='1.89 m' temp='25.0 C' />
@@ -47139,8 +47137,8 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <event time='0:00 min' type='9' name='surface' />
   <event time='2:33 min' type='3' flags='1' name='ascent' />
   <event time='2:39 min' type='3' flags='2' name='ascent' />
-  <event time='33:39 min' type='24' flags='1' name='tissue level warning' />
   <event time='33:39 min' type='9' name='surface' />
+  <event time='33:39 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.23 m' />
   <sample time='0:20 min' depth='4.32 m' temp='24.0 C' />
   <sample time='0:40 min' depth='3.01 m' />
@@ -47255,8 +47253,8 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' o2='31.0%' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='33:40 min' type='24' flags='1' name='tissue level warning' />
   <event time='33:40 min' type='9' name='surface' />
+  <event time='33:40 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.38 m' />
   <sample time='0:20 min' depth='2.53 m' temp='24.0 C' />
   <sample time='0:40 min' depth='5.38 m' />
@@ -47375,8 +47373,8 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <event time='0:00 min' type='9' name='surface' />
   <event time='37:03 min' type='3' flags='1' name='ascent' />
   <event time='37:15 min' type='3' flags='2' name='ascent' />
-  <event time='41:44 min' type='24' flags='1' name='tissue level warning' />
   <event time='41:44 min' type='9' name='surface' />
+  <event time='41:44 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.29 m' />
   <sample time='0:20 min' depth='2.63 m' temp='24.0 C' />
   <sample time='0:40 min' depth='4.06 m' />
@@ -47697,8 +47695,8 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' o2='31.0%' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='55:24 min' type='24' flags='1' name='tissue level warning' />
   <event time='55:24 min' type='9' name='surface' />
+  <event time='55:24 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.26 m' />
   <sample time='0:20 min' depth='2.94 m' temp='23.0 C' />
   <sample time='0:40 min' depth='5.29 m' />
@@ -47879,8 +47877,8 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' o2='31.0%' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='51:40 min' type='24' flags='1' name='tissue level warning' />
   <event time='51:40 min' type='9' name='surface' />
+  <event time='51:40 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.48 m' />
   <sample time='0:20 min' depth='6.32 m' temp='26.0 C' />
   <sample time='0:40 min' depth='11.06 m' temp='25.0 C' />
@@ -48772,10 +48770,9 @@ On the dive saw giant lobster, crab, big baracoda and in this distance what i th
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' o2='30.0%' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='57:29 min' type='24' flags='1' name='tissue level warning' />
   <event time='57:29 min' type='9' name='surface' />
+  <event time='57:29 min' type='24' flags='1' name='tissue level warning' />
   <event time='57:37 min' type='24' flags='2' name='tissue level warning' />
-  <event time='58:19 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.29 m' />
   <sample time='0:20 min' depth='5.0 m' temp='23.0 C' />
   <sample time='0:40 min' depth='4.91 m' />
@@ -49050,8 +49047,8 @@ Things to improve:
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='49:42 min' type='24' flags='1' name='tissue level warning' />
   <event time='49:42 min' type='9' name='surface' />
+  <event time='49:42 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.24 m' />
   <sample time='0:20 min' depth='3.79 m' temp='23.0 C' />
   <sample time='0:40 min' depth='7.74 m' />
@@ -49218,8 +49215,8 @@ Sea much calmer than yesterday, more overcast but the wind was lower and the rol
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='45:11 min' type='24' flags='1' name='tissue level warning' />
   <event time='45:11 min' type='9' name='surface' />
+  <event time='45:11 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.53 m' />
   <sample time='0:20 min' depth='4.04 m' temp='22.0 C' />
   <sample time='0:40 min' depth='5.57 m' />
@@ -49374,8 +49371,8 @@ We saw a few large groupers in this area.</notes>
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='46:33 min' type='24' flags='1' name='tissue level warning' />
   <event time='46:33 min' type='9' name='surface' />
+  <event time='46:33 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.54 m' />
   <sample time='0:20 min' depth='6.81 m' temp='22.0 C' />
   <sample time='0:40 min' depth='7.73 m' />
@@ -49560,8 +49557,8 @@ Conditions:  Mainly calm with small waves.</notes>
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='44:34 min' type='24' flags='1' name='tissue level warning' />
   <event time='44:34 min' type='9' name='surface' />
+  <event time='44:34 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.22 m' temp='25.0 C' />
   <sample time='0:20 min' depth='2.48 m' />
   <sample time='0:40 min' depth='4.16 m' />
@@ -49733,10 +49730,9 @@ Conditions: Mainly calm with small waves. Can be a slight current.</notes>
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='47:40 min' type='24' flags='1' name='tissue level warning' />
   <event time='47:40 min' type='9' name='surface' />
+  <event time='47:40 min' type='24' flags='1' name='tissue level warning' />
   <event time='47:53 min' type='24' flags='2' name='tissue level warning' />
-  <event time='48:16 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.49 m' temp='24.0 C' />
   <sample time='0:20 min' depth='2.66 m' />
   <sample time='0:40 min' depth='3.31 m' />
@@ -49916,46 +49912,23 @@ Torpedo damage creates a small debris field separating the stern from the main w
   <event time='0:00 min' type='9' name='surface' />
   <event time='2:46 min' type='18' flags='1' name='maxdepth' />
   <event time='2:47 min' type='18' flags='2' name='maxdepth' />
-  <event time='2:55 min' type='18' flags='1' name='maxdepth' />
-  <event time='2:56 min' type='18' flags='2' name='maxdepth' />
-  <event time='2:57 min' type='18' flags='1' name='maxdepth' />
-  <event time='3:04 min' type='18' flags='2' name='maxdepth' />
-  <event time='3:10 min' type='18' flags='1' name='maxdepth' />
-  <event time='3:14 min' type='18' flags='2' name='maxdepth' />
-  <event time='3:22 min' type='18' flags='1' name='maxdepth' />
-  <event time='3:25 min' type='18' flags='2' name='maxdepth' />
   <event time='3:47 min' type='18' flags='1' name='maxdepth' />
   <event time='3:48 min' type='18' flags='2' name='maxdepth' />
-  <event time='3:49 min' type='18' flags='1' name='maxdepth' />
-  <event time='3:50 min' type='18' flags='2' name='maxdepth' />
-  <event time='4:07 min' type='18' flags='1' name='maxdepth' />
   <event time='6:08 min' type='18' flags='2' name='maxdepth' />
   <event time='9:37 min' type='18' flags='1' name='maxdepth' />
   <event time='10:17 min' type='18' flags='2' name='maxdepth' />
   <event time='10:42 min' type='18' flags='1' name='maxdepth' />
-  <event time='10:51 min' type='18' flags='2' name='maxdepth' />
-  <event time='11:25 min' type='18' flags='1' name='maxdepth' />
   <event time='11:29 min' type='18' flags='2' name='maxdepth' />
-  <event time='11:39 min' type='18' flags='1' name='maxdepth' />
-  <event time='11:43 min' type='18' flags='2' name='maxdepth' />
   <event time='11:44 min' type='18' flags='1' name='maxdepth' />
-  <event time='11:45 min' type='18' flags='2' name='maxdepth' />
-  <event time='11:50 min' type='18' flags='1' name='maxdepth' />
-  <event time='12:12 min' type='18' flags='2' name='maxdepth' />
-  <event time='12:37 min' type='18' flags='1' name='maxdepth' />
   <event time='13:09 min' type='18' flags='2' name='maxdepth' />
   <event time='13:16 min' type='18' flags='1' name='maxdepth' />
-  <event time='13:19 min' type='18' flags='2' name='maxdepth' />
-  <event time='13:35 min' type='18' flags='1' name='maxdepth' />
   <event time='15:48 min' type='18' flags='2' name='maxdepth' />
   <event time='19:22 min' type='3' flags='1' name='ascent' />
   <event time='19:26 min' type='3' flags='2' name='ascent' />
-  <event time='19:45 min' type='3' flags='1' name='ascent' />
-  <event time='19:48 min' type='3' flags='2' name='ascent' />
   <event time='21:05 min' type='3' flags='1' name='ascent' />
   <event time='21:09 min' type='3' flags='2' name='ascent' />
-  <event time='28:30 min' type='24' flags='1' name='tissue level warning' />
   <event time='28:30 min' type='9' name='surface' />
+  <event time='28:30 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.25 m' temp='24.0 C' />
   <sample time='0:20 min' depth='4.37 m' />
   <sample time='0:40 min' depth='8.2 m' />
@@ -50061,8 +50034,8 @@ I was queasy all day after this dive. I suspect some of it was dehydration I nee
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='47:46 min' type='24' flags='1' name='tissue level warning' />
   <event time='47:46 min' type='9' name='surface' />
+  <event time='47:46 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.3 m' temp='23.0 C' />
   <sample time='0:20 min' depth='4.03 m' />
   <sample time='0:40 min' depth='6.33 m' />
@@ -50219,8 +50192,8 @@ I was queasy all day after this dive. I suspect some of it was dehydration I nee
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='57:16 min' type='24' flags='1' name='tissue level warning' />
   <event time='57:16 min' type='9' name='surface' />
+  <event time='57:16 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.29 m' temp='24.0 C' />
   <sample time='0:20 min' depth='3.54 m' />
   <sample time='0:40 min' depth='6.94 m' temp='23.0 C' />
@@ -50410,8 +50383,8 @@ I was queasy all day after this dive. I suspect some of it was dehydration I nee
   <event time='0:00 min' type='9' name='surface' />
   <event time='27:55 min' type='3' flags='1' name='ascent' />
   <event time='27:57 min' type='3' flags='2' name='ascent' />
-  <event time='44:16 min' type='24' flags='1' name='tissue level warning' />
   <event time='44:16 min' type='9' name='surface' />
+  <event time='44:16 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.27 m' temp='23.0 C' />
   <sample time='0:20 min' depth='3.66 m' />
   <sample time='0:40 min' depth='5.56 m' />
@@ -50574,8 +50547,8 @@ The Bajo de Dentro is a submarine mountain that rises from 40 meters deep to a m
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='48:40 min' type='24' flags='1' name='tissue level warning' />
   <event time='48:40 min' type='9' name='surface' />
+  <event time='48:40 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.33 m' temp='23.0 C' />
   <sample time='0:20 min' depth='2.38 m' />
   <sample time='0:40 min' depth='3.69 m' />
@@ -50742,8 +50715,8 @@ A storm was comming in today at about 11:00. With high winds and heavy rain. It 
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='28:24 min' type='24' flags='1' name='tissue level warning' />
   <event time='28:24 min' type='9' name='surface' />
+  <event time='28:24 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.25 m' temp='24.0 C' />
   <sample time='0:20 min' depth='3.41 m' temp='23.0 C' />
   <sample time='0:40 min' depth='6.75 m' />
@@ -51271,8 +51244,8 @@ A storm was comming in today at about 11:00. With high winds and heavy rain. It 
   <event time='8:24 min' type='18' flags='2' name='maxdepth' />
   <event time='10:31 min' type='18' flags='1' name='maxdepth' />
   <event time='11:07 min' type='18' flags='2' name='maxdepth' />
-  <event time='37:42 min' type='24' flags='1' name='tissue level warning' />
   <event time='37:42 min' type='9' name='surface' />
+  <event time='37:42 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.49 m' temp='24.0 C' />
   <sample time='0:20 min' depth='5.27 m' />
   <sample time='0:40 min' depth='9.34 m' temp='23.0 C' />
@@ -51591,20 +51564,14 @@ A storm was comming in today at about 11:00. With high winds and heavy rain. It 
   <event time='4:41 min' type='18' flags='2' name='maxdepth' />
   <event time='5:38 min' type='18' flags='1' name='maxdepth' />
   <event time='6:09 min' type='18' flags='2' name='maxdepth' />
-  <event time='6:15 min' type='18' flags='1' name='maxdepth' />
-  <event time='6:25 min' type='18' flags='2' name='maxdepth' />
-  <event time='6:30 min' type='18' flags='1' name='maxdepth' />
-  <event time='6:43 min' type='18' flags='2' name='maxdepth' />
   <event time='6:44 min' type='18' flags='1' name='maxdepth' />
-  <event time='6:57 min' type='18' flags='2' name='maxdepth' />
   <event time='10:39 min' type='18' flags='1' name='maxdepth' />
   <event time='11:06 min' type='18' flags='2' name='maxdepth' />
   <event time='14:58 min' type='18' flags='1' name='maxdepth' />
   <event time='15:05 min' type='18' flags='2' name='maxdepth' />
-  <event time='31:56 min' type='24' flags='1' name='tissue level warning' />
   <event time='31:56 min' type='9' name='surface' />
+  <event time='31:56 min' type='24' flags='1' name='tissue level warning' />
   <event time='32:07 min' type='24' flags='2' name='tissue level warning' />
-  <event time='32:11 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.66 m' temp='24.0 C' />
   <sample time='0:20 min' depth='4.39 m' temp='23.0 C' />
   <sample time='0:40 min' depth='7.31 m' />
@@ -51725,8 +51692,8 @@ Yoke practiced here DSMB after we did a safety stop at the 5m underwater blue o2
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='52:13 min' type='24' flags='1' name='tissue level warning' />
   <event time='52:13 min' type='9' name='surface' />
+  <event time='52:13 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.36 m' temp='24.0 C' />
   <sample time='0:20 min' depth='2.83 m' />
   <sample time='0:40 min' depth='4.86 m' />
@@ -51907,8 +51874,6 @@ This is a shallow reef area with two large pinacles and lots of small pinacles a
   <event time='1:10 min' type='15' flags='1' name='ceiling (safety stop)' />
   <event time='1:21 min' type='15' flags='2' name='ceiling (safety stop)' />
   <event time='1:21 min' type='9' name='surface' />
-  <event time='1:26 min' type='15' flags='1' name='ceiling (safety stop)' />
-  <event time='1:33 min' type='15' flags='2' name='ceiling (safety stop)' />
   <event time='52:23 min' type='9' name='surface' />
   <sample time='0:00 min' depth='1.54 m' temp='24.0 C' />
   <sample time='0:20 min' depth='5.39 m' />
@@ -52438,8 +52403,8 @@ We did stop in the blue and then had to catch a long line the crew threw out we 
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' o2='31.0%' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='57:54 min' type='24' flags='1' name='tissue level warning' />
   <event time='57:54 min' type='9' name='surface' />
+  <event time='57:54 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.23 m' temp='24.0 C' />
   <sample time='0:20 min' depth='5.1 m' />
   <sample time='0:40 min' depth='9.74 m' />
@@ -52633,14 +52598,10 @@ Stronger current that increased at the half way point by gorgonian fans.The wall
   <event time='0:00 min' type='9' name='surface' />
   <event time='12:29 min' type='18' flags='1' name='maxdepth' />
   <event time='12:39 min' type='18' flags='2' name='maxdepth' />
-  <event time='12:49 min' type='18' flags='1' name='maxdepth' />
-  <event time='12:59 min' type='18' flags='2' name='maxdepth' />
   <event time='13:46 min' type='18' flags='1' name='maxdepth' />
   <event time='13:50 min' type='18' flags='2' name='maxdepth' />
-  <event time='14:06 min' type='18' flags='1' name='maxdepth' />
-  <event time='14:28 min' type='18' flags='2' name='maxdepth' />
-  <event time='44:38 min' type='24' flags='1' name='tissue level warning' />
   <event time='44:38 min' type='9' name='surface' />
+  <event time='44:38 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.27 m' temp='24.0 C' />
   <sample time='0:20 min' depth='2.66 m' />
   <sample time='0:40 min' depth='5.34 m' />
@@ -52987,8 +52948,8 @@ We started following guide and at some point lost the guide. We assumed we were 
   <event time='0:00 min' type='9' name='surface' />
   <event time='39:33 min' type='3' flags='1' name='ascent' />
   <event time='39:34 min' type='3' flags='2' name='ascent' />
-  <event time='45:08 min' type='24' flags='1' name='tissue level warning' />
   <event time='45:08 min' type='9' name='surface' />
+  <event time='45:08 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.3 m' temp='23.0 C' />
   <sample time='0:20 min' depth='3.11 m' />
   <sample time='0:40 min' depth='5.32 m' />
@@ -53137,8 +53098,8 @@ We started following guide and at some point lost the guide. We assumed we were 
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' o2='32.0%' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='35:00 min' type='24' flags='1' name='tissue level warning' />
   <event time='35:00 min' type='9' name='surface' />
+  <event time='35:00 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.77 m' temp='22.0 C' />
   <sample time='0:20 min' depth='6.31 m' />
   <sample time='0:40 min' depth='10.77 m' />
@@ -54550,8 +54511,8 @@ First dive after two days resting with leftr ear ache and possible cold. Wasn't 
   <event time='18:04 min' type='18' flags='2' name='maxdepth' />
   <event time='19:01 min' type='3' flags='1' name='ascent' />
   <event time='19:02 min' type='3' flags='2' name='ascent' />
-  <event time='47:31 min' type='24' flags='1' name='tissue level warning' />
   <event time='47:31 min' type='9' name='surface' />
+  <event time='47:31 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.24 m' temp='25.0 C' />
   <sample time='0:20 min' depth='4.39 m' />
   <sample time='0:40 min' depth='4.74 m' />
@@ -54715,9 +54676,8 @@ First dive after two days resting with leftr ear ache and possible cold. Wasn't 
   <event time='21:36 min' type='16' flags='1' name='below floor' />
   <event time='26:36 min' type='16' flags='2' name='below floor' />
   <event time='26:56 min' type='16' flags='1' name='below floor' />
-  <event time='27:16 min' type='16' flags='2' name='below floor' />
-  <event time='37:02 min' type='24' flags='1' name='tissue level warning' />
   <event time='37:02 min' type='9' name='surface' />
+  <event time='37:02 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.51 m' temp='25.0 C' />
   <sample time='0:20 min' depth='5.76 m' />
   <sample time='0:40 min' depth='9.1 m' temp='24.0 C' />
@@ -54845,8 +54805,8 @@ First dive after two days resting with leftr ear ache and possible cold. Wasn't 
   <event time='0:00 min' type='9' name='surface' />
   <event time='20:42 min' type='18' flags='1' name='maxdepth' />
   <event time='20:51 min' type='18' flags='2' name='maxdepth' />
-  <event time='50:57 min' type='24' flags='1' name='tissue level warning' />
   <event time='50:57 min' type='9' name='surface' />
+  <event time='50:57 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.44 m' temp='26.0 C' />
   <sample time='0:20 min' depth='3.64 m' />
   <sample time='0:40 min' depth='4.48 m' temp='25.0 C' />
@@ -55005,6 +54965,23 @@ First dive after two days resting with leftr ear ache and possible cold. Wasn't 
 <dive number='161' rating='2' sac='19.982 l/min' otu='6' cns='3%' divesiteid='eacaa3d2' date='2024-07-31' time='09:06:24' duration='45:00 min'>
   <divemaster>Carlos</divemaster>
   <buddy>Yoke Wong</buddy>
+  <notes>The dive boat engine continued to cut out as it has done on previous dives. Operator didn't see to worry about it.
+
+We were going to see the orange coral which is being actively managed and encourages to grow. Two people who were on our boat were involved in the marin park and conservation. 
+
+Visibility 15-20m
+
+Followed dive gude to zipped off ahead, hard to keep up
+
+Go to lowest point of dive where the orange coral could be found. The current was higher here and had to finger it back into shelter
+
+On the way back I over exerted myself trying to keep up with DM. I started to feel panic and strong urge to swim to the surface. I stopped and let my camera dangle and concentrated on breathing. It took a minute or two but the panic and needing air subsided. I stuck with Yoke and gave up following the DM. 
+
+I am proud I handled this situation and kept under control not making it worse. I should not have tried to keep up with DM. We could always send up DSMB and slowly come up if lost. So there is no need to keep up.
+
+Rest of the dive was uneventful.
+
+15l steel tank</notes>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15ℓ 232 bar' start='200.0 bar' end='50.0 bar' />
   <weightsystem weight='4.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='f37fbc4a'>
@@ -55013,8 +54990,8 @@ First dive after two days resting with leftr ear ache and possible cold. Wasn't 
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='45:15 min' type='24' flags='1' name='tissue level warning' />
   <event time='45:15 min' type='9' name='surface' />
+  <event time='45:15 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.41 m' temp='27.0 C' />
   <sample time='0:20 min' depth='3.34 m' />
   <sample time='0:40 min' depth='4.36 m' />
@@ -55153,9 +55130,14 @@ First dive after two days resting with leftr ear ache and possible cold. Wasn't 
   <sample time='45:00 min' depth='3.06 m' />
   </divecomputer>
 </dive>
-<dive number='162' rating='2' sac='15.955 l/min' otu='5' cns='4%' divesiteid='eacaa3d2' date='2024-07-31' time='11:30:44' duration='44:40 min'>
+<dive number='162' rating='2' sac='15.955 l/min' otu='5' cns='5%' divesiteid='eacaa3d2' date='2024-07-31' time='11:30:44' duration='44:40 min'>
   <divemaster>Carlos</divemaster>
   <buddy>Yoke Wong</buddy>
+  <notes>Another dive where DM raced away, we didn't try to catch up
+
+The route was following an anchor from reef/rocks perpendicual out into the blue and eventually reaching a small rocky outcrop. This was mostly unremarkable except for two eels in one whole. 
+
+We would have preferred to dive elsewhere as this wasn't worth the effort.</notes>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15ℓ 232 bar' start='200.0 bar' end='80.0 bar' />
   <weightsystem weight='4.0 kg' description='belt' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='807ff354'>
@@ -55164,8 +55146,8 @@ First dive after two days resting with leftr ear ache and possible cold. Wasn't 
   <extradata key='Serial' value='83670606' />
   <event time='0:00 min' type='25' flags='1' name='gaschange' cylinder='0' />
   <event time='0:00 min' type='9' name='surface' />
-  <event time='44:51 min' type='24' flags='1' name='tissue level warning' />
   <event time='44:51 min' type='9' name='surface' />
+  <event time='44:51 min' type='24' flags='1' name='tissue level warning' />
   <sample time='0:00 min' depth='1.39 m' temp='27.0 C' />
   <sample time='0:20 min' depth='4.97 m' temp='26.0 C' />
   <sample time='0:40 min' depth='8.57 m' />
