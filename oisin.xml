@@ -13,6 +13,8 @@
 </site>
 <site uuid=' 67b9326' name='Bajo de dentro, Cabo de Palos, Murcia, Spain'>
 </site>
+<site uuid=' b05e20e' name='Gotta Abu Ramada, Red Sea, Eqypt'>
+</site>
 <site uuid=' c96cc4f' name='Eel Garden 1, Mabul, Malaysia.'>
 </site>
 <site uuid=' d8e136f' name='Cañones, Xcalak, Mexico'>
@@ -56,6 +58,8 @@
 <site uuid='2826b0dd' name='Paso del Cedral, Cozumel, Mexico.'>
 </site>
 <site uuid='2c8576cc' name='Thistlegorm, Red Sea, Egypt.' gps='27.767418 33.860162'>
+</site>
+<site uuid='2c8576cd' name='Thistlegorm, Red Sea, Egypt.'>
 </site>
 <site uuid='2e0ef7a3' name='Bluff point, Egypt' gps='27.675682 33.801954'>
 </site>
@@ -113,6 +117,8 @@
 <site uuid='4fb506ea' name='Southpoint, Sipadan, Malaysia'>
 </site>
 <site uuid='50e07bd3' name='Wrecks of the CBA. Tug, Harrier Jet plane and Helicopter'>
+</site>
+<site uuid='51278899' name='Hurghada, Egypt'>
 </site>
 <site uuid='5359e451' name='Mewstone, Plymouth, England.'>
 </site>
@@ -273,6 +279,13 @@
   <notes>Rough guess of the dive site's location. </notes>
 </site>
 <site uuid='dcc44007' name='Gota Abu Ramada, Red Sea, Egypt.' gps='16.557074 45.488421'>
+</site>
+<site uuid='dcc44008' name='Gota Abu Ramada, Red Sea, Egypt.' gps='16.557074 45.488421'>
+</site>
+<site uuid='dcc44009' name='Gota Abu Ramada, Red Sea, Egypt.' gps='16.557074 45.488421'>
+</site>
+<site uuid='dcc4400a' name='El Minya Wreck, Hurghada, Egypt' gps='27.225230 33.847170'>
+  <geo cat='2' origin='2' value='Egypt'/>
 </site>
 <site uuid='dd20a5d0' name='Tuble Point, Moalboal, Cebu, Philippines.'>
 </site>
@@ -55285,7 +55298,9 @@ We would have preferred to dive elsewhere as this wasn't worth the effort.</note
   <sample time='44:40 min' depth='3.08 m' />
   </divecomputer>
 </dive>
-<dive number='163' date='2024-12-27' time='09:39:45' duration='54:00 min'>
+<dive number='163' tags='Egypt' date='2024-12-27' time='09:39:45' duration='54:00 min'>
+  <divemaster>Ahmed</divemaster>
+  <buddy>Ahmed</buddy>
   <cylinder size='10.0 l' description='10.0ℓ' depth='65.378 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='a0fe6855'>
   <depth max='11.48 m' mean='8.245 m' />
@@ -55462,6 +55477,8 @@ We would have preferred to dive elsewhere as this wasn't worth the effort.</note
   </divecomputer>
 </dive>
 <dive number='164' otu='17' cns='6%' date='2024-12-28' time='07:48:17' duration='33:40 min'>
+  <divemaster>Ahmed</divemaster>
+  <buddy>Yoke Wong</buddy>
   <cylinder size='10.0 l' description='10.0ℓ' o2='28.0%' depth='46.525 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='d9c8afb3'>
   <depth max='27.09 m' mean='15.871 m' />
@@ -55575,7 +55592,9 @@ We would have preferred to dive elsewhere as this wasn't worth the effort.</note
   <sample time='33:40 min' depth='2.07 m' />
   </divecomputer>
 </dive>
-<dive number='165' otu='9' cns='5%' date='2024-12-28' time='11:52:40' duration='42:20 min'>
+<dive number='165' otu='9' cns='6%' divesiteid='dcc44009' date='2024-12-28' time='11:52:40' duration='42:20 min'>
+  <divemaster>Ahmed</divemaster>
+  <buddy>Yoke Wong</buddy>
   <cylinder size='10.0 l' description='10.0ℓ' o2='29.0%' depth='44.575 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='ba31bf0c'>
   <depth max='15.18 m' mean='9.822 m' />
@@ -55714,7 +55733,9 @@ We would have preferred to dive elsewhere as this wasn't worth the effort.</note
   <sample time='42:20 min' depth='4.18 m' />
   </divecomputer>
 </dive>
-<dive number='166' otu='25' cns='8%' date='2024-12-28' time='14:36:04' duration='30:40 min'>
+<dive number='166' rating='4' otu='25' cns='11%' tags='Egypt, wreck' divesiteid='dcc4400a' date='2024-12-28' time='14:36:04' duration='30:40 min'>
+  <divemaster>Ahmed</divemaster>
+  <buddy>Yoke Wong</buddy>
   <cylinder size='10.0 l' description='10.0ℓ' o2='31.0%' depth='41.052 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='3b3757df'>
   <depth max='28.96 m' mean='18.911 m' />
@@ -55957,7 +55978,7 @@ We would have preferred to dive elsewhere as this wasn't worth the effort.</note
   <sample time='41:40 min' depth='1.68 m' />
   </divecomputer>
 </dive>
-<dive number='168' otu='19' cns='7%' date='2024-12-29' time='10:44:58' duration='58:40 min'>
+<dive number='168' otu='19' cns='10%' date='2024-12-29' time='10:44:58' duration='58:40 min'>
   <cylinder size='10.0 l' description='10.0ℓ' o2='30.0%' depth='42.754 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='b9a5104f'>
   <depth max='17.73 m' mean='10.63 m' />
@@ -56634,7 +56655,7 @@ We would have preferred to dive elsewhere as this wasn't worth the effort.</note
   <sample time='46:40 min' depth='2.97 m' />
   </divecomputer>
 </dive>
-<dive number='172' otu='30' cns='11%' date='2024-12-31' time='08:38:40' duration='55:40 min'>
+<dive number='172' otu='30' cns='14%' date='2024-12-31' time='08:38:40' duration='55:40 min'>
   <cylinder size='10.0 l' description='10.0ℓ' o2='32.0%' depth='39.458 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='6fd63d11'>
   <depth max='19.81 m' mean='13.23 m' />
@@ -56814,7 +56835,8 @@ We would have preferred to dive elsewhere as this wasn't worth the effort.</note
   <sample time='55:40 min' depth='1.92 m' />
   </divecomputer>
 </dive>
-<dive number='173' otu='27' cns='11%' date='2024-12-31' time='11:07:45' duration='62:00 min'>
+<dive number='173' otu='27' cns='18%' tags='nightdive, Egypt' date='2024-12-31' time='11:07:45' duration='62:00 min'>
+  <buddy>Yoke Wong</buddy>
   <cylinder size='10.0 l' description='10.0ℓ' o2='33.0%' depth='37.954 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='0c9c549d'>
   <depth max='19.29 m' mean='10.697 m' />
@@ -57013,7 +57035,9 @@ We would have preferred to dive elsewhere as this wasn't worth the effort.</note
   <sample time='62:00 min' depth='1.61 m' />
   </divecomputer>
 </dive>
-<dive number='174' otu='28' cns='9%' date='2025-01-01' time='05:15:08' duration='38:20 min'>
+<dive number='174' otu='28' cns='9%' tags='Egypt' divesiteid='1602ca73' date='2025-01-01' time='05:15:08' duration='38:20 min'>
+  <divemaster>Ahmed</divemaster>
+  <buddy>Yoke Wong</buddy>
   <cylinder size='10.0 l' description='10.0ℓ' o2='31.0%' depth='41.052 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='bee0edc2'>
   <depth max='24.95 m' mean='17.287 m' />
@@ -57144,7 +57168,8 @@ We would have preferred to dive elsewhere as this wasn't worth the effort.</note
   <sample time='38:20 min' depth='1.36 m' />
   </divecomputer>
 </dive>
-<dive number='175' otu='10' cns='6%' date='2025-01-01' time='10:32:36' duration='52:40 min'>
+<dive number='175' rating='3' otu='10' cns='7%' tags='Egypt, wreck' divesiteid='5a40fb71' date='2025-01-01' time='10:32:36' duration='52:40 min'>
+  <buddy>Yoke Wong</buddy>
   <cylinder size='10.0 l' description='10.0ℓ' o2='32.0%' depth='39.458 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='f178af71'>
   <depth max='11.22 m' mean='7.327 m' />
@@ -57314,7 +57339,8 @@ We would have preferred to dive elsewhere as this wasn't worth the effort.</note
   <sample time='52:40 min' depth='1.47 m' />
   </divecomputer>
 </dive>
-<dive number='176' otu='8' cns='4%' date='2025-01-01' time='12:39:12' duration='30:40 min'>
+<dive number='176' rating='2' otu='8' cns='8%' divesiteid='5a40fb71' date='2025-01-01' time='12:39:12' duration='30:40 min'>
+  <buddy>Yoke Wong</buddy>
   <cylinder size='10.0 l' description='10.0ℓ' o2='32.0%' depth='39.458 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='5815b834'>
   <depth max='11.3 m' mean='8.62 m' />
