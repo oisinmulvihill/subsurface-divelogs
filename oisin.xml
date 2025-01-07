@@ -319,7 +319,7 @@
 </site>
 <site uuid='e9f2fc3e' name='Malbul House Reef, Malbul, Malaysia.'>
 </site>
-<site uuid='eacaa3d2' name='La Herradura, Spain'>
+<site uuid='eacaa3d2' name='La Herradura, Spain' gps='36.720519 -3.728173'>
 </site>
 <site uuid='ef40daa2' name='Shore dive 2, Cabo de Palos, Spain'>
 </site>
@@ -56382,7 +56382,7 @@ Visibility was not as good as previous times here and there seemed to be less fi
   <sample time='59:00 min' depth='1.82 m' temp='24.0 C' />
   </divecomputer>
 </dive>
-<dive number='170' rating='3' otu='4' cns='3%' tags='nightdive, Egypt' divesiteid='ce4da51a' date='2024-12-30' time='16:55:54' duration='44:40 min'>
+<dive number='170' rating='3' otu='4' cns='3%' tags='Egypt, nightdive' divesiteid='ce4da51a' date='2024-12-30' time='16:55:54' duration='44:40 min'>
   <buddy>Yoke Wong</buddy>
   <cylinder size='10.0 l' description='10.0ℓ' o2='32.0%' depth='39.458 m' />
   <divecomputer model='Suunto Zoop Novo' deviceid='105f4e78' diveid='4b986ead'>
